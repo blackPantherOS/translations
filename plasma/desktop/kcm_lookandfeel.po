@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-02-17 07:47+0100\n"
-"PO-Revision-Date: 2015-03-26 12:21+0100\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 21:14+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -40,7 +40,7 @@ msgstr "Marco Martin"
 #: kcm.cpp:112
 #, kde-format
 msgid "Download New Look And Feel Packages"
-msgstr ""
+msgstr "Új megjelenési témák letöltése"
 
 #: kcm.cpp:475
 #, kde-format
@@ -62,22 +62,20 @@ msgstr ""
 "néhány kész összeállítással."
 
 #: package/contents/ui/main.qml:42
-#, fuzzy, kde-format
-#| msgid ""
-#| "Select an overall look and feel theme for your workspace (including "
-#| "splash screen, lock screen etc.) and applications"
+#, kde-format
 msgid ""
 "Select an overall theme for your workspace (including plasma theme, color "
 "scheme, mouse cursor, window and desktop switcher, splash screen, lock "
 "screen etc.)"
 msgstr ""
-"Válasszon ki egy teljes megjelenést a környezetének (a töltőképernyőt, "
-"zárképernyőt, stb) és alkalmazásainak"
+"Válasszon ki egy teljes megjelenést a munkakörnyezetének (beleértve a "
+"plasma-téma, színséma, egérmutató, ablak és asztalváltó, nyitóképernyőt, "
+"zárképernyőt, stb.) "
 
 #: package/contents/ui/main.qml:154
 #, kde-format
 msgid "Test Splashscreen"
-msgstr ""
+msgstr "Nyitókép tesztelése"
 
 #: package/contents/ui/main.qml:174
 #, kde-format
@@ -85,8 +83,10 @@ msgid ""
 "Warning: your Plasma Desktop layout will be lost and reset to the default "
 "layout provided by the selected theme."
 msgstr ""
+"Figyelmeztetés: A Plasma asztal elrendezése el fog veszni és visszaáll az "
+"alapértelmezett értékekre a kiválasztott téma miatt."
 
 #: package/contents/ui/main.qml:191
 #, kde-format
 msgid "Use Desktop Layout from theme"
-msgstr ""
+msgstr "Az asztali elrendezés használata a témából"

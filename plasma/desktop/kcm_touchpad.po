@@ -7,165 +7,166 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-02-12 07:49+0100\n"
-"PO-Revision-Date: 2014-01-23 00:15+0100\n"
-"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"PO-Revision-Date: 2017-04-03 21:51+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Úr Balázs"
+msgstr "Úr Balázs, Charles K Barcza"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "urbalazs@gmail.com"
+msgstr "urbalazs@gmail.com, info@blackpanther.hu"
 
 #: src/backends/x11/xlibbackend.cpp:84
 #, kde-format
 msgid "Cannot connect to X server"
-msgstr ""
+msgstr "Nem lehet kapcsolódni az X szerverhez"
 
 #: src/backends/x11/xlibbackend.cpp:141
 #, kde-format
 msgid "Cannot apply touchpad configuration"
-msgstr ""
+msgstr "Nem lehetett alkalmazni az érintőtábla beállításokat"
 
 #: src/backends/x11/xlibbackend.cpp:155
 #, kde-format
 msgid "Cannot read touchpad configuration"
-msgstr ""
+msgstr "Nem lehet olvasni az érintőtábla beállításokat"
 
 #: src/kcm/testarea.cpp:36
 #, kde-format
 msgid "Drag me"
-msgstr ""
+msgstr "Húzzál"
 
 #: src/kcm/testbutton.cpp:40
 #, kde-format
 msgctxt "Mouse button"
 msgid "Left button"
-msgstr ""
+msgstr "Bal gomb"
 
 #: src/kcm/testbutton.cpp:43
 #, kde-format
 msgctxt "Mouse button"
 msgid "Right button"
-msgstr ""
+msgstr "Jobb gomb"
 
 #: src/kcm/testbutton.cpp:46
 #, kde-format
 msgctxt "Mouse button"
 msgid "Middle button"
-msgstr ""
+msgstr "Középső gomb"
 
 #. i18n: ectx: label, entry ($(TapAction)Button), group (parameters)
 #: src/kcm/touchpad.kcfg:27
 #, kde-format
 msgctxt "Emulated mouse button"
 msgid "No action"
-msgstr ""
+msgstr "Nincs művelet"
 
 #. i18n: ectx: label, entry ($(TapAction)Button), group (parameters)
 #: src/kcm/touchpad.kcfg:30
 #, kde-format
 msgctxt "Emulated mouse button"
 msgid "Left button"
-msgstr ""
+msgstr "Bal gomb"
 
 #. i18n: ectx: label, entry ($(TapAction)Button), group (parameters)
 #: src/kcm/touchpad.kcfg:33
 #, kde-format
 msgctxt "Emulated mouse button"
 msgid "Middle button"
-msgstr ""
+msgstr "Középső gomb"
 
 #. i18n: ectx: label, entry ($(TapAction)Button), group (parameters)
 #: src/kcm/touchpad.kcfg:36
 #, kde-format
 msgctxt "Emulated mouse button"
 msgid "Right button"
-msgstr ""
+msgstr "Jobb gomb"
 
 #. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
 #: src/kcm/touchpad.kcfg:285
 #, kde-format
 msgctxt "Touchpad Edge"
 msgid "All edges"
-msgstr ""
+msgstr "Minden szélen"
 
 #. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
 #: src/kcm/touchpad.kcfg:288
 #, kde-format
 msgctxt "Touchpad Edge"
 msgid "Top edge"
-msgstr ""
+msgstr "Felső szél"
 
 #. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
 #: src/kcm/touchpad.kcfg:291
 #, kde-format
 msgctxt "Touchpad Edge"
 msgid "Top right corner"
-msgstr ""
+msgstr "Jobb felső sarok"
 
 #. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
 #: src/kcm/touchpad.kcfg:294
 #, kde-format
 msgctxt "Touchpad Edge"
 msgid "Right edge"
-msgstr ""
+msgstr "Jobb szél"
 
 #. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
 #: src/kcm/touchpad.kcfg:297
 #, kde-format
 msgctxt "Touchpad Edge"
 msgid "Bottom right corner"
-msgstr ""
+msgstr "Jobb alsó sarok"
 
 #. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
 #: src/kcm/touchpad.kcfg:300
 #, kde-format
 msgctxt "Touchpad Edge"
 msgid "Bottom edge"
-msgstr ""
+msgstr "Alsó szél"
 
 #. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
 #: src/kcm/touchpad.kcfg:303
 #, kde-format
 msgctxt "Touchpad Edge"
 msgid "Bottom left corner"
-msgstr ""
+msgstr "Bal alsó sarok"
 
 #. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
 #: src/kcm/touchpad.kcfg:306
 #, kde-format
 msgctxt "Touchpad Edge"
 msgid "Left edge"
-msgstr ""
+msgstr "Bal szél"
 
 #. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
 #: src/kcm/touchpad.kcfg:309
 #, kde-format
 msgctxt "Touchpad Edge"
 msgid "Top left corner"
-msgstr ""
+msgstr "Top Left Corner"
 
 #: src/kcm/touchpadconfig.cpp:108
 #, kde-format
 msgid "Touchpad KCM"
-msgstr ""
+msgstr "KCM érintőtábla"
 
 #: src/kcm/touchpadconfig.cpp:110
 #, kde-format
 msgid ""
 "System Settings module, daemon and Plasma applet for managing your touchpad"
 msgstr ""
+"Rendszerbeállítások modul, démon és Plasma applet az érintőpad kezeléséhze"
 
 #: src/kcm/touchpadconfig.cpp:112
 #, kde-format
@@ -178,6 +179,8 @@ msgid ""
 "This program incorporates work covered by this copyright notice:\n"
 "Copyright © 2002-2005,2007 Peter Osterlund"
 msgstr ""
+"This program incorporates work covered by this copyright notice:\n"
+"Copyright © 2002-2005,2007 Peter Osterlund"
 
 #: src/kcm/touchpadconfig.cpp:118
 #, kde-format
@@ -244,11 +247,13 @@ msgid ""
 "Active settings don't match saved settings.\n"
 "You currently see saved settings."
 msgstr ""
+"Az aktív beállítások nem egyeznek a menetekkel.\n"
+"Jelenleg a mentett beállítások látszanak."
 
 #: src/kcm/touchpadconfig.cpp:150
 #, kde-format
 msgid "Show active settings"
-msgstr ""
+msgstr "Aktív beállítások megjelenítése"
 
 #: src/kcm/touchpadconfig.cpp:198
 #, kde-format
@@ -259,32 +264,32 @@ msgstr ""
 #: src/kcm/touchpadconfig.cpp:207 src/kcm/ui/kded.ui:14
 #, kde-format
 msgid "Enable/Disable Touchpad"
-msgstr ""
+msgstr "Érintőtábla be/kikapcsolása"
 
 #. i18n: ectx: property (text), widget (QPushButton, configureShortcutsButton)
 #. i18n: ectx: property (text), widget (QPushButton, configureNotificationsButton)
 #: src/kcm/ui/kded.ui:35 src/kcm/ui/kded.ui:146
 #, kde-format
 msgid "Configure"
-msgstr ""
+msgstr "Beállítások"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/kcm/ui/kded.ui:47
 #, kde-format
 msgid "Keyboard shortcuts:"
-msgstr ""
+msgstr "Gyorsbillentyűk:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_DisableOnKeyboardActivity)
 #: src/kcm/ui/kded.ui:60
 #, kde-format
 msgid "Disable touchpad when typing"
-msgstr ""
+msgstr "Kapcsolja ki az érintőpadot gépeléskor"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: src/kcm/ui/kded.ui:75
 #, kde-format
 msgid "Timeout:"
-msgstr ""
+msgstr "Várakozási idő:"
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_KeyboardActivityTimeoutMs)
 #: src/kcm/ui/kded.ui:86
@@ -303,7 +308,7 @@ msgstr ""
 #: src/kcm/ui/tap.ui:439 src/kcm/ui/tap.ui:458
 #, kde-format
 msgid " ms"
-msgstr ""
+msgstr " ms"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_OnlyDisableTapAndScrollOnKeyboardActivity)
 #: src/kcm/ui/kded.ui:106
@@ -318,25 +323,25 @@ msgstr ""
 #: src/kcm/ui/kded.ui:109
 #, kde-format
 msgid "Disable taps and scrolling only"
-msgstr ""
+msgstr "Érintés kikapcsolása, csak görgetés"
 
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_DisableWhenMousePluggedIn)
 #: src/kcm/ui/kded.ui:119
 #, kde-format
 msgid "Disable touchpad when mouse is plugged in"
-msgstr ""
+msgstr "Az érintőtábla kikapcsolása amikor egy egér csatlakoztatva lett"
 
 #. i18n: ectx: property (text), widget (QLabel, notificationsLabel)
 #: src/kcm/ui/kded.ui:136
 #, kde-format
 msgid "Notifications:"
-msgstr ""
+msgstr "Értesítések:"
 
 #. i18n: ectx: property (text), widget (QLabel, ignoredDevLabel)
 #: src/kcm/ui/kded.ui:158
 #, kde-format
 msgid "Ignored devices:"
-msgstr ""
+msgstr "Mellőzött eszközök:"
 
 #. i18n: ectx: property (toolTip), widget (KEditListWidget, kcfg_MouseBlacklist)
 #: src/kcm/ui/kded.ui:169
@@ -351,47 +356,47 @@ msgstr ""
 #: src/kcm/ui/pointermotion.ui:14
 #, kde-format
 msgid "Pointer Motion"
-msgstr ""
+msgstr "Mutató mozgás"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: src/kcm/ui/pointermotion.ui:20
 #, kde-format
 msgctxt "Mouse pointer motion parameters"
 msgid "Speed"
-msgstr ""
+msgstr "Sebesség"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/kcm/ui/pointermotion.ui:29
 #, kde-format
 msgctxt "Minimum pointer movement speed"
 msgid "Minimum:"
-msgstr ""
+msgstr "Minimum:"
 
 #. i18n: ectx: property (toolTip), widget (CustomSlider, kcfg_MinSpeed)
 #: src/kcm/ui/pointermotion.ui:39
 #, kde-format
 msgid "Minimum pointer speed"
-msgstr ""
+msgstr "Minimális mutató sebesség"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: src/kcm/ui/pointermotion.ui:52
 #, kde-format
 msgctxt "Maximum pointer movement speed"
 msgid "Maximum:"
-msgstr ""
+msgstr "Maximális:"
 
 #. i18n: ectx: property (toolTip), widget (CustomSlider, kcfg_MaxSpeed)
 #: src/kcm/ui/pointermotion.ui:62
 #, kde-format
 msgid "Maximum pointer speed"
-msgstr ""
+msgstr "Maximális mutató sebesség"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: src/kcm/ui/pointermotion.ui:75
 #, kde-format
 msgctxt "Pointer acceleration"
 msgid "Acceleration:"
-msgstr ""
+msgstr "Gyorsulás:"
 
 #. i18n: ectx: property (toolTip), widget (CustomSlider, kcfg_AccelFactor)
 #: src/kcm/ui/pointermotion.ui:85
@@ -401,38 +406,38 @@ msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
 #: src/kcm/ui/pointermotion.ui:101
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "Pointer motion"
 msgid "Pressure-Dependent Motion"
-msgstr ""
+msgstr "&Nyomás:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: src/kcm/ui/pointermotion.ui:113
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "Pressure-dependent pointer motion"
 msgid "Minimum pressure:"
-msgstr ""
+msgstr "&Nyomás:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: src/kcm/ui/pointermotion.ui:123
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "Pressure-dependent pointer motion"
 msgid "Minimum factor:"
-msgstr ""
+msgstr "Minimum"
 
 #. i18n: ectx: property (text), widget (QLabel, label_8)
 #: src/kcm/ui/pointermotion.ui:133
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "Pressure-dependent pointer motion"
 msgid "Maximum pressure:"
-msgstr ""
+msgstr "&Nyomás:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_9)
 #: src/kcm/ui/pointermotion.ui:143
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "Pressure-dependent pointer motion"
 msgid "Maximum factor:"
-msgstr ""
+msgstr "_Szorzó:"
 
 #. i18n: ectx: property (toolTip), widget (QSlider, kcfg_PressureMotionMinZ)
 #: src/kcm/ui/pointermotion.ui:153
@@ -460,24 +465,24 @@ msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: src/kcm/ui/pointermotion.ui:202
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "Pointer motion"
 msgid "Noise Cancellation"
-msgstr ""
+msgstr "&Lemondási értesítés a résztvevőknek"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: src/kcm/ui/pointermotion.ui:214
 #, kde-format
 msgctxt "Noise cancellation"
 msgid "Vertical:"
-msgstr ""
+msgstr "Függőleges:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: src/kcm/ui/pointermotion.ui:224
 #, kde-format
 msgctxt "Noise cancellation"
 msgid "Horizontal:"
-msgstr ""
+msgstr "Vízszintes:"
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_VertHysteresis)
 #: src/kcm/ui/pointermotion.ui:234
@@ -491,7 +496,7 @@ msgstr ""
 #: src/kcm/ui/pointermotion.ui:243 src/kcm/ui/pointermotion.ui:259
 #, kde-format
 msgid " units"
-msgstr ""
+msgstr "egységek"
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_HorizHysteresis)
 #: src/kcm/ui/pointermotion.ui:250
@@ -504,13 +509,13 @@ msgstr ""
 #: src/kcm/ui/scroll.ui:14
 #, kde-format
 msgid "Scrolling"
-msgstr ""
+msgstr "Görgetés"
 
 #. i18n: ectx: property (text), widget (QLabel, label_8)
 #: src/kcm/ui/scroll.ui:28
 #, kde-format
 msgid "Edge scrolling:"
-msgstr ""
+msgstr "Görgetés a széleken:"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_VertEdgeScroll)
 #: src/kcm/ui/scroll.ui:38
@@ -525,7 +530,7 @@ msgstr ""
 #, kde-format
 msgctxt "Scrolling direction"
 msgid "Vertical"
-msgstr ""
+msgstr "Függőleges"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_HorizEdgeScroll)
 #: src/kcm/ui/scroll.ui:48
@@ -540,7 +545,7 @@ msgstr ""
 #, kde-format
 msgctxt "Scrolling direction"
 msgid "Horizontal"
-msgstr ""
+msgstr "Vízszintes"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_VertTwoFingerScroll)
 #: src/kcm/ui/scroll.ui:58
@@ -562,39 +567,39 @@ msgstr ""
 #: src/kcm/ui/scroll.ui:78
 #, kde-format
 msgid "Reverse vertical scrolling"
-msgstr ""
+msgstr "Fordított függőleges görgetés"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_InvertHorizScroll)
 #: src/kcm/ui/scroll.ui:88
 #, kde-format
 msgid "Reverse horizontal scrolling"
-msgstr ""
+msgstr "Fordított vízszintes görgetés"
 
 #. i18n: ectx: property (text), widget (QLabel, label_9)
 #: src/kcm/ui/scroll.ui:98
 #, kde-format
 msgid "Two-finger scrolling:"
-msgstr ""
+msgstr "Két ujjas görgetés:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #: src/kcm/ui/scroll.ui:108
 #, kde-format
 msgid "Reverse scrolling:"
-msgstr ""
+msgstr "Fordított görgetés:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: src/kcm/ui/scroll.ui:126
 #, kde-format
 msgctxt "Touchpad - Scrolling"
 msgid "Scrolling Distance"
-msgstr ""
+msgstr "Görgetési távolság"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: src/kcm/ui/scroll.ui:138
 #, kde-format
 msgctxt "Scrolling distance"
 msgid "Vertical:"
-msgstr ""
+msgstr "Függőleges:"
 
 #. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, kcfg_VertScrollDelta)
 #. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, kcfg_HorizScrollDelta)
@@ -609,14 +614,14 @@ msgstr ""
 #: src/kcm/ui/scroll.ui:157 src/kcm/ui/scroll.ui:186 src/kcm/ui/tap.ui:417
 #, kde-format
 msgid " mm"
-msgstr ""
+msgstr " mm"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: src/kcm/ui/scroll.ui:167
 #, kde-format
 msgctxt "Scrolling distance"
 msgid "Horizontal:"
-msgstr ""
+msgstr "Vízszintes:"
 
 #. i18n: ectx: property (toolTip), widget (QGroupBox, kcfg_Coasting)
 #: src/kcm/ui/scroll.ui:199
@@ -637,7 +642,7 @@ msgstr ""
 #, kde-format
 msgctxt "Coasting"
 msgid "Minimum speed:"
-msgstr ""
+msgstr "Minimális sebesség:"
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_CoastingSpeed)
 #: src/kcm/ui/scroll.ui:227
@@ -651,7 +656,7 @@ msgstr ""
 #: src/kcm/ui/scroll.ui:233
 #, kde-format
 msgid " scrolls/sec"
-msgstr ""
+msgstr " görgetés/mp"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: src/kcm/ui/scroll.ui:240
@@ -670,13 +675,13 @@ msgstr ""
 #: src/kcm/ui/scroll.ui:256
 #, kde-format
 msgid " scrolls/sec²"
-msgstr ""
+msgstr " görgetés/mp²"
 
 #. i18n: ectx: property (text), widget (QLabel, label_11)
 #: src/kcm/ui/scroll.ui:263
-#, kde-format
+#, fuzzy, kde-format
 msgid "Corner coasting:"
-msgstr ""
+msgstr "Corner Point"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_CornerCoasting)
 #: src/kcm/ui/scroll.ui:273
@@ -690,7 +695,7 @@ msgstr ""
 #, kde-format
 msgctxt "Coasting"
 msgid "Enable"
-msgstr ""
+msgstr "Engedélyezés"
 
 #. i18n: ectx: property (toolTip), widget (QGroupBox, kcfg_CircularScrolling)
 #: src/kcm/ui/scroll.ui:288
@@ -706,14 +711,14 @@ msgstr ""
 #, kde-format
 msgctxt "Touchpad - Scrolling"
 msgid "Circular Scrolling"
-msgstr ""
+msgstr "Körkörös görgetés"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: src/kcm/ui/scroll.ui:306
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "Circular scrolling"
 msgid "Trigger region:"
-msgstr ""
+msgstr "Trigger terület:"
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_CircScrollTrigger)
 #: src/kcm/ui/scroll.ui:316
@@ -726,7 +731,7 @@ msgstr ""
 #, kde-format
 msgctxt "Circular scrolling"
 msgid "Angle:"
-msgstr ""
+msgstr "Szög:"
 
 #. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, kcfg_CircScrollDelta)
 #: src/kcm/ui/scroll.ui:345
@@ -753,14 +758,14 @@ msgstr ""
 #: src/kcm/ui/sensitivity.ui:14
 #, kde-format
 msgid "Sensitivity"
-msgstr ""
+msgstr "Érzékenység"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: src/kcm/ui/sensitivity.ui:20
 #, kde-format
 msgctxt "Touchpad"
 msgid "Sensitivity"
-msgstr ""
+msgstr "Érzékenység"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/kcm/ui/sensitivity.ui:29
@@ -802,21 +807,21 @@ msgstr ""
 #, kde-format
 msgctxt "Touchpad"
 msgid "Palm Detection"
-msgstr ""
+msgstr "Palm érzékelés"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: src/kcm/ui/sensitivity.ui:93
 #, kde-format
 msgctxt "Palm detection"
 msgid "Minimum width:"
-msgstr ""
+msgstr "Minimális szélesség:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: src/kcm/ui/sensitivity.ui:103
 #, kde-format
 msgctxt "Palm detection"
 msgid "Minimum pressure:"
-msgstr ""
+msgstr "Minimális nyomás:"
 
 #. i18n: ectx: property (toolTip), widget (QSlider, kcfg_PalmMinWidth)
 #: src/kcm/ui/sensitivity.ui:113
@@ -835,20 +840,20 @@ msgstr ""
 #, kde-format
 msgctxt "Touchpad gesture"
 msgid "Taps"
-msgstr ""
+msgstr "Érintések"
 
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_Tapping)
 #: src/kcm/ui/tap.ui:28
 #, kde-format
 msgid "Mouse Click Emulation"
-msgstr ""
+msgstr "Egérkattintás emuláció"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/kcm/ui/tap.ui:43
 #, kde-format
 msgctxt "Tapping"
 msgid "One finger:"
-msgstr ""
+msgstr "Egyujjas:"
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_OneFingerTapButton)
 #: src/kcm/ui/tap.ui:53
@@ -861,7 +866,7 @@ msgstr ""
 #, kde-format
 msgctxt "Tapping"
 msgid "Two fingers:"
-msgstr ""
+msgstr "Kétujjas:"
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_TwoFingerTapButton)
 #: src/kcm/ui/tap.ui:70
@@ -874,7 +879,7 @@ msgstr ""
 #, kde-format
 msgctxt "Tapping"
 msgid "Three fingers:"
-msgstr ""
+msgstr "Háromujjas:"
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_ThreeFingerTapButton)
 #: src/kcm/ui/tap.ui:87
@@ -887,14 +892,14 @@ msgstr ""
 #, kde-format
 msgctxt "Touchpad"
 msgid "Corners"
-msgstr ""
+msgstr "Sarkok"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: src/kcm/ui/tap.ui:131
 #, kde-format
 msgctxt "Touchpad corner"
 msgid "Top left:"
-msgstr ""
+msgstr "Bal felső:"
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_LTCornerButton)
 #: src/kcm/ui/tap.ui:144
@@ -907,14 +912,14 @@ msgstr ""
 #, kde-format
 msgctxt "Touchpad corner"
 msgid "Bottom left:"
-msgstr ""
+msgstr "Bal alsó:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: src/kcm/ui/tap.ui:164
 #, kde-format
 msgctxt "Touchpad corner"
 msgid "Top right:"
-msgstr ""
+msgstr "Jobb felső:"
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_LBCornerButton)
 #: src/kcm/ui/tap.ui:177
@@ -939,7 +944,7 @@ msgstr ""
 #, kde-format
 msgctxt "Touchpad corner"
 msgid "Bottom right:"
-msgstr ""
+msgstr "Jobb alsó:"
 
 #. i18n: ectx: property (toolTip), widget (QGroupBox, kcfg_TapAndDragGesture)
 #: src/kcm/ui/tap.ui:251
@@ -954,7 +959,7 @@ msgstr ""
 #: src/kcm/ui/tap.ui:254
 #, kde-format
 msgid "Tap-and-Drag Gesture"
-msgstr ""
+msgstr "Érintés-és-ejtés gesztus"
 
 #. i18n: ectx: property (toolTip), widget (QGroupBox, kcfg_LockedDrags)
 #: src/kcm/ui/tap.ui:266
@@ -969,14 +974,14 @@ msgstr ""
 #, kde-format
 msgctxt "Touchpad gesture"
 msgid "Locked Drags"
-msgstr ""
+msgstr "Zárolt megfogás"
 
 #. i18n: ectx: property (text), widget (QLabel, label_9)
 #: src/kcm/ui/tap.ui:284
 #, kde-format
 msgctxt "Locked drags"
 msgid "Timeout:"
-msgstr ""
+msgstr "Várakozási idő:"
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_LockedDragTimeout)
 #: src/kcm/ui/tap.ui:294
@@ -990,49 +995,49 @@ msgstr ""
 #: src/kcm/ui/tap.ui:325
 #, kde-format
 msgid "Tap Detection"
-msgstr ""
+msgstr "Érintés érzékelés"
 
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #: src/kcm/ui/tap.ui:340
 #, kde-format
 msgid "Maximum time:"
-msgstr ""
+msgstr "Maximális idő"
 
 #. i18n: ectx: property (text), widget (QLabel, label_11)
 #: src/kcm/ui/tap.ui:353
-#, kde-format
+#, fuzzy, kde-format
 msgid "Maximum finger movement:"
-msgstr ""
+msgstr "Maximális ujjáthelyezés:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_12)
 #: src/kcm/ui/tap.ui:366
 #, kde-format
 msgid "Maximum time for double tap:"
-msgstr ""
+msgstr "Maximális idő a dupla érintéshez:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_13)
 #: src/kcm/ui/tap.ui:379
 #, kde-format
 msgid "Single tap timeout:"
-msgstr ""
+msgstr "Egyszeres érintés időköze"
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_MaxTapTime)
 #: src/kcm/ui/tap.ui:389
 #, kde-format
 msgid "Maximum time (in milliseconds) for detecting a tap"
-msgstr ""
+msgstr "Maximális idő (ezredmásodpercben) az érintés érzékeléshez"
 
 #. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, kcfg_MaxTapMove)
 #: src/kcm/ui/tap.ui:408
-#, kde-format
+#, fuzzy, kde-format
 msgid "Maximum movement of the finger for detecting a tap"
-msgstr ""
+msgstr "Maximális idő (ezredmásodpercben) az érintés érzékeléshez"
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_MaxDoubleTapTime)
 #: src/kcm/ui/tap.ui:427
-#, kde-format
+#, fuzzy, kde-format
 msgid "Maximum time (in milliseconds) for detecting a double tap"
-msgstr ""
+msgstr "Maximális idő (ezredmásodpercben) az érintés érzékeléshez"
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_SingleTapTimeout)
 #: src/kcm/ui/tap.ui:446
@@ -1044,35 +1049,35 @@ msgstr ""
 #: src/kcm/ui/testarea.ui:20
 #, kde-format
 msgid "Testing area"
-msgstr ""
+msgstr "Próbaterület"
 
 #. i18n: ectx: property (text), widget (TestButton, pushButton)
 #: src/kcm/ui/testarea.ui:29
 #, kde-format
 msgid "Click me"
-msgstr ""
+msgstr "Kattints rám"
 
 #: src/kded/kded.cpp:218
 #, kde-format
 msgid "Touchpad was disabled because a mouse was plugged in"
-msgstr ""
+msgstr "Az érintőtábla ki lett kapcsolva mert egy egér csatlakoztatva lett"
 
 #: src/kded/kded.cpp:222
 #, kde-format
 msgid "Touchpad was enabled because the mouse was unplugged"
-msgstr ""
+msgstr "Az érintőtábla be lett kapcsolva mert az egér ki lett húzva"
 
 #: src/kded/kdedactions.cpp:35
 #, kde-format
 msgid "Enable Touchpad"
-msgstr ""
+msgstr "Érintőtábla bekapcsolása"
 
 #: src/kded/kdedactions.cpp:43
 #, kde-format
 msgid "Disable Touchpad"
-msgstr ""
+msgstr "Érintőtábla kikapcsolása"
 
 #: src/kded/kdedactions.cpp:51
 #, kde-format
 msgid "Toggle Touchpad"
-msgstr ""
+msgstr "Érintőtábla kapcsoló"

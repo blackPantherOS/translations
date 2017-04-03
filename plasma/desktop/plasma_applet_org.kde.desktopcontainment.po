@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: KDE 4.2\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-02-12 07:49+0100\n"
-"PO-Revision-Date: 2015-03-27 15:01+0100\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 21:40+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #: package/contents/config/config.qml:29
 #: package/contents/ui/ConfigLocation.qml:79
@@ -36,7 +36,7 @@ msgstr "Szűrő"
 
 #: package/contents/config/config.qml:50
 msgid "Tweaks"
-msgstr ""
+msgstr "Trükkök"
 
 #: package/contents/ui/AppletHandle.qml:104
 msgid "Resize"
@@ -84,28 +84,21 @@ msgstr "A kijelölés megszüntetése"
 
 #: package/contents/ui/ConfigIcons.qml:72
 msgid "Panel Button"
-msgstr ""
+msgstr "Panelgomb"
 
 #: package/contents/ui/ConfigIcons.qml:84
-#, fuzzy
-#| msgid "Custom title"
 msgid "Custom icon:"
-msgstr "Egyéni cím"
+msgstr "Egyéni ikon:"
 
 #: package/contents/ui/ConfigIcons.qml:117
-#, fuzzy
-#| msgctxt "@title:menu in Copy To or Move To submenu"
-#| msgid "Browse..."
 msgctxt "@item:inmenu Open icon chooser dialog"
 msgid "Choose..."
-msgstr "Tallózás..."
+msgstr "Választás..."
 
 #: package/contents/ui/ConfigIcons.qml:123
-#, fuzzy
-#| msgid "Sort Icons"
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Clear Icon"
-msgstr "Ikonrendezés"
+msgstr "Ikon törlése"
 
 #: package/contents/ui/ConfigIcons.qml:138
 msgid "Arrangement"
@@ -202,11 +195,11 @@ msgstr "Megjelenés"
 #: package/contents/ui/ConfigIcons.qml:247
 msgctxt "whether to use icon or list view"
 msgid "View Mode:"
-msgstr ""
+msgstr "Nézetmód:"
 
 #: package/contents/ui/ConfigIcons.qml:252
 msgid "List"
-msgstr ""
+msgstr "Listázás"
 
 #: package/contents/ui/ConfigIcons.qml:260
 msgid "Size:"
@@ -301,26 +294,25 @@ msgid ""
 "Tweaks are experimental options that may become defaults depending on your "
 "feedback."
 msgstr ""
+"Olyan trükkök amelyek még kísérleti fázisban vannak de a visszajelzésedtől "
+"függően lehetnek alapértelmezettek is."
 
 #: package/contents/ui/ConfigTweaks.qml:50
-#, fuzzy
-#| msgid "Desktop Folder"
 msgid "Desktop Layout"
-msgstr "Asztali mappa"
+msgstr "Asztalelrendezés"
 
 #: package/contents/ui/ConfigTweaks.qml:59
-#, fuzzy
-#| msgid "Show the Desktop folder"
 msgid "Show the desktop toolbox"
-msgstr "Az asztali mappa mutatása"
+msgstr "Az asztali eszköztár mutatása"
 
 #: package/contents/ui/ConfigTweaks.qml:67
 msgid "Widget Handling"
-msgstr ""
+msgstr "Widget-kezelés"
 
 #: package/contents/ui/ConfigTweaks.qml:77
 msgid "Press and hold widgets to move them and reveal their handles"
 msgstr ""
+"Lenyomva tartás a widgeteket a mozgatáshoz, és felfedi azok fogantyúit is "
 
 #: package/contents/ui/FolderItemPreviewPluginsDialog.qml:36
 msgid "Preview Plugins"
@@ -336,25 +328,24 @@ msgstr "Mégsem"
 
 #: package/contents/ui/main.qml:358
 msgid "Widgets unlocked"
-msgstr ""
+msgstr "Widgetek feloldva"
 
 #: package/contents/ui/main.qml:359
 msgid "You can press and hold widgets to move them and reveal their handles."
 msgstr ""
+"Tartsd lenyomva a widgeteket a mozgatáshoz, és felfedi azok fogantyúit is"
 
 #: package/contents/ui/main.qml:360
 msgid "Got it"
 msgstr "Értem"
 
 #: package/contents/ui/main.qml:567
-#, fuzzy
-#| msgid "&Refresh Desktop"
 msgid "Configure Desktop"
-msgstr "Az asztal &frissítése"
+msgstr "Az asztal beállítása"
 
 #: package/contents/ui/UpButtonItem.qml:105
 msgid "Up"
-msgstr ""
+msgstr "Fel"
 
 #: plugins/folder/directorypicker.cpp:45
 #, kde-format
@@ -455,8 +446,7 @@ msgid "Create &Folder..."
 msgstr "Köny&vtár létrehozása..."
 
 #: plugins/folder/internallibkonq/konq_popupmenu.cpp:275
-#, fuzzy, kde-format
-#| msgid "&Restore"
+#, kde-format
 msgid "&Restore"
 msgstr "&Visszaállítás"
 
@@ -511,10 +501,9 @@ msgid "&Properties"
 msgstr "&Tulajdonságok"
 
 #: plugins/folder/labelgenerator.cpp:97
-#, fuzzy, kde-format
-#| msgid "Show the Desktop folder"
+#, kde-format
 msgid "Desktop Folder"
-msgstr "Az asztali mappa mutatása"
+msgstr "Asztali mappa"
 
 #: plugins/folder/viewpropertiesmenu.cpp:31
 #, kde-format
@@ -537,30 +526,29 @@ msgid "Folders First"
 msgstr "Mappák előre"
 
 #: plugins/folder/viewpropertiesmenu.cpp:84
-#, fuzzy, kde-format
-#| msgid "Icon size:"
+#, kde-format
 msgid "Icon Size"
-msgstr "Ikonméret:"
+msgstr "Ikonméret"
 
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Tiny"
-msgstr ""
+msgstr "Apró"
 
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Small Medium"
-msgstr ""
+msgstr "Kicsi-közepes"
 
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Medium"
-msgstr ""
+msgstr "Közepes"
 
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Huge"
-msgstr ""
+msgstr "Hatalmas"
 
 #: plugins/folder/viewpropertiesmenu.cpp:97
 #, kde-format

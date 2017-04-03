@@ -6,15 +6,15 @@ msgstr ""
 "Project-Id-Version: KDE 4.1\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 22:53+0100\n"
-"PO-Revision-Date: 2010-11-18 17:42+0100\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 21:36+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.1\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #. i18n: ectx: property (text), widget (QLabel, components_label)
 #: export_scheme_dialog.ui:17
@@ -66,12 +66,12 @@ msgstr "Összes gyorsbillentyű törlése"
 #: kglobalshortcutseditor.cpp:242
 #, kde-format
 msgid "Applications"
-msgstr ""
+msgstr "Alkalmazások"
 
 #: kglobalshortcutseditor.cpp:293
 #, kde-format
 msgid "Launch %1"
-msgstr ""
+msgstr "%1 indítása"
 
 #: kglobalshortcutseditor.cpp:329
 #, kde-format
@@ -105,13 +105,12 @@ msgstr ""
 #: kglobalshortcutseditor.cpp:451
 #, kde-format
 msgid "Application Launchers"
-msgstr ""
+msgstr "Alkalmazásindítók"
 
 #: kglobalshortcutseditor.cpp:454
-#, fuzzy, kde-format
-#| msgid "Shortcuts:"
+#, kde-format
 msgid "Other Shortcuts"
-msgstr "Billentyűparancsok:"
+msgstr "Egyéb parancsikonok"
 
 #: kglobalshortcutseditor.cpp:559
 #, kde-format
@@ -153,30 +152,28 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, componentLabel)
 #: kglobalshortcutseditor.ui:25
-#, fuzzy, kde-format
-#| msgid "Components"
+#, kde-format
 msgid "Component:"
-msgstr "Komponens"
+msgstr "Komponens:"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, addButton)
 #: kglobalshortcutseditor.ui:62
 #, kde-format
 msgid "Add a new shortcut to an Application..."
-msgstr ""
+msgstr "Új parancsikon hozzáadása egy alkalmazáshoz..."
 
 #. i18n: ectx: property (text), widget (QToolButton, addButton)
 #. i18n: ectx: property (text), widget (QToolButton, removeButton)
 #: kglobalshortcutseditor.ui:65 kglobalshortcutseditor.ui:75
 #, kde-format
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, removeButton)
 #: kglobalshortcutseditor.ui:72
-#, fuzzy, kde-format
-#| msgid "Remove component"
+#, kde-format
 msgid "Remove the selected component"
-msgstr "Komponens eltávolítása"
+msgstr "A kiválasztott komponens eltávolítása"
 
 #. i18n: ectx: property (text), widget (QPushButton, menu_button)
 #: kglobalshortcutseditor.ui:95
@@ -188,7 +185,7 @@ msgstr "Fájl"
 #: select_application.ui:14
 #, kde-format
 msgid "Select Application"
-msgstr ""
+msgstr "Alkalmazás kiválasztása"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, SelectSchemeDialog)
 #. i18n: ectx: property (clickMessage), widget (KUrlRequester, m_url)

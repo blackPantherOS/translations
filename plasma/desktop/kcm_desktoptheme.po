@@ -9,36 +9,35 @@ msgstr ""
 "Project-Id-Version: KDE 4.2\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-02-12 07:49+0100\n"
-"PO-Revision-Date: 2014-04-01 16:20+0200\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 21:09+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Kiszel Kristóf"
+msgstr "Kiszel Kristóf, Charles K Barcza"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "ulysses@kubuntu.org"
+msgstr "ulysses@kubuntu.org, info@blackpanther.hu"
 
 #: kcm.cpp:54
-#, fuzzy, kde-format
-#| msgid "Remove Desktop Theme"
+#, kde-format
 msgid "Configure Desktop Theme"
-msgstr "Eltávolítás"
+msgstr "Asztali téma beállítása"
 
 #: kcm.cpp:56
 #, kde-format
 msgid "David Rosca"
-msgstr ""
+msgstr "David Rosca"
 
 #: kcm.cpp:122
 #, kde-format
@@ -51,27 +50,24 @@ msgid "Theme installation failed."
 msgstr "Nem sikerült telepíteni a témát."
 
 #: kcm.cpp:268 kcm.cpp:276
-#, fuzzy, kde-format
-#| msgid "Theme installation failed."
+#, kde-format
 msgid "Theme removal failed."
-msgstr "Nem sikerült telepíteni a témát."
+msgstr "Nem sikerült a téma eltávolítása."
 
 #: package/contents/ui/main.qml:33
 #, kde-format
 msgid "This module lets you configure the desktop theme."
-msgstr ""
+msgstr "Ez a modul biztosítja, hogy beállíthasd az asztali témát."
 
 #: package/contents/ui/main.qml:156
-#, fuzzy, kde-format
-#| msgid "Get New Themes..."
+#, kde-format
 msgid "Get new Theme"
-msgstr "Új témák letöltése…"
+msgstr "Új témák beszerzése"
 
 #: package/contents/ui/main.qml:162
-#, fuzzy, kde-format
-#| msgid "Insta&ll from File"
+#, kde-format
 msgid "Install from File"
-msgstr "Te&lepítés fájlból"
+msgstr "Telepítés fájlból"
 
 #: package/contents/ui/main.qml:168
 #, kde-format

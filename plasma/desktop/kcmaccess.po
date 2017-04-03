@@ -6,25 +6,25 @@ msgstr ""
 "Project-Id-Version: KDE 4.1\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-02-12 07:49+0100\n"
-"PO-Revision-Date: 2015-04-15 09:38+0200\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 21:29+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-lista@sophia.jpte.hu>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Szántó Tamás,Kiszel Kristóf"
+msgstr "Szántó Tamás,Kiszel Kristóf, Charles K Barcza"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "tszanto@interware.hu,ulysses@kubuntu.org"
+msgstr "tszanto@interware.hu,ulysses@kubuntu.org,info@blackpanther.hu"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabBell)
 #: accessibility.ui:21
@@ -235,15 +235,12 @@ msgstr "Csengetés zároló billentyű be- vagy kikapcsolásakor"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kNotifyModifiers)
 #: accessibility.ui:310
-#, fuzzy, kde-format
-#| msgid ""
-#| "Use Plasma's system notification mechanism whenever a modifier or locking "
-#| "key changes its state"
+#, kde-format
 msgid ""
 "Use Plasma's notification mechanism for modifier or locking key state changes"
 msgstr ""
-"A Plasma értesítési rendszerének használata, ha egy módosító- vagy "
-"zárolóbillentyű állapota megváltozik"
+"A Plasma értesítési rendszerének használata egy módosító- vagy "
+"zárolóbillentyű állapota megváltozásakor"
 
 #. i18n: ectx: property (text), widget (QPushButton, kNotifyModifiersButton)
 #. i18n: ectx: property (text), widget (QPushButton, kNotifyAccessButton)
@@ -347,10 +344,7 @@ msgstr "Értesítés"
 
 #. i18n: ectx: property (text), widget (QCheckBox, accessxBeep)
 #: accessibility.ui:669
-#, fuzzy, kde-format
-#| msgid ""
-#| "Use the system bell whenever a gesture is used to turn an accessibility "
-#| "feature on or off"
+#, kde-format
 msgid ""
 "Use the system bell whenever a gesture is used to toggle an accessibility "
 "feature"
@@ -374,29 +368,23 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, gestureConfirmation)
 #: accessibility.ui:680
-#, fuzzy, kde-format
-#| msgid ""
-#| "Show a confirmation dialog whenever a keyboard accessibility feature is "
-#| "turned on or off"
+#, kde-format
 msgid ""
 "Show a confirmation dialog whenever a keyboard accessibility feature is "
 "toggled"
 msgstr ""
-"Megerősítést kérő ablak jelenjen meg kezelést segítő funkció ki- vagy "
+"Megerősítést kérő ablak jelenjen meg a kezelést segítő funkció ki- vagy "
 "bekapcsolásakor"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kNotifyAccess)
 #: accessibility.ui:687
-#, fuzzy, kde-format
-#| msgid ""
-#| "Use Plasma's system notification mechanism whenever a keyboard "
-#| "accessibility feature is turned on or off"
+#, kde-format
 msgid ""
 "Use Plasma's notification mechanism whenever a keyboard accessibility "
 "feature is toggled"
 msgstr ""
 "A Plasma értesítési rendszerének használata, ha egy billentyűzet-"
-"akadálymentesítési szolgáltatás ki-/bekapcsolásra kerül"
+"akadálymentesítési szolgáltatás ki-/bekapcsolásakor"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabScreenReader)
 #: accessibility.ui:751
@@ -417,6 +405,8 @@ msgid ""
 "Please note that you may have to log out once to allow the screen reader to "
 "work properly."
 msgstr ""
+"Kérjük jegyezze meg, előfordulhat, hogy ki kell jelentkezni egyszer a "
+"képernyőolvasó helyes működéséhez."
 
 #: kcmaccess.cpp:121
 #, kde-format

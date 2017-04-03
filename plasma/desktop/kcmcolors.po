@@ -8,25 +8,25 @@ msgstr ""
 "Project-Id-Version: KDE 4.1\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 22:53+0100\n"
-"PO-Revision-Date: 2015-03-24 23:39+0100\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 21:30+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Kiszel Kristóf,Szántó Tamás"
+msgstr "Kiszel Kristóf,Szántó Tamás, Charles K Barcza"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "ulysses@kubuntu.org,tszanto@interware.hu"
+msgstr "ulysses@kubuntu.org,tszanto@interware.hu, info@blackpanther.hu"
 
 #: colorscm.cpp:57 scmeditordialog.cpp:56
 #, kde-format
@@ -76,6 +76,9 @@ msgid ""
 "\n"
 "This is not supported anymore."
 msgstr ""
+"A kiválasztott séma egy KDE3 színséma. \n"
+"\n"
+"Ez nem támogatott többé."
 
 #: colorscm.cpp:236
 #, kde-format
@@ -85,26 +88,24 @@ msgstr "Megjegyzés"
 #: colorscm.cpp:427
 #, kde-format
 msgid "This scheme was not found."
-msgstr ""
+msgstr "Ez a színösszeállítás nem található"
 
 #: colorscm.cpp:427
 #, kde-format
 msgid "File not found"
-msgstr ""
+msgstr "Fájl nem található"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, schemeEditButton)
 #: colorsettings.ui:31
-#, fuzzy, kde-format
-#| msgid "Save the current color scheme"
+#, kde-format
 msgid "Configure the current color scheme"
-msgstr "Az aktuális színséma mentése"
+msgstr "Az aktuális színséma beállítása"
 
 #. i18n: ectx: property (text), widget (QPushButton, schemeEditButton)
 #: colorsettings.ui:34
-#, fuzzy, kde-format
-#| msgid "&Upload Scheme..."
+#, kde-format
 msgid "Edit Scheme"
-msgstr "Színsé&ma feltöltése…"
+msgstr "Színséma szerkesztése"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, schemeRemoveButton)
 #: colorsettings.ui:60
@@ -126,10 +127,9 @@ msgstr "Új színséma letöltése az internetről"
 
 #. i18n: ectx: property (text), widget (QPushButton, schemeKnsButton)
 #: colorsettings.ui:76
-#, fuzzy, kde-format
-#| msgid "Get &New Schemes..."
+#, kde-format
 msgid "Get &New Scheme"
-msgstr "Új színséma &letöltése…"
+msgstr "Új színséma &beszerzése"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, schemeImportButton)
 #: colorsettings.ui:115
@@ -141,7 +141,7 @@ msgstr "Színséma importálása fájlból"
 #: colorsettings.ui:118
 #, kde-format
 msgid "&Install from File"
-msgstr ""
+msgstr "Fájlból &telepítés"
 
 #. i18n: ectx: property (text), widget (QCheckBox, applyToAlien)
 #: colorsettings.ui:128
@@ -151,41 +151,39 @@ msgstr ""
 "A színbeállítások a nem Qt alapú &alkalmazásokra is érvényesek legyenek"
 
 #: kcolorschemeeditor.cpp:35
-#, fuzzy, kde-format
-#| msgid "Save Color Scheme"
+#, kde-format
 msgid "KColorSchemeEditor"
-msgstr "A színséma mentése"
+msgstr "Színséma szerkesztő"
 
 #: kcolorschemeeditor.cpp:37
-#, fuzzy, kde-format
-#| msgid "Save the current color scheme"
+#, kde-format
 msgid "Utility to edit and create color schemes"
-msgstr "Az aktuális színséma mentése"
+msgstr "Színséma szerkesztő és készítő eszköz"
 
 #: kcolorschemeeditor.cpp:40
 #, kde-format
 msgid "Olivier Churlaud"
-msgstr ""
+msgstr "Olivier Churlaud"
 
 #: kcolorschemeeditor.cpp:40
 #, kde-format
 msgid "Utility creation"
-msgstr ""
+msgstr "Eszköz létrehozás"
 
 #: kcolorschemeeditor.cpp:42 kcolorschemeeditor.cpp:44
 #, kde-format
 msgid "KCM code (reused in here)"
-msgstr ""
+msgstr "KCM kód (újrahasználva ebben)"
 
 #: kcolorschemeeditor.cpp:51
 #, kde-format
 msgid "Scheme to edit or to use as a base."
-msgstr ""
+msgstr "Séma szerkesztése vagy alapsémakénti használata."
 
 #: kcolorschemeeditor.cpp:68
 #, kde-format
 msgid "Scheme not found, falling back to current one.\n"
-msgstr ""
+msgstr "Séma nem található, vissza fog váltani a jelenlegire.\n"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label)
 #: preview.ui:29
@@ -537,7 +535,7 @@ msgstr "Buboréksúgó"
 #, kde-format
 msgctxt "color-sets"
 msgid "Complementary"
-msgstr ""
+msgstr "Kiegészítő"
 
 #. i18n: ectx: property (text), widget (QTableWidget, commonColorTable)
 #: scmeditorcolors.ui:113 scmeditorcolors.ui:118 scmeditorcolors.ui:123
@@ -673,31 +671,29 @@ msgid "Options"
 msgstr "Beállítások"
 
 #: scmeditordialog.cpp:57
-#, fuzzy, kde-format
-#| msgctxt "@title:tab color transformations on disabled elements"
-#| msgid "Disabled"
+#, kde-format
 msgid "Disabled"
-msgstr "Letiltott"
+msgstr "Kikapcsolva"
 
 #: scmeditordialog.cpp:74
 #, kde-format
 msgid "This colour scheme was not saved. Continue?"
-msgstr ""
+msgstr "Ez a színséma nem lett elmentve. Folytassuk?"
 
 #: scmeditordialog.cpp:75
 #, kde-format
 msgid "Do you really want to upload?"
-msgstr ""
+msgstr "Biztosan fel szeretnéd tölteni?"
 
 #: scmeditordialog.cpp:113
 #, kde-format
 msgid "You have unsaved changes. Do you really want to quit?"
-msgstr ""
+msgstr "Nem mentett módosításaid vannak! Biztosan ki szeretnél lépni?"
 
 #: scmeditordialog.cpp:114
 #, kde-format
 msgid "Unsaved changes"
-msgstr ""
+msgstr "Nem mentett változások"
 
 #: scmeditordialog.cpp:131 scmeditordialog.cpp:158
 #, kde-format
@@ -724,9 +720,7 @@ msgid "You do not have permission to overwrite that scheme"
 msgstr "Nincs jogosultsága a színséma felülírásához"
 
 #: scmeditordialog.cpp:208
-#, fuzzy, kde-format
-#| msgctxt "@title:tab color transformations on inactive elements"
-#| msgid "Inactive"
+#, kde-format
 msgid "Inactive"
 msgstr "Inaktív"
 
@@ -738,10 +732,9 @@ msgstr "A kijelölt színséma megosztása az Interneten"
 
 #. i18n: ectx: property (text), widget (QPushButton, schemeKnsUploadButton)
 #: scmeditordialog.ui:57
-#, fuzzy, kde-format
-#| msgid "&Upload Scheme..."
+#, kde-format
 msgid "Upload Scheme"
-msgstr "Színsé&ma feltöltése…"
+msgstr "Színséma feltöltése"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: scmeditoreffects.ui:17

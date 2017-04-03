@@ -8,25 +8,25 @@ msgstr ""
 "Project-Id-Version: KDE 4.1\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 22:53+0100\n"
-"PO-Revision-Date: 2015-03-24 23:40+0100\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 21:37+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Szántó Tamás,Kiszel Kristóf"
+msgstr "Szántó Tamás,Kiszel Kristóf, Charles K Barcza"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "tszanto@interware.hu,ulysses@kubuntu.org"
+msgstr "tszanto@interware.hu,ulysses@kubuntu.org, info@blackpanther.hu"
 
 #: kcmcursortheme.cpp:43
 #, kde-format
@@ -60,11 +60,10 @@ msgid "Resolution dependent"
 msgstr "Felbontásfüggő"
 
 #: xcursor/themepage.cpp:317
-#, fuzzy, kde-format
-#| msgid "You have to restart KDE for these changes to take effect."
+#, kde-format
 msgid ""
 "You have to restart the Plasma session for these changes to take effect."
-msgstr "A KDE-t újra kell indítani, hogy a módosítások érvényesüljenek."
+msgstr "A Plasma-t újra kell indítani, hogy a módosítások érvényesüljenek."
 
 #: xcursor/themepage.cpp:318
 #, kde-format
@@ -139,10 +138,9 @@ msgstr "Új színsémák letöltése az internetről"
 
 #. i18n: ectx: property (text), widget (QPushButton, installKnsButton)
 #: xcursor/themepage.ui:52
-#, fuzzy, kde-format
-#| msgid "Get New Theme..."
+#, kde-format
 msgid "Get new Theme"
-msgstr "Új téma letöltése…"
+msgstr "Új téma beszerzése"
 
 #. i18n: ectx: property (text), widget (QPushButton, removeButton)
 #: xcursor/themepage.ui:59
@@ -152,10 +150,9 @@ msgstr "Téma eltávolítása"
 
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
 #: xcursor/themepage.ui:85
-#, fuzzy, kde-format
-#| msgid "Install From File..."
+#, kde-format
 msgid "Install from File"
-msgstr "Telepítés fájlból…"
+msgstr "Telepítés fájlból"
 
 #: xcursor/xcursortheme.cpp:77
 #, kde-format

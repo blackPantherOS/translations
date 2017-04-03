@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: KDE 4.2\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-02-12 07:49+0100\n"
-"PO-Revision-Date: 2014-08-29 11:34+0200\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 21:43+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #: package/contents/config/config.qml:25
 #, kde-format
@@ -25,15 +25,14 @@ msgid "General"
 msgstr "Általános"
 
 #: package/contents/ui/configGeneral.qml:87
-#, fuzzy, kde-format
-#| msgid "Display Text:"
+#, kde-format
 msgid "Display:"
-msgstr "Szöveg megjelenítése:"
+msgstr "Kiírt név:"
 
 #: package/contents/ui/configGeneral.qml:93
 #, kde-format
 msgid "Activity number"
-msgstr ""
+msgstr "Aktivitás száma"
 
 #: package/contents/ui/configGeneral.qml:93
 #, kde-format
@@ -43,7 +42,7 @@ msgstr "Asztalszám"
 #: package/contents/ui/configGeneral.qml:104
 #, kde-format
 msgid "Activity name"
-msgstr ""
+msgstr "Aktivitás neve"
 
 #: package/contents/ui/configGeneral.qml:104
 #, kde-format
@@ -58,12 +57,12 @@ msgstr "Szöveg nélkül"
 #: package/contents/ui/configGeneral.qml:121
 #, kde-format
 msgid "Icons"
-msgstr ""
+msgstr "Ikonok"
 
 #: package/contents/ui/configGeneral.qml:131
 #, kde-format
 msgid "Only the current screen"
-msgstr ""
+msgstr "A jelenlegi képernyő"
 
 #: package/contents/ui/configGeneral.qml:135
 #, kde-format
@@ -81,34 +80,30 @@ msgid "Shows desktop"
 msgstr "Asztal megjelenítése"
 
 #: package/contents/ui/main.qml:304
-#, fuzzy, kde-format
-#| msgid "and %1 other window"
-#| msgid_plural "and %1 other windows"
+#, kde-format
 msgid "...and %1 other window"
 msgid_plural "...and %1 other windows"
 msgstr[0] "és %1 egyéb ablak"
-msgstr[1] "és %1 egyéb ablak"
+msgstr[1] "és %1 egyéb ablakok"
 
 #: package/contents/ui/main.qml:326
-#, fuzzy, kde-format
-#| msgid "%1 window"
-#| msgid_plural "%1 windows"
+#, kde-format
 msgid "%1 Window:"
 msgid_plural "%1 Windows:"
 msgstr[0] "%1 ablak"
-msgstr[1] "%1 ablak"
+msgstr[1] "%1 ablakok"
 
 #: package/contents/ui/main.qml:335
 #, kde-format
 msgid "%1 Minimized Window:"
 msgid_plural "%1 Minimized Windows:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 minimalizált ablak:"
+msgstr[1] "%1 minimalizált ablakok:"
 
 #: package/contents/ui/main.qml:510
 #, kde-format
 msgid "Show Activity Manager..."
-msgstr ""
+msgstr "Aktivitáskezelő megjelenítése..."
 
 #: package/contents/ui/main.qml:513
 #, kde-format
@@ -121,7 +116,6 @@ msgid "Remove Virtual Desktop"
 msgstr "Virtuális asztal eltávolítása"
 
 #: package/contents/ui/main.qml:519
-#, fuzzy, kde-format
-#| msgid "Configure Desktops"
+#, kde-format
 msgid "Configure Desktops..."
-msgstr "Asztalbeállítás"
+msgstr "Asztalok beállítása..."

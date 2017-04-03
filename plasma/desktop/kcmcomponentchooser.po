@@ -6,15 +6,15 @@ msgstr ""
 "Project-Id-Version: KDE 4.1\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 22:53+0100\n"
-"PO-Revision-Date: 2011-04-14 21:57+0200\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 21:31+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.2\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -179,11 +179,7 @@ msgstr "Más &program:"
 
 #. i18n: ectx: property (toolTip), widget (KLineEdit, txtEMailClient)
 #: emailclientconfig_ui.ui:53
-#, fuzzy, no-c-format, kde-format
-#| msgid ""
-#| "<ul> <li>%t: Recipient's address</li> <li>%s: Subject</li> <li>%c: Carbon "
-#| "Copy (CC)</li> <li>%b: Blind Carbon Copy (BCC)</li> <li>%B: Template body "
-#| "text</li> <li>%A: Attachment </li> <li>%u: Full mailto: URL </li></ul>"
+#, no-c-format, kde-format
 msgid ""
 "Optional placeholders: <ul> <li>%t: Recipient's address</li> <li>%s: "
 "Subject</li> <li>%c: Carbon Copy (CC)</li> <li>%b: Blind Carbon Copy (BCC)</"

@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: KDE 4.1\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-02-12 07:49+0100\n"
-"PO-Revision-Date: 2015-03-26 12:23+0100\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 21:51+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -427,26 +427,21 @@ msgstr "Gyorsbillentyű"
 
 #. i18n: ectx: property (whatsThis), widget (QGroupBox, numlockGroupBox)
 #: kcmmiscwidget.ui:17
-#, fuzzy, kde-format
-#| msgid ""
-#| "If supported, this option allows you to setup the state of NumLock after "
-#| "KDE startup.<p>You can configure NumLock to be turned on or off, or "
-#| "configure KDE not to set NumLock state."
+#, kde-format
 msgid ""
 "If supported, this option allows you to setup the state of NumLock after "
 "Plasma startup.<p>You can configure NumLock to be turned on or off, or "
 "configure Plasma not to set NumLock state."
 msgstr ""
-"Ha a hardver támogatja, itt lehet beállítani a NumLock állapotát a KDE "
-"indulásakor.<p>A NumLock ki- vagy bekapcsolható, illetve meghagyható az "
-"eredeti állapot."
+"Ha a hardver támogatja, itt lehet beállítani a NumLock állapotát a Plasma "
+"indulásakor.<p>A NumLock ki- vagy bekapcsolható, illetve beállítható, hogy a "
+"Plasma ne változtassa a NumLock állapotát"
 
 #. i18n: ectx: property (title), widget (QGroupBox, numlockGroupBox)
 #: kcmmiscwidget.ui:20
-#, fuzzy, kde-format
-#| msgid "NumLock on KDE Startup"
+#, kde-format
 msgid "NumLock on Plasma Startup"
-msgstr "A NumLock állapota induláskor"
+msgstr "A NumLock állapota a Plasma indulásakor"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioButton1)
 #. i18n: ectx: property (text), widget (QRadioButton, keyboardRepeatOnRadioButton)

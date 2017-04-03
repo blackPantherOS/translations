@@ -8,29 +8,27 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-02-12 07:49+0100\n"
-"PO-Revision-Date: 2014-08-29 11:23+0200\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 21:45+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #: contents/activitymanager/ActivityItem.qml:206
 msgid "Currently being used"
-msgstr ""
+msgstr "Jelenleg használt"
 
 #: contents/activitymanager/ActivityItem.qml:284
 msgid "Configure"
-msgstr ""
+msgstr "Beállítás"
 
 #: contents/activitymanager/ActivityItem.qml:300
-#, fuzzy
-#| msgid "Stopped activities:"
 msgid "Stop activity"
-msgstr "Leállított aktivitások:"
+msgstr "Aktivitás leállítása"
 
 #: contents/activitymanager/ActivityList.qml:155
 msgid "Stopped activities:"
@@ -50,10 +48,8 @@ msgid "Search..."
 msgstr "Keresés…"
 
 #: contents/activitymanager/StoppedActivityItem.qml:146
-#, fuzzy
-#| msgid "Clone current activity"
 msgid "Configure activity"
-msgstr "Jelenlegi aktivitás másolása"
+msgstr "Aktivitás beállítása"
 
 #: contents/activitymanager/StoppedActivityItem.qml:161
 msgid "Delete"
@@ -101,14 +97,12 @@ msgid "Middle-Button"
 msgstr "Középső gomb"
 
 #: contents/configuration/ConfigurationContainmentActions.qml:34
-#, fuzzy
-#| msgid "Left-Button"
 msgid "Back-Button"
-msgstr "Bal gomb"
+msgstr "Vissza-léptető gomb"
 
 #: contents/configuration/ConfigurationContainmentActions.qml:35
 msgid "Forward-Button"
-msgstr ""
+msgstr "Előre léptető gomb"
 
 #: contents/configuration/ConfigurationContainmentActions.qml:37
 msgid "Vertical-Scroll"
@@ -145,7 +139,7 @@ msgstr "Elrendezés:"
 
 #: contents/configuration/ConfigurationContainmentAppearance.qml:96
 msgid "Layout cannot be changed whilst widgets are locked"
-msgstr ""
+msgstr "A felület nem változtatható, amíg a widgetek zárolva vannak"
 
 #: contents/configuration/ConfigurationContainmentAppearance.qml:109
 msgid "Wallpaper Type:"
@@ -157,6 +151,9 @@ msgid ""
 "it, and if the applet has a popup (such as the start menu), the popup will "
 "be open."
 msgstr ""
+"Ez a parancs aktiválni fogja az appletet: ez engedélyezi a billentyűzet "
+"fókuszálást és ha a kisalkalmazás egy előugró ablak (mint a start menü) "
+"akkor meg fog nyílni ebben az esetben."
 
 #: contents/configuration/ContainmentConfiguration.qml:43
 msgid "Wallpaper"
@@ -180,7 +177,7 @@ msgstr "Panel igazítása"
 
 #: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
 msgid "Top"
-msgstr ""
+msgstr "Fent"
 
 #: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
 msgid "Left"
@@ -192,7 +189,7 @@ msgstr "Középre"
 
 #: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:75
 msgid "Bottom"
-msgstr ""
+msgstr "Alul"
 
 #: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:75
 msgid "Right"
@@ -255,26 +252,20 @@ msgid "Close"
 msgstr "Bezárás"
 
 #: contents/explorer/AppletAlternatives.qml:83
-#, fuzzy
-#| msgid "Alternatives"
 msgid "Alternative Widgets"
-msgstr "Alternatívák"
+msgstr "Alternatív widgetek"
 
 #: contents/explorer/AppletAlternatives.qml:173
 msgid "Switch"
 msgstr "Váltás"
 
 #: contents/explorer/AppletDelegate.qml:179
-#, fuzzy
-#| msgid "Uninstall"
 msgid "Undo uninstall"
-msgstr "Eltávolítás"
+msgstr "Eltávolítás visszavonása"
 
 #: contents/explorer/AppletDelegate.qml:180
-#, fuzzy
-#| msgid "Uninstall"
 msgid "Uninstall widget"
-msgstr "Eltávolítás"
+msgstr "Widget eltávolítása"
 
 #: contents/explorer/Tooltip.qml:106
 msgid "License:"

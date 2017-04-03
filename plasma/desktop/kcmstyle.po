@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: KDE 4.2\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-02-12 07:49+0100\n"
-"PO-Revision-Date: 2012-11-11 18:26+0100\n"
-"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"PO-Revision-Date: 2017-04-03 21:38+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -209,8 +209,7 @@ msgid "Menu Icons Changed"
 msgstr "Menüikonok megváltoztatva"
 
 #: kcmstyle.cpp:414
-#, fuzzy, kde-format
-#| msgid "Settings changes will take effect only on application restart"
+#, kde-format
 msgid "Settings changes will take effect only on application restart"
 msgstr ""
 "A beállítások változásai csak az alkalmazás újraindításakor lépnek életbe"

@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: KDE 4.2\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-02-14 15:04+0100\n"
-"PO-Revision-Date: 2013-10-06 12:01+0200\n"
-"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"PO-Revision-Date: 2017-04-03 21:44+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #: package/contents/config/config.qml:26
 #, kde-format
@@ -27,11 +27,10 @@ msgstr "Általános"
 #: package/contents/ui/ConfigGeneral.qml:54
 #, kde-format
 msgid "Arrangement"
-msgstr ""
+msgstr "Elrendezés"
 
 #: package/contents/ui/ConfigGeneral.qml:62
-#, fuzzy, kde-format
-#| msgid "Maximum rows:"
+#, kde-format
 msgid "Maximum columns:"
 msgstr "A sorok max. száma:"
 
@@ -43,17 +42,17 @@ msgstr "A sorok max. száma:"
 #: package/contents/ui/ConfigGeneral.qml:74
 #, kde-format
 msgid "Always arrange tasks in rows of as many columns"
-msgstr ""
+msgstr "Mindig úgy rendezze feladatokat sorokba mint az oszlopokat "
 
 #: package/contents/ui/ConfigGeneral.qml:74
 #, kde-format
 msgid "Always arrange tasks in columns of as many rows"
-msgstr ""
+msgstr "Mindig úgy rendezze feladatokat sorokba mint az oszlopokat "
 
 #: package/contents/ui/ConfigGeneral.qml:83
 #, kde-format
 msgid "Behavior"
-msgstr ""
+msgstr "Viselkedés"
 
 #: package/contents/ui/ConfigGeneral.qml:91
 #, kde-format
@@ -63,7 +62,7 @@ msgstr "Buboréksúgók megjelenítése"
 #: package/contents/ui/ConfigGeneral.qml:96
 #, kde-format
 msgid "Cycle through tasks with mouse wheel"
-msgstr ""
+msgstr "Léptesse a feladatokat az egérgörgővel"
 
 #: package/contents/ui/ConfigGeneral.qml:101
 #, kde-format
@@ -73,33 +72,33 @@ msgstr "Ablakok kiemelése"
 #: package/contents/ui/ConfigGeneral.qml:107
 #, kde-format
 msgid "Show progress and status information in task buttons"
-msgstr ""
+msgstr "Mutassa a folyamatokat és állapotinformációkat a feladat gombokon"
 
 #: package/contents/ui/ConfigGeneral.qml:112
 #, kde-format
 msgid "On middle-click:"
-msgstr ""
+msgstr "Középső egérgombra:"
 
 #: package/contents/ui/ConfigGeneral.qml:118
 #, kde-format
 msgctxt "The click action"
 msgid "None"
-msgstr ""
+msgstr "Nincs"
 
 #: package/contents/ui/ConfigGeneral.qml:118
 #, kde-format
 msgid "Close Window or Group"
-msgstr ""
+msgstr "Ablak vagy csoport bezárása"
 
 #: package/contents/ui/ConfigGeneral.qml:118
 #, kde-format
 msgid "New Instance"
-msgstr ""
+msgstr "Új példány"
 
 #: package/contents/ui/ConfigGeneral.qml:118
 #, kde-format
 msgid "Minimize/Restore Window or Group"
-msgstr ""
+msgstr "Minimalizál/Visszaállít egy ablakot vagy csoprotot"
 
 #: package/contents/ui/ConfigGeneral.qml:127
 #, kde-format
@@ -139,7 +138,7 @@ msgstr "Aktivitásonként"
 #: package/contents/ui/ConfigGeneral.qml:152
 #, kde-format
 msgid "Keep launchers separate"
-msgstr ""
+msgstr "Az indítók elválasztása"
 
 #: package/contents/ui/ConfigGeneral.qml:160
 #, kde-format
@@ -159,13 +158,12 @@ msgstr "Programnév szerint"
 #: package/contents/ui/ConfigGeneral.qml:177
 #, kde-format
 msgid "Open groups in popups"
-msgstr ""
+msgstr "Csoport megnyitása felbukkanó ablakban"
 
 #: package/contents/ui/ConfigGeneral.qml:193
-#, fuzzy, kde-format
-#| msgid "Only when the task manager is full"
+#, kde-format
 msgid "Only group when the task manager is full"
-msgstr "Csak akkor, ha a feladatkezelő tele van"
+msgstr "Csoportosítás, ha a feladatkezelő tele van"
 
 #: package/contents/ui/ConfigGeneral.qml:205
 #, kde-format
@@ -196,161 +194,154 @@ msgstr "Csak a minimalizált feladatok megjelenítése"
 #, kde-format
 msgctxt "Play previous track"
 msgid "Previous Track"
-msgstr ""
+msgstr "Előző sáv"
 
 #: package/contents/ui/ContextMenu.qml:119
 #, kde-format
 msgctxt "Pause playback"
 msgid "Pause"
-msgstr ""
+msgstr "Szüneteltetve"
 
 #: package/contents/ui/ContextMenu.qml:119
 #, kde-format
 msgctxt "Start playback"
 msgid "Play"
-msgstr ""
+msgstr "Lejátszás"
 
 #: package/contents/ui/ContextMenu.qml:130
 #, kde-format
 msgctxt "Stop playback"
 msgid "Stop"
-msgstr ""
+msgstr "Állj"
 
 #: package/contents/ui/ContextMenu.qml:138
 #, kde-format
 msgctxt "Play next track"
 msgid "Next Track"
-msgstr ""
+msgstr "Következő sáv"
 
 #: package/contents/ui/ContextMenu.qml:154
 #, kde-format
 msgctxt "Quit media player app"
 msgid "Quit"
-msgstr ""
+msgstr "Kilépés"
 
 #: package/contents/ui/ContextMenu.qml:169
 #, kde-format
 msgctxt "Open or bring to the front window of media player app"
 msgid "Restore"
-msgstr ""
+msgstr "Visszaállítás"
 
 #: package/contents/ui/ContextMenu.qml:193
-#, fuzzy, kde-format
-#| msgid "By Desktop"
+#, kde-format
 msgid "Move To &Desktop"
-msgstr "Asztalonként"
+msgstr "Áthelyezés az asztalra"
 
 #: package/contents/ui/ContextMenu.qml:215
-#, fuzzy, kde-format
-#| msgid "By Desktop"
+#, kde-format
 msgid "Move &To Current Desktop"
-msgstr "Asztalonként"
+msgstr "Áthelyezés a jelenlegi asztalra"
 
 #: package/contents/ui/ContextMenu.qml:224
-#, fuzzy, kde-format
-#| msgid "By Desktop"
+#, kde-format
 msgid "&All Desktops"
-msgstr "Asztalonként"
+msgstr "Minden asztal"
 
 #: package/contents/ui/ContextMenu.qml:238
-#, fuzzy, kde-format
-#| msgid "By Desktop"
+#, kde-format
 msgctxt "1 = number of desktop, 2 = desktop name"
 msgid "&%1 Desktop %2"
-msgstr "Asztalonként"
+msgstr "&%1 asztal %2"
 
 #: package/contents/ui/ContextMenu.qml:252
-#, fuzzy, kde-format
-#| msgid "By Desktop"
+#, kde-format
 msgid "&New Desktop"
-msgstr "Asztalonként"
+msgstr "Ú&j asztal"
 
 #: package/contents/ui/ContextMenu.qml:271
-#, fuzzy, kde-format
-#| msgid "By Activity"
+#, kde-format
 msgid "Move To &Activity"
-msgstr "Aktivitásonként"
+msgstr "&Aktivitásra mozgatás"
 
 #: package/contents/ui/ContextMenu.qml:292
 #, kde-format
 msgid "Add To Current Activity"
-msgstr ""
+msgstr "Hozzáadja az aktuális aktivításhoz"
 
 #: package/contents/ui/ContextMenu.qml:302
-#, fuzzy, kde-format
-#| msgid "By Activity"
+#, kde-format
 msgid "All Activities"
-msgstr "Aktivitásonként"
+msgstr "Minden aktivitás"
 
 #: package/contents/ui/ContextMenu.qml:364
 #, kde-format
 msgid "Mi&nimize"
-msgstr ""
+msgstr "Mi&nimalizálás"
 
 #: package/contents/ui/ContextMenu.qml:377
 #, kde-format
 msgid "Ma&ximize"
-msgstr ""
+msgstr "Ma&ximalizálás"
 
 #: package/contents/ui/ContextMenu.qml:388
 #, kde-format
 msgid "Start New Instance"
-msgstr ""
+msgstr "Új példány indítása"
 
 #: package/contents/ui/ContextMenu.qml:403
 #, kde-format
 msgid "&Show A Launcher When Not Running"
-msgstr ""
+msgstr "&Mutasson egy indítót ha nem fut"
 
 #: package/contents/ui/ContextMenu.qml:417
 #, kde-format
 msgid "Remove Launcher"
-msgstr ""
+msgstr "Indító eltávolítása"
 
 #: package/contents/ui/ContextMenu.qml:430
 #, kde-format
 msgid "More Actions"
-msgstr ""
+msgstr "További műveletek"
 
 #: package/contents/ui/ContextMenu.qml:438
 #, kde-format
 msgid "&Move"
-msgstr ""
+msgstr "&Mozgatás"
 
 #: package/contents/ui/ContextMenu.qml:447
 #, kde-format
 msgid "Re&size"
-msgstr ""
+msgstr "Mé&retezés"
 
 #: package/contents/ui/ContextMenu.qml:456
 #, kde-format
 msgid "Keep &Above Others"
-msgstr ""
+msgstr "Az ablak a többi &fölé kerüljön"
 
 #: package/contents/ui/ContextMenu.qml:466
 #, kde-format
 msgid "Keep &Below Others"
-msgstr ""
+msgstr "Az ablak a többi a&lá kerüljön"
 
 #: package/contents/ui/ContextMenu.qml:478
 #, kde-format
 msgid "&Fullscreen"
-msgstr ""
+msgstr "&Teljes képernyő"
 
 #: package/contents/ui/ContextMenu.qml:490
 #, kde-format
 msgid "&Shade"
-msgstr ""
+msgstr "&Felgördítés"
 
 #: package/contents/ui/ContextMenu.qml:505
 #, kde-format
 msgid "Allow this program to be grouped"
-msgstr ""
+msgstr "Programcsoportosítás engedélyezése"
 
 #: package/contents/ui/ContextMenu.qml:535
 #, kde-format
 msgid "&Close"
-msgstr ""
+msgstr "&bezárás"
 
 #: package/contents/ui/Task.qml:262
 #, kde-format
@@ -379,33 +370,33 @@ msgstr "Elérhető ezen: %1"
 #, kde-format
 msgctxt "Go to previous song"
 msgid "Previous"
-msgstr ""
+msgstr "Előző"
 
 #: package/contents/ui/ToolTipDelegate.qml:277
 #, kde-format
 msgctxt "Pause player"
 msgid "Pause"
-msgstr ""
+msgstr "Szüneteltetve"
 
 #: package/contents/ui/ToolTipDelegate.qml:277
 #, kde-format
 msgctxt "Start player"
 msgid "Play"
-msgstr ""
+msgstr "Lejátszás"
 
 #: package/contents/ui/ToolTipDelegate.qml:285
 #, kde-format
 msgctxt "Go to next song"
 msgid "Next"
-msgstr ""
+msgstr "Tovább"
 
 #: package/contents/ui/ToolTipWindowMouseArea.qml:54
 #, kde-format
 msgctxt "close this window"
 msgid "Close"
-msgstr ""
+msgstr "Bezárás"
 
 #: plugin/backend.cpp:237
 #, kde-format
 msgid "Forget Recent Documents"
-msgstr ""
+msgstr "Legutóbbi dokumentumok elfelejtése"
