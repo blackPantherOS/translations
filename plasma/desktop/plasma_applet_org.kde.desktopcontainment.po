@@ -1,0 +1,568 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Tamas Szanto <tszanto@interware.hu>, 2008.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2011, 2012, 2014, 2015.
+# Balázs Úr <urbalazs@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.2\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-02-12 07:49+0100\n"
+"PO-Revision-Date: 2015-03-27 15:01+0100\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: package/contents/config/config.qml:29
+#: package/contents/ui/ConfigLocation.qml:79
+msgid "Location"
+msgstr "Hely"
+
+#: package/contents/config/config.qml:36
+#: package/contents/ui/ConfigIcons.qml:252
+#: package/contents/ui/FolderViewLayer.qml:340
+msgid "Icons"
+msgstr "Ikonok"
+
+#: package/contents/config/config.qml:43
+msgid "Filter"
+msgstr "Szűrő"
+
+#: package/contents/config/config.qml:50
+msgid "Tweaks"
+msgstr ""
+
+#: package/contents/ui/AppletHandle.qml:104
+msgid "Resize"
+msgstr "Átméretezés"
+
+#: package/contents/ui/AppletHandle.qml:157
+msgid "Rotate"
+msgstr "Elforgatás"
+
+#: package/contents/ui/AppletHandle.qml:312
+msgid "Remove"
+msgstr "Eltávolítás"
+
+#: package/contents/ui/ConfigFilter.qml:53
+msgid "Show All Files"
+msgstr "Összes fájl megjelenítése"
+
+#: package/contents/ui/ConfigFilter.qml:53
+msgid "Show Files Matching"
+msgstr "Az illeszkedő fájlok mutatása"
+
+#: package/contents/ui/ConfigFilter.qml:53
+msgid "Hide Files Matching"
+msgstr "Az illeszkedő fájlok elrejtése"
+
+#: package/contents/ui/ConfigFilter.qml:59
+msgid "File name pattern:"
+msgstr "Fájlnévminta:"
+
+#: package/contents/ui/ConfigFilter.qml:73
+msgid "File types:"
+msgstr "Típusok:"
+
+#: package/contents/ui/ConfigFilter.qml:83
+msgid "Search file type..."
+msgstr "Fájltípus…"
+
+#: package/contents/ui/ConfigFilter.qml:143
+msgid "Select All"
+msgstr "Minden kijelölése"
+
+#: package/contents/ui/ConfigFilter.qml:155
+msgid "Deselect All"
+msgstr "A kijelölés megszüntetése"
+
+#: package/contents/ui/ConfigIcons.qml:72
+msgid "Panel Button"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:84
+#, fuzzy
+#| msgid "Custom title"
+msgid "Custom icon:"
+msgstr "Egyéni cím"
+
+#: package/contents/ui/ConfigIcons.qml:117
+#, fuzzy
+#| msgctxt "@title:menu in Copy To or Move To submenu"
+#| msgid "Browse..."
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose..."
+msgstr "Tallózás..."
+
+#: package/contents/ui/ConfigIcons.qml:123
+#, fuzzy
+#| msgid "Sort Icons"
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "Ikonrendezés"
+
+#: package/contents/ui/ConfigIcons.qml:138
+msgid "Arrangement"
+msgstr "Elrendezés"
+
+#: package/contents/ui/ConfigIcons.qml:147
+msgid "Arrange in:"
+msgstr "Elrendezés ebben:"
+
+#: package/contents/ui/ConfigIcons.qml:153
+#: plugins/folder/viewpropertiesmenu.cpp:34
+#, kde-format
+msgid "Rows"
+msgstr "Sorok"
+
+#: package/contents/ui/ConfigIcons.qml:153
+#: plugins/folder/viewpropertiesmenu.cpp:38
+#, kde-format
+msgid "Columns"
+msgstr "Oszlopok"
+
+#: package/contents/ui/ConfigIcons.qml:159
+msgid "Align:"
+msgstr "Igazítás:"
+
+#: package/contents/ui/ConfigIcons.qml:165
+#: plugins/folder/viewpropertiesmenu.cpp:46
+#, kde-format
+msgid "Left"
+msgstr "Balra"
+
+#: package/contents/ui/ConfigIcons.qml:165
+#: plugins/folder/viewpropertiesmenu.cpp:50
+#, kde-format
+msgid "Right"
+msgstr "Jobbra"
+
+#: package/contents/ui/ConfigIcons.qml:174
+msgid "Lock in place"
+msgstr "Rögzítés"
+
+#: package/contents/ui/ConfigIcons.qml:184
+msgid "Sorting"
+msgstr "Rendezés"
+
+#: package/contents/ui/ConfigIcons.qml:191
+msgid "Sorting:"
+msgstr "Rendezés:"
+
+#: package/contents/ui/ConfigIcons.qml:203
+#: plugins/folder/viewpropertiesmenu.cpp:58
+#, kde-format
+msgid "Unsorted"
+msgstr "Rendezetlen"
+
+#: package/contents/ui/ConfigIcons.qml:203
+#: plugins/folder/viewpropertiesmenu.cpp:62
+#, kde-format
+msgid "Name"
+msgstr "Név"
+
+#: package/contents/ui/ConfigIcons.qml:203
+#: plugins/folder/viewpropertiesmenu.cpp:66
+#, kde-format
+msgid "Size"
+msgstr "Méret"
+
+#: package/contents/ui/ConfigIcons.qml:203
+#: plugins/folder/viewpropertiesmenu.cpp:70
+#, kde-format
+msgid "Type"
+msgstr "Típus"
+
+#: package/contents/ui/ConfigIcons.qml:203
+#: plugins/folder/viewpropertiesmenu.cpp:74
+#, kde-format
+msgid "Date"
+msgstr "Dátum"
+
+#: package/contents/ui/ConfigIcons.qml:220
+#: plugins/folder/viewpropertiesmenu.cpp:79
+#, kde-format
+msgid "Descending"
+msgstr "Csökkenő"
+
+#: package/contents/ui/ConfigIcons.qml:228
+msgid "Folders first"
+msgstr "Mappák előre"
+
+#: package/contents/ui/ConfigIcons.qml:238
+msgid "Appearance"
+msgstr "Megjelenés"
+
+#: package/contents/ui/ConfigIcons.qml:247
+msgctxt "whether to use icon or list view"
+msgid "View Mode:"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:252
+msgid "List"
+msgstr ""
+
+#: package/contents/ui/ConfigIcons.qml:260
+msgid "Size:"
+msgstr "Méret:"
+
+#: package/contents/ui/ConfigIcons.qml:264
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Small"
+msgstr "Kicsi"
+
+#: package/contents/ui/ConfigIcons.qml:278
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Large"
+msgstr "Nagy"
+
+#: package/contents/ui/ConfigIcons.qml:286
+msgid "Text lines:"
+msgstr "Szövegsorok:"
+
+#: package/contents/ui/ConfigIcons.qml:306
+msgid "Features"
+msgstr "Szolgáltatások"
+
+#: package/contents/ui/ConfigIcons.qml:314
+msgid "Tooltips"
+msgstr "Buboréksúgók"
+
+#: package/contents/ui/ConfigIcons.qml:322
+msgid "Selection markers"
+msgstr "Kijelölés módja"
+
+#: package/contents/ui/ConfigIcons.qml:330
+msgid "Folder preview popups"
+msgstr "Felugró előnézet"
+
+#: package/contents/ui/ConfigIcons.qml:337
+msgid "Preview thumbnails"
+msgstr "Bélyegképek előnézete"
+
+#: package/contents/ui/ConfigIcons.qml:343
+msgid "More Preview Options..."
+msgstr "Több előnézetbeállítás…"
+
+#: package/contents/ui/ConfigLocation.qml:97
+msgid "Show the Desktop folder"
+msgstr "Az asztali mappa mutatása"
+
+#: package/contents/ui/ConfigLocation.qml:104
+msgid "Show files linked to the current activity"
+msgstr "Az aktuális aktivitáshoz kapcsolódó fájlok megjelenítése"
+
+#: package/contents/ui/ConfigLocation.qml:129
+msgid "Show a place:"
+msgstr "Hely megjelenítése:"
+
+#: package/contents/ui/ConfigLocation.qml:173
+msgid "Specify a folder:"
+msgstr "Mappa:"
+
+#: package/contents/ui/ConfigLocation.qml:185
+msgid "Type a path or a URL here"
+msgstr "Elérési út vagy URL"
+
+#: package/contents/ui/ConfigLocation.qml:228
+msgid "Title"
+msgstr "Cím"
+
+#: package/contents/ui/ConfigLocation.qml:238
+msgid "None"
+msgstr "Nincs"
+
+#: package/contents/ui/ConfigLocation.qml:238
+msgid "Default"
+msgstr "Alapértelmezés"
+
+#: package/contents/ui/ConfigLocation.qml:238
+msgid "Full path"
+msgstr "Teljes elérési út"
+
+#: package/contents/ui/ConfigLocation.qml:238
+msgid "Custom title"
+msgstr "Egyéni cím"
+
+#: package/contents/ui/ConfigLocation.qml:248
+msgid "Enter custom title here"
+msgstr "Itt adjon meg egyéni címet"
+
+#: package/contents/ui/ConfigTweaks.qml:44
+msgid ""
+"Tweaks are experimental options that may become defaults depending on your "
+"feedback."
+msgstr ""
+
+#: package/contents/ui/ConfigTweaks.qml:50
+#, fuzzy
+#| msgid "Desktop Folder"
+msgid "Desktop Layout"
+msgstr "Asztali mappa"
+
+#: package/contents/ui/ConfigTweaks.qml:59
+#, fuzzy
+#| msgid "Show the Desktop folder"
+msgid "Show the desktop toolbox"
+msgstr "Az asztali mappa mutatása"
+
+#: package/contents/ui/ConfigTweaks.qml:67
+msgid "Widget Handling"
+msgstr ""
+
+#: package/contents/ui/ConfigTweaks.qml:77
+msgid "Press and hold widgets to move them and reveal their handles"
+msgstr ""
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:36
+msgid "Preview Plugins"
+msgstr "Bővítmények előnézete"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:84
+msgid "OK"
+msgstr "OK"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:97
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: package/contents/ui/main.qml:358
+msgid "Widgets unlocked"
+msgstr ""
+
+#: package/contents/ui/main.qml:359
+msgid "You can press and hold widgets to move them and reveal their handles."
+msgstr ""
+
+#: package/contents/ui/main.qml:360
+msgid "Got it"
+msgstr "Értem"
+
+#: package/contents/ui/main.qml:567
+#, fuzzy
+#| msgid "&Refresh Desktop"
+msgid "Configure Desktop"
+msgstr "Az asztal &frissítése"
+
+#: package/contents/ui/UpButtonItem.qml:105
+msgid "Up"
+msgstr ""
+
+#: plugins/folder/directorypicker.cpp:45
+#, kde-format
+msgid "Select Folder"
+msgstr "Mappa kiválasztása"
+
+#: plugins/folder/foldermodel.cpp:250
+#, kde-format
+msgid "&Refresh Desktop"
+msgstr "Az asztal &frissítése"
+
+#: plugins/folder/foldermodel.cpp:250 plugins/folder/foldermodel.cpp:1195
+#, kde-format
+msgid "&Refresh View"
+msgstr "A né&zet frissítése"
+
+#: plugins/folder/foldermodel.cpp:1192
+#, kde-format
+msgid "&Reload"
+msgstr "Új&ratöltés"
+
+#: plugins/folder/foldermodel.cpp:1198
+#, kde-format
+msgid "&Rename"
+msgstr "Átne&vezés"
+
+#: plugins/folder/foldermodel.cpp:1201
+#, kde-format
+msgid "&Move to Trash"
+msgstr "&Áthelyezés a Kukába"
+
+#: plugins/folder/foldermodel.cpp:1204
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:334
+#, kde-format
+msgid "&Empty Trash Bin"
+msgstr "A Kuka ü&rítése"
+
+#: plugins/folder/foldermodel.cpp:1207
+#, kde-format
+msgid "&Delete"
+msgstr "&Törlés"
+
+#: plugins/folder/foldermodel.cpp:1267
+#, kde-format
+msgid "&Paste"
+msgstr "&Beillesztés"
+
+#: plugins/folder/internallibkonq/konq_copytomenu.cpp:84
+#, kde-format
+msgctxt "@title:menu"
+msgid "Copy To"
+msgstr "Másolás"
+
+#: plugins/folder/internallibkonq/konq_copytomenu.cpp:90
+#, kde-format
+msgctxt "@title:menu"
+msgid "Move To"
+msgstr "Átmozgatás"
+
+#: plugins/folder/internallibkonq/konq_copytomenu.cpp:114
+#, kde-format
+msgctxt "@title:menu"
+msgid "Home Folder"
+msgstr "Saját mappa"
+
+#: plugins/folder/internallibkonq/konq_copytomenu.cpp:121
+#, kde-format
+msgctxt "@title:menu"
+msgid "Root Folder"
+msgstr "Gyökérmappa"
+
+#: plugins/folder/internallibkonq/konq_copytomenu.cpp:156
+#, kde-format
+msgctxt "@title:menu in Copy To or Move To submenu"
+msgid "Browse..."
+msgstr "Tallózás..."
+
+#: plugins/folder/internallibkonq/konq_copytomenu.cpp:229
+#, kde-format
+msgctxt "@title:menu"
+msgid "Copy Here"
+msgstr "Másolás ide"
+
+#: plugins/folder/internallibkonq/konq_copytomenu.cpp:230
+#, kde-format
+msgctxt "@title:menu"
+msgid "Move Here"
+msgstr "Átmozgatás ide"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:241
+#, kde-format
+msgid "&Open"
+msgstr "Megny&itás"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:264
+#, kde-format
+msgid "Create &Folder..."
+msgstr "Köny&vtár létrehozása..."
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:275
+#, fuzzy, kde-format
+#| msgid "&Restore"
+msgid "&Restore"
+msgstr "&Visszaállítás"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:299
+#, kde-format
+msgid "Show Original Directory"
+msgstr "Eredeti mappa megjelenítése"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:299
+#, kde-format
+msgid "Show Original File"
+msgstr "Eredeti fájl megjelenítése"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:346
+#, kde-format
+msgid "&Configure Trash Bin"
+msgstr "A &Kuka beállítása"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:370
+#, kde-format
+msgid "&Bookmark This Page"
+msgstr "Könyvjel&ző erre az oldalra"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:372
+#, kde-format
+msgid "&Bookmark This Location"
+msgstr "Könyvj&elző erre a címre"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:375
+#, kde-format
+msgid "&Bookmark This Folder"
+msgstr "Könyvjelző erre a &könyvtárra"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:377
+#, kde-format
+msgid "&Bookmark This Link"
+msgstr "Könyvjelző erre a l&inkre"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:379
+#, kde-format
+msgid "&Bookmark This File"
+msgstr "Könyvjelző erre a &fájlra"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:413
+#, kde-format
+msgid "Preview In"
+msgstr "Előnézet itt"
+
+#: plugins/folder/internallibkonq/konq_popupmenu.cpp:448
+#, kde-format
+msgid "&Properties"
+msgstr "&Tulajdonságok"
+
+#: plugins/folder/labelgenerator.cpp:97
+#, fuzzy, kde-format
+#| msgid "Show the Desktop folder"
+msgid "Desktop Folder"
+msgstr "Az asztali mappa mutatása"
+
+#: plugins/folder/viewpropertiesmenu.cpp:31
+#, kde-format
+msgid "Arrange In"
+msgstr "Elrendezés ebben"
+
+#: plugins/folder/viewpropertiesmenu.cpp:43
+#, kde-format
+msgid "Align"
+msgstr "Igazítás"
+
+#: plugins/folder/viewpropertiesmenu.cpp:55
+#, kde-format
+msgid "Sort By"
+msgstr "Rendezés"
+
+#: plugins/folder/viewpropertiesmenu.cpp:81
+#, kde-format
+msgid "Folders First"
+msgstr "Mappák előre"
+
+#: plugins/folder/viewpropertiesmenu.cpp:84
+#, fuzzy, kde-format
+#| msgid "Icon size:"
+msgid "Icon Size"
+msgstr "Ikonméret:"
+
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Tiny"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Small Medium"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Medium"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Huge"
+msgstr ""
+
+#: plugins/folder/viewpropertiesmenu.cpp:97
+#, kde-format
+msgid "Locked"
+msgstr "Zárolt"

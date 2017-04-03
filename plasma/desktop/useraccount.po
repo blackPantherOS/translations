@@ -1,0 +1,295 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2014-09-09 09:37+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Kiszel Kristóf"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ulysses@kubuntu.org"
+
+#: chfacedlg.cpp:54
+#, kde-format
+msgctxt "@title:window"
+msgid "Change your Face"
+msgstr "A kép megváltoztatása"
+
+#: chfacedlg.cpp:58
+#, kde-format
+msgid "Custom Image..."
+msgstr "Egyedi kép…"
+
+#: chfacedlg.cpp:59
+#, kde-format
+msgid "Remove Image"
+msgstr "Kép eltávolítása"
+
+#: chfacedlg.cpp:76
+#, kde-format
+msgid "&Acquire Image..."
+msgstr "Kép &letöltése…"
+
+#: chfacedlg.cpp:96
+#, kde-format
+msgid "(Custom)"
+msgstr "(Egyéni)"
+
+#: chfacedlg.cpp:115
+#, kde-format
+msgid "There was an error loading the image."
+msgstr "Hiba történt a kép betöltése során."
+
+#: chfacedlg.cpp:135 chfacedlg.cpp:177
+#, kde-format
+msgid ""
+"There was an error saving the image:\n"
+"%1"
+msgstr ""
+"Hiba történt a kép mentése során:\n"
+"%1"
+
+#: chfacedlg.cpp:146
+#, kde-format
+msgid "&Save copy in custom faces folder for future use"
+msgstr "Másolat menté&se az egyéni képek könyvtárába"
+
+#: chfacedlg.cpp:152
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose Image"
+msgstr "Kép kiválasztása"
+
+#. i18n: ectx: property (text), widget (QLabel, header)
+#: faceDlg.ui:25
+#, kde-format
+msgid "Select a new face:"
+msgstr "Új arckép választása:"
+
+#. i18n: ectx: label, entry (FaceSize), group (X-*-Greeter)
+#: kcm_useraccount.kcfg:24
+#, kde-format
+msgid "The size of login images"
+msgstr "A bejelentkezési képek mérete"
+
+#. i18n: ectx: label, entry (DefaultFile), group (X-*-Greeter)
+#: kcm_useraccount.kcfg:28
+#, kde-format
+msgid "The default image file"
+msgstr "Alapértelmezett képfájl"
+
+#. i18n: ectx: label, entry (CustomFaceFile), group (X-*-Greeter)
+#: kcm_useraccount.kcfg:32
+#, kde-format
+msgid "The filename of the user's custom image file"
+msgstr "A felhasználó egyéni képét tartalmazó fájl neve"
+
+#. i18n: ectx: label, entry (FaceFile), group (X-*-Greeter)
+#: kcm_useraccount.kcfg:36
+#, kde-format
+msgid "The user's login image"
+msgstr "A felhasználó bejelentkezési képe"
+
+#: main.cpp:71
+#, kde-format
+msgid "Change &Password..."
+msgstr "Jelszó &módosítása…"
+
+#: main.cpp:88
+#, kde-format
+msgid "Password & User Information"
+msgstr "Jelszó és felhasználói adatok"
+
+#: main.cpp:89
+#, kde-format
+msgid "(C) 2002, Braden MacDonald, (C) 2004 Ravikiran Rajagopal"
+msgstr "© Braden MacDonald, 2002. © Ravikiran Rajagopal, 2004."
+
+#: main.cpp:91
+#, kde-format
+msgid "Frans Englich"
+msgstr "Frans Englich"
+
+#: main.cpp:91
+#, kde-format
+msgid "Maintainer"
+msgstr "Karbantartó"
+
+#: main.cpp:92
+#, kde-format
+msgid "Ravikiran Rajagopal"
+msgstr "Ravikiran Rajagopal"
+
+#: main.cpp:93
+#, kde-format
+msgid "Michael Häckel"
+msgstr "Michael Häckel"
+
+#: main.cpp:95
+#, kde-format
+msgid "Braden MacDonald"
+msgstr "Braden MacDonald"
+
+#: main.cpp:95
+#, kde-format
+msgid "Face editor"
+msgstr "Arcképszerkesztő"
+
+#: main.cpp:96
+#, kde-format
+msgid "Geert Jansen"
+msgstr "Geert Jansen"
+
+#: main.cpp:96
+#, kde-format
+msgid "Password changer"
+msgstr "Jelszóváltoztató"
+
+#: main.cpp:97
+#, kde-format
+msgid "Daniel Molkentin"
+msgstr "Daniel Molkentin"
+
+#: main.cpp:98
+#, kde-format
+msgid "Alex Zepeda"
+msgstr "Alex Zepeda"
+
+#: main.cpp:99
+#, kde-format
+msgid "Hans Karlsson"
+msgstr "Hans Karlsson"
+
+#: main.cpp:99 main.cpp:100
+#, kde-format
+msgid "Icons"
+msgstr "Ikonok"
+
+#: main.cpp:100
+#, kde-format
+msgid "Hermann Thomas"
+msgstr "Hermann Thomas"
+
+#: main.cpp:103
+#, kde-format
+msgid ""
+"<qt>Here you can change your personal information, which will be used, for "
+"instance, in mail programs and word processors. You can change your login "
+"password by clicking <em>Change Password...</em>.</qt>"
+msgstr ""
+"<qt>Itt lehet megadni a személyi adatokat, melyek használva lesznek. Ezeket "
+"például a levelezőprogramok és szövegszerkesztők használhatják fel. A "
+"bejelentkezési jelszó megváltoztatásához kattintson <em>A jelszó "
+"megváltoztatása…</em> gombra.</qt>"
+
+#: main.cpp:116
+#, kde-format
+msgid ""
+"A program error occurred: the internal program 'kdepasswd' could not be "
+"found. You will not be able to change your password."
+msgstr ""
+"Programhiba történt: a „kdepasswd” nevű program nem található. A jelszó "
+"enélkül nem változtatható meg."
+
+#: main.cpp:193
+#, kde-format
+msgid "There was an error setting the name: %1"
+msgstr "Hiba történt a név beállításakor: %1"
+
+#: main.cpp:205
+#, kde-format
+msgid "There was an error saving the image: %1"
+msgstr "Hiba történt a kép mentésekor: %1"
+
+#: main.cpp:223
+#, kde-format
+msgid "There was an error setting the image: %1"
+msgstr "Hiba történt a kép beállításakor: %1"
+
+#: main.cpp:231
+#, kde-format
+msgid "There was an error deleting the image: %1"
+msgstr "Hiba történt a kép törlésekor: %1"
+
+#: main.cpp:313
+#, kde-format
+msgid ""
+"%1 does not appear to be an image file.\n"
+"Please use files with these extensions:\n"
+"%2"
+msgstr ""
+"%1 valószínűleg nem képfájl.\n"
+"Ilyen kiterjesztésű fájlokat használjon:\n"
+"%2"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, btnChangeFace)
+#: main_widget.ui:44
+#, kde-format
+msgid "Change your image"
+msgstr "A kép megváltoztatása"
+
+#. i18n: ectx: property (text), widget (QLabel, lblClickButtonInfo)
+#: main_widget.ui:72
+#, kde-format
+msgid "<i>Click to change your image</i>"
+msgstr "<i>Kattintson ide a kép megváltoztatásához</i>"
+
+#. i18n: ectx: property (text), widget (QPushButton, btnChangePassword)
+#: main_widget.ui:87
+#, kde-format
+msgid "Change Password..."
+msgstr "Jelszó módosítása…"
+
+#. i18n: ectx: property (title), widget (QGroupBox, grpUserInformation)
+#: main_widget.ui:116
+#, kde-format
+msgid "User Information"
+msgstr "Felhasználói adatok"
+
+#. i18n: ectx: property (text), widget (QLabel, lblRealName)
+#: main_widget.ui:122
+#, kde-format
+msgid "&Name:"
+msgstr "&Név:"
+
+#. i18n: ectx: property (text), widget (QLabel, lblOrganisation)
+#: main_widget.ui:145
+#, kde-format
+msgid "&Organization:"
+msgstr "Szerve&zet:"
+
+#. i18n: ectx: property (text), widget (QLabel, lblEmail)
+#: main_widget.ui:168
+#, kde-format
+msgid "&Email address:"
+msgstr "E-mail &cím:"
+
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: main_widget.ui:191
+#, kde-format
+msgid "&SMTP server:"
+msgstr "SMT&P-kiszolgáló:"
+
+#. i18n: ectx: property (text), widget (QLabel, lblUIDTell)
+#: main_widget.ui:214
+#, kde-format
+msgid "User ID:"
+msgstr "Felhasználóazonosító:"

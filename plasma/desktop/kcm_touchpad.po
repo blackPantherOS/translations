@@ -1,0 +1,1078 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Balázs Úr <urbalazs@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-02-12 07:49+0100\n"
+"PO-Revision-Date: 2014-01-23 00:15+0100\n"
+"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Úr Balázs"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "urbalazs@gmail.com"
+
+#: src/backends/x11/xlibbackend.cpp:84
+#, kde-format
+msgid "Cannot connect to X server"
+msgstr ""
+
+#: src/backends/x11/xlibbackend.cpp:141
+#, kde-format
+msgid "Cannot apply touchpad configuration"
+msgstr ""
+
+#: src/backends/x11/xlibbackend.cpp:155
+#, kde-format
+msgid "Cannot read touchpad configuration"
+msgstr ""
+
+#: src/kcm/testarea.cpp:36
+#, kde-format
+msgid "Drag me"
+msgstr ""
+
+#: src/kcm/testbutton.cpp:40
+#, kde-format
+msgctxt "Mouse button"
+msgid "Left button"
+msgstr ""
+
+#: src/kcm/testbutton.cpp:43
+#, kde-format
+msgctxt "Mouse button"
+msgid "Right button"
+msgstr ""
+
+#: src/kcm/testbutton.cpp:46
+#, kde-format
+msgctxt "Mouse button"
+msgid "Middle button"
+msgstr ""
+
+#. i18n: ectx: label, entry ($(TapAction)Button), group (parameters)
+#: src/kcm/touchpad.kcfg:27
+#, kde-format
+msgctxt "Emulated mouse button"
+msgid "No action"
+msgstr ""
+
+#. i18n: ectx: label, entry ($(TapAction)Button), group (parameters)
+#: src/kcm/touchpad.kcfg:30
+#, kde-format
+msgctxt "Emulated mouse button"
+msgid "Left button"
+msgstr ""
+
+#. i18n: ectx: label, entry ($(TapAction)Button), group (parameters)
+#: src/kcm/touchpad.kcfg:33
+#, kde-format
+msgctxt "Emulated mouse button"
+msgid "Middle button"
+msgstr ""
+
+#. i18n: ectx: label, entry ($(TapAction)Button), group (parameters)
+#: src/kcm/touchpad.kcfg:36
+#, kde-format
+msgctxt "Emulated mouse button"
+msgid "Right button"
+msgstr ""
+
+#. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
+#: src/kcm/touchpad.kcfg:285
+#, kde-format
+msgctxt "Touchpad Edge"
+msgid "All edges"
+msgstr ""
+
+#. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
+#: src/kcm/touchpad.kcfg:288
+#, kde-format
+msgctxt "Touchpad Edge"
+msgid "Top edge"
+msgstr ""
+
+#. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
+#: src/kcm/touchpad.kcfg:291
+#, kde-format
+msgctxt "Touchpad Edge"
+msgid "Top right corner"
+msgstr ""
+
+#. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
+#: src/kcm/touchpad.kcfg:294
+#, kde-format
+msgctxt "Touchpad Edge"
+msgid "Right edge"
+msgstr ""
+
+#. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
+#: src/kcm/touchpad.kcfg:297
+#, kde-format
+msgctxt "Touchpad Edge"
+msgid "Bottom right corner"
+msgstr ""
+
+#. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
+#: src/kcm/touchpad.kcfg:300
+#, kde-format
+msgctxt "Touchpad Edge"
+msgid "Bottom edge"
+msgstr ""
+
+#. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
+#: src/kcm/touchpad.kcfg:303
+#, kde-format
+msgctxt "Touchpad Edge"
+msgid "Bottom left corner"
+msgstr ""
+
+#. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
+#: src/kcm/touchpad.kcfg:306
+#, kde-format
+msgctxt "Touchpad Edge"
+msgid "Left edge"
+msgstr ""
+
+#. i18n: ectx: label, entry (CircScrollTrigger), group (parameters)
+#: src/kcm/touchpad.kcfg:309
+#, kde-format
+msgctxt "Touchpad Edge"
+msgid "Top left corner"
+msgstr ""
+
+#: src/kcm/touchpadconfig.cpp:108
+#, kde-format
+msgid "Touchpad KCM"
+msgstr ""
+
+#: src/kcm/touchpadconfig.cpp:110
+#, kde-format
+msgid ""
+"System Settings module, daemon and Plasma applet for managing your touchpad"
+msgstr ""
+
+#: src/kcm/touchpadconfig.cpp:112
+#, kde-format
+msgid "Copyright © 2013 Alexander Mezin"
+msgstr "Copyright © Alexander Mezin, 2013."
+
+#: src/kcm/touchpadconfig.cpp:113
+#, kde-format
+msgid ""
+"This program incorporates work covered by this copyright notice:\n"
+"Copyright © 2002-2005,2007 Peter Osterlund"
+msgstr ""
+
+#: src/kcm/touchpadconfig.cpp:118
+#, kde-format
+msgid "Alexander Mezin"
+msgstr "Alexander Mezin"
+
+#: src/kcm/touchpadconfig.cpp:119
+#, kde-format
+msgid "Developer"
+msgstr "Fejlesztő"
+
+#: src/kcm/touchpadconfig.cpp:121
+#, kde-format
+msgid "Thomas Pfeiffer"
+msgstr "Thomas Pfeiffer"
+
+#: src/kcm/touchpadconfig.cpp:121
+#, kde-format
+msgctxt "Credits"
+msgid "Usability, testing"
+msgstr "Használhatóság, tesztelés"
+
+#: src/kcm/touchpadconfig.cpp:122
+#, kde-format
+msgid "Alex Fiestas"
+msgstr "Alex Fiestas"
+
+#: src/kcm/touchpadconfig.cpp:122
+#, kde-format
+msgctxt "Credits"
+msgid "Helped a bit"
+msgstr "Segített egy kicsit"
+
+#: src/kcm/touchpadconfig.cpp:123
+#, kde-format
+msgid "Peter Osterlund"
+msgstr "Peter Osterlund"
+
+#: src/kcm/touchpadconfig.cpp:123
+#, kde-format
+msgctxt "Credits"
+msgid "Developer of synclient"
+msgstr "A synclient fejlesztője"
+
+#: src/kcm/touchpadconfig.cpp:124
+#, kde-format
+msgid "Vadim Zaytsev"
+msgstr "Vadim Zaytsev"
+
+#: src/kcm/touchpadconfig.cpp:124 src/kcm/touchpadconfig.cpp:125
+#, kde-format
+msgctxt "Credits"
+msgid "Testing"
+msgstr "Tesztelés"
+
+#: src/kcm/touchpadconfig.cpp:125
+#, kde-format
+msgid "Violetta Raspryagayeva"
+msgstr "Violetta Raspryagayeva"
+
+#: src/kcm/touchpadconfig.cpp:144
+#, kde-format
+msgid ""
+"Active settings don't match saved settings.\n"
+"You currently see saved settings."
+msgstr ""
+
+#: src/kcm/touchpadconfig.cpp:150
+#, kde-format
+msgid "Show active settings"
+msgstr ""
+
+#: src/kcm/touchpadconfig.cpp:198
+#, kde-format
+msgid "These settings won't take effect in the testing area"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, KdedForm)
+#: src/kcm/touchpadconfig.cpp:207 src/kcm/ui/kded.ui:14
+#, kde-format
+msgid "Enable/Disable Touchpad"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, configureShortcutsButton)
+#. i18n: ectx: property (text), widget (QPushButton, configureNotificationsButton)
+#: src/kcm/ui/kded.ui:35 src/kcm/ui/kded.ui:146
+#, kde-format
+msgid "Configure"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/kcm/ui/kded.ui:47
+#, kde-format
+msgid "Keyboard shortcuts:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_DisableOnKeyboardActivity)
+#: src/kcm/ui/kded.ui:60
+#, kde-format
+msgid "Disable touchpad when typing"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/kcm/ui/kded.ui:75
+#, kde-format
+msgid "Timeout:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_KeyboardActivityTimeoutMs)
+#: src/kcm/ui/kded.ui:86
+#, kde-format
+msgid ""
+"If there was no keyboard activity for more than specified\n"
+"number of milliseconds, touchpad will be enabled again"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_LockedDragTimeout)
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_MaxTapTime)
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_MaxDoubleTapTime)
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_SingleTapTimeout)
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_KeyboardActivityTimeoutMs)
+#: src/kcm/ui/kded.ui:98 src/kcm/ui/tap.ui:306 src/kcm/ui/tap.ui:401
+#: src/kcm/ui/tap.ui:439 src/kcm/ui/tap.ui:458
+#, kde-format
+msgid " ms"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_OnlyDisableTapAndScrollOnKeyboardActivity)
+#: src/kcm/ui/kded.ui:106
+#, kde-format
+msgid ""
+"Disable click emulation and scrolling.\n"
+"You will be still able to move pointer using touchpad and perform clicks "
+"with hardware buttons."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_OnlyDisableTapAndScrollOnKeyboardActivity)
+#: src/kcm/ui/kded.ui:109
+#, kde-format
+msgid "Disable taps and scrolling only"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_DisableWhenMousePluggedIn)
+#: src/kcm/ui/kded.ui:119
+#, kde-format
+msgid "Disable touchpad when mouse is plugged in"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, notificationsLabel)
+#: src/kcm/ui/kded.ui:136
+#, kde-format
+msgid "Notifications:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, ignoredDevLabel)
+#: src/kcm/ui/kded.ui:158
+#, kde-format
+msgid "Ignored devices:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KEditListWidget, kcfg_MouseBlacklist)
+#: src/kcm/ui/kded.ui:169
+#, kde-format
+msgid ""
+"Some devices might be incorrectly treated as a mouse.\n"
+"You can add them to this list so that they will be ignored when they're "
+"plugged in."
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, PointerMotionForm)
+#: src/kcm/ui/pointermotion.ui:14
+#, kde-format
+msgid "Pointer Motion"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: src/kcm/ui/pointermotion.ui:20
+#, kde-format
+msgctxt "Mouse pointer motion parameters"
+msgid "Speed"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/kcm/ui/pointermotion.ui:29
+#, kde-format
+msgctxt "Minimum pointer movement speed"
+msgid "Minimum:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (CustomSlider, kcfg_MinSpeed)
+#: src/kcm/ui/pointermotion.ui:39
+#, kde-format
+msgid "Minimum pointer speed"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/kcm/ui/pointermotion.ui:52
+#, kde-format
+msgctxt "Maximum pointer movement speed"
+msgid "Maximum:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (CustomSlider, kcfg_MaxSpeed)
+#: src/kcm/ui/pointermotion.ui:62
+#, kde-format
+msgid "Maximum pointer speed"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/kcm/ui/pointermotion.ui:75
+#, kde-format
+msgctxt "Pointer acceleration"
+msgid "Acceleration:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (CustomSlider, kcfg_AccelFactor)
+#: src/kcm/ui/pointermotion.ui:85
+#, kde-format
+msgid "Acceleration factor for normal pointer movements"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: src/kcm/ui/pointermotion.ui:101
+#, kde-format
+msgctxt "Pointer motion"
+msgid "Pressure-Dependent Motion"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/kcm/ui/pointermotion.ui:113
+#, kde-format
+msgctxt "Pressure-dependent pointer motion"
+msgid "Minimum pressure:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: src/kcm/ui/pointermotion.ui:123
+#, kde-format
+msgctxt "Pressure-dependent pointer motion"
+msgid "Minimum factor:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: src/kcm/ui/pointermotion.ui:133
+#, kde-format
+msgctxt "Pressure-dependent pointer motion"
+msgid "Maximum pressure:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: src/kcm/ui/pointermotion.ui:143
+#, kde-format
+msgctxt "Pressure-dependent pointer motion"
+msgid "Maximum factor:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_PressureMotionMinZ)
+#: src/kcm/ui/pointermotion.ui:153
+#, kde-format
+msgid "Finger pressure at which minimum pressure motion factor is applied"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_PressureMotionMaxZ)
+#: src/kcm/ui/pointermotion.ui:166
+#, kde-format
+msgid "Finger pressure at which maximum pressure motion factor is applied"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_PressureMotionMinFactor)
+#: src/kcm/ui/pointermotion.ui:179
+#, kde-format
+msgid "Lowest setting for pressure motion factor"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_PressureMotionMaxFactor)
+#: src/kcm/ui/pointermotion.ui:189
+#, kde-format
+msgid "Greatest setting for pressure motion factor"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: src/kcm/ui/pointermotion.ui:202
+#, kde-format
+msgctxt "Pointer motion"
+msgid "Noise Cancellation"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/kcm/ui/pointermotion.ui:214
+#, kde-format
+msgctxt "Noise cancellation"
+msgid "Vertical:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/kcm/ui/pointermotion.ui:224
+#, kde-format
+msgctxt "Noise cancellation"
+msgid "Horizontal:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_VertHysteresis)
+#: src/kcm/ui/pointermotion.ui:234
+#, kde-format
+msgid ""
+"The minimum vertical hardware distance required to generate motion events"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_VertHysteresis)
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_HorizHysteresis)
+#: src/kcm/ui/pointermotion.ui:243 src/kcm/ui/pointermotion.ui:259
+#, kde-format
+msgid " units"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_HorizHysteresis)
+#: src/kcm/ui/pointermotion.ui:250
+#, kde-format
+msgid ""
+"The minimum horizontal hardware distance required to generate motion events"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ScrollForm)
+#: src/kcm/ui/scroll.ui:14
+#, kde-format
+msgid "Scrolling"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: src/kcm/ui/scroll.ui:28
+#, kde-format
+msgid "Edge scrolling:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_VertEdgeScroll)
+#: src/kcm/ui/scroll.ui:38
+#, kde-format
+msgid "Enable vertical scrolling when dragging along the right edge"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_VertEdgeScroll)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_VertTwoFingerScroll)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_InvertVertScroll)
+#: src/kcm/ui/scroll.ui:41 src/kcm/ui/scroll.ui:61 src/kcm/ui/scroll.ui:81
+#, kde-format
+msgctxt "Scrolling direction"
+msgid "Vertical"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_HorizEdgeScroll)
+#: src/kcm/ui/scroll.ui:48
+#, kde-format
+msgid "Enable horizontal scrolling when dragging along the bottom edge"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_HorizEdgeScroll)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_HorizTwoFingerScroll)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_InvertHorizScroll)
+#: src/kcm/ui/scroll.ui:51 src/kcm/ui/scroll.ui:71 src/kcm/ui/scroll.ui:91
+#, kde-format
+msgctxt "Scrolling direction"
+msgid "Horizontal"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_VertTwoFingerScroll)
+#: src/kcm/ui/scroll.ui:58
+#, kde-format
+msgid ""
+"Enable vertical scrolling when dragging with two fingers anywhere on the "
+"touchpad"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_HorizTwoFingerScroll)
+#: src/kcm/ui/scroll.ui:68
+#, kde-format
+msgid ""
+"Enable horizontal scrolling when dragging with two fingers anywhere on the "
+"touchpad"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_InvertVertScroll)
+#: src/kcm/ui/scroll.ui:78
+#, kde-format
+msgid "Reverse vertical scrolling"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_InvertHorizScroll)
+#: src/kcm/ui/scroll.ui:88
+#, kde-format
+msgid "Reverse horizontal scrolling"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: src/kcm/ui/scroll.ui:98
+#, kde-format
+msgid "Two-finger scrolling:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: src/kcm/ui/scroll.ui:108
+#, kde-format
+msgid "Reverse scrolling:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: src/kcm/ui/scroll.ui:126
+#, kde-format
+msgctxt "Touchpad - Scrolling"
+msgid "Scrolling Distance"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/kcm/ui/scroll.ui:138
+#, kde-format
+msgctxt "Scrolling distance"
+msgid "Vertical:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, kcfg_VertScrollDelta)
+#. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, kcfg_HorizScrollDelta)
+#: src/kcm/ui/scroll.ui:148 src/kcm/ui/scroll.ui:177
+#, kde-format
+msgid "Move distance of the finger for a scroll event"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, kcfg_MaxTapMove)
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, kcfg_VertScrollDelta)
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, kcfg_HorizScrollDelta)
+#: src/kcm/ui/scroll.ui:157 src/kcm/ui/scroll.ui:186 src/kcm/ui/tap.ui:417
+#, kde-format
+msgid " mm"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/kcm/ui/scroll.ui:167
+#, kde-format
+msgctxt "Scrolling distance"
+msgid "Horizontal:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QGroupBox, kcfg_Coasting)
+#: src/kcm/ui/scroll.ui:199
+#, kde-format
+msgid ""
+"Continue scrolling after the finger is released from the edge of the touchpad"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_Coasting)
+#: src/kcm/ui/scroll.ui:202
+#, kde-format
+msgctxt "Touchpad - Scrolling"
+msgid "Coasting"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/kcm/ui/scroll.ui:217
+#, kde-format
+msgctxt "Coasting"
+msgid "Minimum speed:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_CoastingSpeed)
+#: src/kcm/ui/scroll.ui:227
+#, kde-format
+msgid ""
+"Your finger needs to produce this many scrolls per second in order to start "
+"coasting"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_CoastingSpeed)
+#: src/kcm/ui/scroll.ui:233
+#, kde-format
+msgid " scrolls/sec"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/kcm/ui/scroll.ui:240
+#, kde-format
+msgctxt "Coasting"
+msgid "Deceleration:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_CoastingFriction)
+#: src/kcm/ui/scroll.ui:250
+#, kde-format
+msgid "Number of scrolls/second² to decrease the coasting speed"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_CoastingFriction)
+#: src/kcm/ui/scroll.ui:256
+#, kde-format
+msgid " scrolls/sec²"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: src/kcm/ui/scroll.ui:263
+#, kde-format
+msgid "Corner coasting:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_CornerCoasting)
+#: src/kcm/ui/scroll.ui:273
+#, kde-format
+msgid ""
+"Enable edge scrolling to continue while the finger stays in an edge corner"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_CornerCoasting)
+#: src/kcm/ui/scroll.ui:276
+#, kde-format
+msgctxt "Coasting"
+msgid "Enable"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QGroupBox, kcfg_CircularScrolling)
+#: src/kcm/ui/scroll.ui:288
+#, kde-format
+msgid ""
+"Scrolling is engaged when a drag starts in the given trigger region.\n"
+"Moving your finger in clockwise circles around the center of the touchpad\n"
+"will scroll down and counter clockwise motion will scroll up"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_CircularScrolling)
+#: src/kcm/ui/scroll.ui:291
+#, kde-format
+msgctxt "Touchpad - Scrolling"
+msgid "Circular Scrolling"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/kcm/ui/scroll.ui:306
+#, kde-format
+msgctxt "Circular scrolling"
+msgid "Trigger region:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_CircScrollTrigger)
+#: src/kcm/ui/scroll.ui:316
+#, kde-format
+msgid "Trigger region on the touchpad to start circular scrolling"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/kcm/ui/scroll.ui:323
+#, kde-format
+msgctxt "Circular scrolling"
+msgid "Angle:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, kcfg_CircScrollDelta)
+#: src/kcm/ui/scroll.ui:345
+#, kde-format
+msgid "Move angle (radians) of finger to generate a scroll event"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QDoubleSpinBox, kcfg_CircScrollDelta)
+#: src/kcm/ui/scroll.ui:348
+#, kde-format
+msgctxt "suffix - degrees (angle)"
+msgid "°"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: src/kcm/ui/scroll.ui:355
+#, kde-format
+msgid ""
+"When used together with vertical scrolling, hitting the upper or lower right "
+"corner will seamlessly switch over from vertical to circular scrolling"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, SensitivityForm)
+#: src/kcm/ui/sensitivity.ui:14
+#, kde-format
+msgid "Sensitivity"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: src/kcm/ui/sensitivity.ui:20
+#, kde-format
+msgctxt "Touchpad"
+msgid "Sensitivity"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/kcm/ui/sensitivity.ui:29
+#, kde-format
+msgid "Pressure for detecting a touch:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/kcm/ui/sensitivity.ui:39
+#, kde-format
+msgid "Pressure for detecting a release:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_FingerHigh)
+#: src/kcm/ui/sensitivity.ui:49
+#, kde-format
+msgid ""
+"When finger pressure goes above this value, the driver counts it as a touch"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_FingerLow)
+#: src/kcm/ui/sensitivity.ui:62
+#, kde-format
+msgid ""
+"When finger pressure drops below this value, the driver counts it as a "
+"release"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QGroupBox, kcfg_PalmDetect)
+#: src/kcm/ui/sensitivity.ui:78
+#, kde-format
+msgid ""
+"If palm detection should be enabled. Note that this also requires hardware/"
+"firmware support from the touchpad"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_PalmDetect)
+#: src/kcm/ui/sensitivity.ui:81
+#, kde-format
+msgctxt "Touchpad"
+msgid "Palm Detection"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/kcm/ui/sensitivity.ui:93
+#, kde-format
+msgctxt "Palm detection"
+msgid "Minimum width:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/kcm/ui/sensitivity.ui:103
+#, kde-format
+msgctxt "Palm detection"
+msgid "Minimum pressure:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_PalmMinWidth)
+#: src/kcm/ui/sensitivity.ui:113
+#, kde-format
+msgid "Minimum finger width at which touch is considered a palm"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSlider, kcfg_PalmMinZ)
+#: src/kcm/ui/sensitivity.ui:129
+#, kde-format
+msgid "Minimum finger pressure at which touch is considered a palm"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, TapForm)
+#: src/kcm/ui/tap.ui:14
+#, kde-format
+msgctxt "Touchpad gesture"
+msgid "Taps"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_Tapping)
+#: src/kcm/ui/tap.ui:28
+#, kde-format
+msgid "Mouse Click Emulation"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/kcm/ui/tap.ui:43
+#, kde-format
+msgctxt "Tapping"
+msgid "One finger:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_OneFingerTapButton)
+#: src/kcm/ui/tap.ui:53
+#, kde-format
+msgid "Which mouse button is reported on a non-corner one-finger tap"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/kcm/ui/tap.ui:60
+#, kde-format
+msgctxt "Tapping"
+msgid "Two fingers:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_TwoFingerTapButton)
+#: src/kcm/ui/tap.ui:70
+#, kde-format
+msgid "Which mouse button is reported on a non-corner two-finger tap"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/kcm/ui/tap.ui:77
+#, kde-format
+msgctxt "Tapping"
+msgid "Three fingers:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_ThreeFingerTapButton)
+#: src/kcm/ui/tap.ui:87
+#, kde-format
+msgid "Which mouse button is reported on a non-corner three-finger tap"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: src/kcm/ui/tap.ui:107
+#, kde-format
+msgctxt "Touchpad"
+msgid "Corners"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/kcm/ui/tap.ui:131
+#, kde-format
+msgctxt "Touchpad corner"
+msgid "Top left:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_LTCornerButton)
+#: src/kcm/ui/tap.ui:144
+#, kde-format
+msgid "Which mouse button is reported on a left top corner tap"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: src/kcm/ui/tap.ui:151
+#, kde-format
+msgctxt "Touchpad corner"
+msgid "Bottom left:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/kcm/ui/tap.ui:164
+#, kde-format
+msgctxt "Touchpad corner"
+msgid "Top right:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_LBCornerButton)
+#: src/kcm/ui/tap.ui:177
+#, kde-format
+msgid "Which mouse button is reported on a left bottom corner tap"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_RTCornerButton)
+#: src/kcm/ui/tap.ui:184
+#, kde-format
+msgid "Which mouse button is reported on a right top corner tap"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, kcfg_RBCornerButton)
+#: src/kcm/ui/tap.ui:191
+#, kde-format
+msgid "Which mouse button is reported on a right bottom corner tap"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: src/kcm/ui/tap.ui:214
+#, kde-format
+msgctxt "Touchpad corner"
+msgid "Bottom right:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QGroupBox, kcfg_TapAndDragGesture)
+#: src/kcm/ui/tap.ui:251
+#, kde-format
+msgid ""
+"This gesture is an alternative way of dragging. It is performed by tapping "
+"(touching and releasing the finger), then touching again and moving the "
+"finger on the touchpad"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_TapAndDragGesture)
+#: src/kcm/ui/tap.ui:254
+#, kde-format
+msgid "Tap-and-Drag Gesture"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QGroupBox, kcfg_LockedDrags)
+#: src/kcm/ui/tap.ui:266
+#, kde-format
+msgid ""
+"If off, a tap-and-drag gesture ends when you release the finger. If on, the "
+"gesture is active until you tap a second time, or until timeout expires"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_LockedDrags)
+#: src/kcm/ui/tap.ui:269
+#, kde-format
+msgctxt "Touchpad gesture"
+msgid "Locked Drags"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#: src/kcm/ui/tap.ui:284
+#, kde-format
+msgctxt "Locked drags"
+msgid "Timeout:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_LockedDragTimeout)
+#: src/kcm/ui/tap.ui:294
+#, kde-format
+msgid ""
+"How long it takes (in milliseconds) for the \"Locked Drags\" mode to be "
+"automatically turned off after the finger is released from the touchpad"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: src/kcm/ui/tap.ui:325
+#, kde-format
+msgid "Tap Detection"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: src/kcm/ui/tap.ui:340
+#, kde-format
+msgid "Maximum time:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: src/kcm/ui/tap.ui:353
+#, kde-format
+msgid "Maximum finger movement:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: src/kcm/ui/tap.ui:366
+#, kde-format
+msgid "Maximum time for double tap:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_13)
+#: src/kcm/ui/tap.ui:379
+#, kde-format
+msgid "Single tap timeout:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_MaxTapTime)
+#: src/kcm/ui/tap.ui:389
+#, kde-format
+msgid "Maximum time (in milliseconds) for detecting a tap"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, kcfg_MaxTapMove)
+#: src/kcm/ui/tap.ui:408
+#, kde-format
+msgid "Maximum movement of the finger for detecting a tap"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_MaxDoubleTapTime)
+#: src/kcm/ui/tap.ui:427
+#, kde-format
+msgid "Maximum time (in milliseconds) for detecting a double tap"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_SingleTapTimeout)
+#: src/kcm/ui/tap.ui:446
+#, kde-format
+msgid "Timeout after a tap to recognize it as a single tap"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: src/kcm/ui/testarea.ui:20
+#, kde-format
+msgid "Testing area"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (TestButton, pushButton)
+#: src/kcm/ui/testarea.ui:29
+#, kde-format
+msgid "Click me"
+msgstr ""
+
+#: src/kded/kded.cpp:218
+#, kde-format
+msgid "Touchpad was disabled because a mouse was plugged in"
+msgstr ""
+
+#: src/kded/kded.cpp:222
+#, kde-format
+msgid "Touchpad was enabled because the mouse was unplugged"
+msgstr ""
+
+#: src/kded/kdedactions.cpp:35
+#, kde-format
+msgid "Enable Touchpad"
+msgstr ""
+
+#: src/kded/kdedactions.cpp:43
+#, kde-format
+msgid "Disable Touchpad"
+msgstr ""
+
+#: src/kded/kdedactions.cpp:51
+#, kde-format
+msgid "Toggle Touchpad"
+msgstr ""

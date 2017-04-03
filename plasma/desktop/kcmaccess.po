@@ -1,0 +1,527 @@
+#
+# Tamas Szanto <tszanto@interware.hu>, 2000.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.1\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-02-12 07:49+0100\n"
+"PO-Revision-Date: 2015-04-15 09:38+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-lista@sophia.jpte.hu>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Szántó Tamás,Kiszel Kristóf"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "tszanto@interware.hu,ulysses@kubuntu.org"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabBell)
+#: accessibility.ui:21
+#, kde-format
+msgid "&Bell"
+msgstr "&Csengő"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: accessibility.ui:27
+#, kde-format
+msgid "Audible Bell"
+msgstr "Csengetés"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, systemBell)
+#. i18n: ectx: property (toolTip), widget (QCheckBox, gestures)
+#: accessibility.ui:33 accessibility.ui:582
+#, kde-format
+msgid ""
+"If this option is checked, the default system bell will be used. Usually, "
+"this is just a \"beep\"."
+msgstr ""
+"Ha ez az opció be van jelölve, az alapértelmezett csengő lesz használva. Ez "
+"általában egy „beep”."
+
+#. i18n: ectx: property (text), widget (QCheckBox, systemBell)
+#: accessibility.ui:36
+#, kde-format
+msgid "Use &system bell"
+msgstr "A &rendszercsengő használata"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, customBell)
+#. i18n: ectx: property (toolTip), widget (QCheckBox, accessxBeep)
+#: accessibility.ui:43 accessibility.ui:666
+#, kde-format
+msgid ""
+"Check this option if you want to use a customized bell, playing a sound "
+"file. If you do this, you will probably want to turn off the system bell."
+msgstr ""
+"Jelölje be ezt a beállítást, ha saját csengőt szeretne használni. Ha így "
+"dönt, kapcsolja ki a rendszercsengőt."
+
+#. i18n: ectx: property (text), widget (QCheckBox, customBell)
+#: accessibility.ui:46
+#, kde-format
+msgid "Us&e customized bell"
+msgstr "&Egyéni csengetés használata"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, soundLabel)
+#. i18n: ectx: property (toolTip), widget (QLineEdit, soundEdit)
+#. i18n: ectx: property (toolTip), widget (QPushButton, soundButton)
+#: accessibility.ui:71 accessibility.ui:90 accessibility.ui:97
+#, kde-format
+msgid ""
+"If the option \"Use customized bell\" is enabled, you can choose a sound "
+"file here. Click \"Browse...\" to choose a sound file using the file dialog."
+msgstr ""
+"Ha az „Egyéni csengetés használata” opciót jelölte be, itt választhatja ki a "
+"hozzá tartozó hangfájlt. Kattintson a „Tallózás…” gombra a fájl kényelmes "
+"kiválasztásához."
+
+#. i18n: ectx: property (text), widget (QLabel, soundLabel)
+#: accessibility.ui:74
+#, kde-format
+msgid "Sound &to play:"
+msgstr "A lejátszandó &hang:"
+
+#. i18n: ectx: property (text), widget (QPushButton, soundButton)
+#: accessibility.ui:100
+#, kde-format
+msgid "Browse..."
+msgstr "Tallózás…"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: accessibility.ui:112
+#, kde-format
+msgid "Visible Bell"
+msgstr "Vizuális jelzés csengetéskor"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, visibleBell)
+#: accessibility.ui:118
+#, kde-format
+msgid ""
+"This option will turn on the \"visible bell\", i.e. a visible notification "
+"shown every time that normally just a bell would occur. This is especially "
+"useful for deaf people."
+msgstr ""
+"Ez az opció bekapcsolja a „vizuális csengőt”, azaz egy látható jelzést "
+"akkor, amikor egy csengetés történne. Ez az opció elsősorban a "
+"hallássérültek segítését szolgálja."
+
+#. i18n: ectx: property (text), widget (QCheckBox, visibleBell)
+#: accessibility.ui:121
+#, kde-format
+msgid "&Use visible bell"
+msgstr "&Vizuális jelzés bekapcsolva"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, flashScreen)
+#: accessibility.ui:128
+#, kde-format
+msgid ""
+"The screen will turn to a custom color for the amount of time specified "
+"below."
+msgstr "A képernyő egy megadott színre vált az alább megadott ideig."
+
+#. i18n: ectx: property (text), widget (QRadioButton, flashScreen)
+#: accessibility.ui:131
+#, kde-format
+msgid "F&lash screen"
+msgstr "A &képernyő villogtatása"
+
+#. i18n: ectx: property (toolTip), widget (QRadioButton, invertScreen)
+#: accessibility.ui:138
+#, kde-format
+msgid ""
+"All screen colors will be inverted for the amount of time specified below."
+msgstr "Az összes szín inverzbe vált az alább megadott ideig."
+
+#. i18n: ectx: property (text), widget (QRadioButton, invertScreen)
+#: accessibility.ui:141
+#, kde-format
+msgid "I&nvert screen"
+msgstr "A képernyő &inverzbe váltása"
+
+#. i18n: ectx: property (toolTip), widget (KColorButton, colorButton)
+#: accessibility.ui:164
+#, kde-format
+msgid ""
+"Click here to choose the color used for the \"flash screen\" visible bell."
+msgstr ""
+"Kattintson ide a „képernyővillogtatás” jellegű vizuális jelzés színének "
+"beállításához."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: accessibility.ui:171
+#, kde-format
+msgid "&Duration:"
+msgstr "I&dőtartam:"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, duration)
+#. i18n: ectx: property (toolTip), widget (QSpinBox, slowKeysDelay)
+#. i18n: ectx: property (toolTip), widget (QSpinBox, bounceKeysDelay)
+#. i18n: ectx: property (toolTip), widget (QSpinBox, timeoutDelay)
+#: accessibility.ui:184 accessibility.ui:395 accessibility.ui:492
+#: accessibility.ui:620
+#, kde-format
+msgid ""
+"Here you can customize the duration of the \"visible bell\" effect being "
+"shown."
+msgstr "Itt állíthatja be a „vizuális csengetés” effektus időtartamát."
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, duration)
+#. i18n: ectx: property (suffix), widget (QSpinBox, slowKeysDelay)
+#. i18n: ectx: property (suffix), widget (QSpinBox, bounceKeysDelay)
+#: accessibility.ui:187 accessibility.ui:398 accessibility.ui:495
+#, kde-format
+msgid " msec"
+msgstr " ms"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabModifier)
+#: accessibility.ui:230
+#, kde-format
+msgid "Modifier Keys"
+msgstr "Módosítóbillentyűk"
+
+#. i18n: ectx: property (title), widget (QGroupBox, sticky)
+#: accessibility.ui:236
+#, kde-format
+msgid "Sticky Keys"
+msgstr "Ragadó billentyűk"
+
+#. i18n: ectx: property (text), widget (QCheckBox, stickyKeys)
+#: accessibility.ui:242
+#, kde-format
+msgid "Use &sticky keys"
+msgstr "&Ragadó billentyűk használata"
+
+#. i18n: ectx: property (text), widget (QCheckBox, stickyKeysLock)
+#: accessibility.ui:269
+#, kde-format
+msgid "&Lock sticky keys"
+msgstr "A ragadó billentyűk &zárolása"
+
+#. i18n: ectx: property (text), widget (QCheckBox, stickyKeysAutoOff)
+#: accessibility.ui:276
+#, kde-format
+msgid "Turn sticky keys off when two keys are pressed simultaneously"
+msgstr "A ragadós billentyűk kikapcsolása két billentyű együttes lenyomásakor"
+
+#. i18n: ectx: property (text), widget (QCheckBox, stickyKeysBeep)
+#: accessibility.ui:283
+#, kde-format
+msgid "Use system bell whenever a modifier gets latched, locked or unlocked"
+msgstr ""
+"Csengetés módosító billentyű lenyomva tartásakor, zárolásakor vagy "
+"feloldásakor"
+
+#. i18n: ectx: property (title), widget (QGroupBox, locking)
+#: accessibility.ui:297
+#, kde-format
+msgid "Locking Keys"
+msgstr "Zároló billentyűk"
+
+#. i18n: ectx: property (text), widget (QCheckBox, toggleKeysBeep)
+#: accessibility.ui:303
+#, kde-format
+msgid "Use system bell whenever a locking key gets activated or deactivated"
+msgstr "Csengetés zároló billentyű be- vagy kikapcsolásakor"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kNotifyModifiers)
+#: accessibility.ui:310
+#, fuzzy, kde-format
+#| msgid ""
+#| "Use Plasma's system notification mechanism whenever a modifier or locking "
+#| "key changes its state"
+msgid ""
+"Use Plasma's notification mechanism for modifier or locking key state changes"
+msgstr ""
+"A Plasma értesítési rendszerének használata, ha egy módosító- vagy "
+"zárolóbillentyű állapota megváltozik"
+
+#. i18n: ectx: property (text), widget (QPushButton, kNotifyModifiersButton)
+#. i18n: ectx: property (text), widget (QPushButton, kNotifyAccessButton)
+#: accessibility.ui:335 accessibility.ui:712
+#, kde-format
+msgid "Configure &Notifications..."
+msgstr "Az é&rtesítések beállítása…"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabKeyFilters)
+#: accessibility.ui:374
+#, kde-format
+msgid "&Keyboard Filters"
+msgstr "&Billentyűzetszűrők"
+
+#. i18n: ectx: property (title), widget (QGroupBox, slowkeys)
+#: accessibility.ui:380
+#, kde-format
+msgid "Slo&w Keys"
+msgstr "Lassú b&illentyűk"
+
+#. i18n: ectx: property (text), widget (QCheckBox, slowKeys)
+#: accessibility.ui:388
+#, kde-format
+msgid "&Use slow keys"
+msgstr "Lassú billentyűk &használata"
+
+#. i18n: ectx: property (text), widget (QCheckBox, slowKeysPressBeep)
+#: accessibility.ui:449
+#, kde-format
+msgid "&Use system bell whenever a key is pressed"
+msgstr "Csengetés billentyű megny&omásakor"
+
+#. i18n: ectx: property (text), widget (QCheckBox, slowKeysAcceptBeep)
+#: accessibility.ui:456
+#, kde-format
+msgid "&Use system bell whenever a key is accepted"
+msgstr "Csengetés billentyű &elfogadásakor"
+
+#. i18n: ectx: property (text), widget (QCheckBox, slowKeysRejectBeep)
+#: accessibility.ui:463
+#, kde-format
+msgid "&Use system bell whenever a key is rejected"
+msgstr "Csengetés billentyű &visszautasításakor"
+
+#. i18n: ectx: property (title), widget (QGroupBox, bouncekeys)
+#: accessibility.ui:477
+#, kde-format
+msgid "Bounce Keys"
+msgstr "Visszaugró billentyűk"
+
+#. i18n: ectx: property (text), widget (QCheckBox, bounceKeys)
+#: accessibility.ui:485
+#, kde-format
+msgid "Use bou&nce keys"
+msgstr "&Visszaugró billentyűk használata"
+
+#. i18n: ectx: property (text), widget (QCheckBox, bounceKeysRejectBeep)
+#: accessibility.ui:544
+#, kde-format
+msgid "Use the system bell whenever a key is rejected"
+msgstr "Csengetés billentyű visszautasításakor"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabActivationGestures)
+#: accessibility.ui:570
+#, kde-format
+msgid "&Activation Gestures"
+msgstr "&Aktiválási sorozat"
+
+#. i18n: ectx: property (title), widget (QGroupBox, activationgestures)
+#: accessibility.ui:576
+#, kde-format
+msgid "Activation Gestures"
+msgstr "Aktiválási sorozat"
+
+#. i18n: ectx: property (text), widget (QCheckBox, gestures)
+#: accessibility.ui:585
+#, kde-format
+msgid "Use gestures for activating sticky keys and slow keys"
+msgstr ""
+"Mozdulatsorozat használata a ragadós és lassú billentyűk bekapcsolásához"
+
+#. i18n: ectx: property (text), widget (QCheckBox, timeout)
+#: accessibility.ui:595
+#, kde-format
+msgid ""
+"Turn sticky keys and slow keys off after a certain period of inactivity."
+msgstr ""
+"A ragadós és lassú billentyűk kikapcsolása adott idejű inaktivitás után."
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, timeoutDelay)
+#: accessibility.ui:623
+#, kde-format
+msgid " min"
+msgstr " perc"
+
+#. i18n: ectx: property (title), widget (QGroupBox, notification)
+#: accessibility.ui:660
+#, kde-format
+msgid "Notification"
+msgstr "Értesítés"
+
+#. i18n: ectx: property (text), widget (QCheckBox, accessxBeep)
+#: accessibility.ui:669
+#, fuzzy, kde-format
+#| msgid ""
+#| "Use the system bell whenever a gesture is used to turn an accessibility "
+#| "feature on or off"
+msgid ""
+"Use the system bell whenever a gesture is used to toggle an accessibility "
+"feature"
+msgstr ""
+"Csengetés történjen, ha mozdulatsorral kapcsolt ki- vagy be egy "
+"billentyűzetkezelést segítő funkciót"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, gestureConfirmation)
+#: accessibility.ui:677
+#, kde-format
+msgid ""
+"If this option is checked, KDE will show a confirmation dialog whenever a "
+"keyboard accessibility feature is turned on or off.\n"
+"Ensure you know what you are doing if you uncheck it, as the keyboard "
+"accessibility settings will then always be applied without confirmation."
+msgstr ""
+"Ha ez be van jelölve, megerősítést kérő párbeszédablak jelenik meg a "
+"billentyűzetkezelést segítő funkciók ki- vagy bekapcsolásakor.\n"
+"Ha nincs bejelölve, akkor körültekintéssel használja a segítő funkciókat, "
+"mert azok rákérdezés nélkül végrehajtódnak."
+
+#. i18n: ectx: property (text), widget (QCheckBox, gestureConfirmation)
+#: accessibility.ui:680
+#, fuzzy, kde-format
+#| msgid ""
+#| "Show a confirmation dialog whenever a keyboard accessibility feature is "
+#| "turned on or off"
+msgid ""
+"Show a confirmation dialog whenever a keyboard accessibility feature is "
+"toggled"
+msgstr ""
+"Megerősítést kérő ablak jelenjen meg kezelést segítő funkció ki- vagy "
+"bekapcsolásakor"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kNotifyAccess)
+#: accessibility.ui:687
+#, fuzzy, kde-format
+#| msgid ""
+#| "Use Plasma's system notification mechanism whenever a keyboard "
+#| "accessibility feature is turned on or off"
+msgid ""
+"Use Plasma's notification mechanism whenever a keyboard accessibility "
+"feature is toggled"
+msgstr ""
+"A Plasma értesítési rendszerének használata, ha egy billentyűzet-"
+"akadálymentesítési szolgáltatás ki-/bekapcsolásra kerül"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tabScreenReader)
+#: accessibility.ui:751
+#, kde-format
+msgid "Screen Reader"
+msgstr "Képernyőolvasó"
+
+#. i18n: ectx: property (text), widget (QCheckBox, screenReaderEnabled)
+#: accessibility.ui:757
+#, kde-format
+msgid "Screen reader enabled"
+msgstr "Képernyőolvasó bekapcsolva"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: accessibility.ui:764
+#, kde-format
+msgid ""
+"Please note that you may have to log out once to allow the screen reader to "
+"work properly."
+msgstr ""
+
+#: kcmaccess.cpp:121
+#, kde-format
+msgid "AltGraph"
+msgstr "AltGr"
+
+#: kcmaccess.cpp:123
+#, kde-format
+msgid "Hyper"
+msgstr "Hiper"
+
+#: kcmaccess.cpp:125
+#, kde-format
+msgid "Super"
+msgstr "Szuper"
+
+#: kcmaccess.cpp:139
+#, kde-format
+msgid "Press %1 while NumLock, CapsLock and ScrollLock are active"
+msgstr ""
+"Nyomja meg a(z) %1 billentyűt úgy, hogy a NumLock, a CapsLock és a "
+"ScrollLock mind bekapcsolt legyen"
+
+#: kcmaccess.cpp:141
+#, kde-format
+msgid "Press %1 while CapsLock and ScrollLock are active"
+msgstr ""
+"Nyomja meg a(z) %1 billentyűt úgy, hogy a CapsLock és a ScrollLock mind "
+"bekapcsolt legyen"
+
+#: kcmaccess.cpp:143
+#, kde-format
+msgid "Press %1 while NumLock and ScrollLock are active"
+msgstr ""
+"Nyomja meg a(z) %1 billentyűt úgy, hogy a NumLock és a ScrollLock mind "
+"bekapcsolt legyen"
+
+#: kcmaccess.cpp:145
+#, kde-format
+msgid "Press %1 while ScrollLock is active"
+msgstr "Nyomja meg a(z) %1 billentyűt úgy, hogy a ScrollLock bekapcsolt legyen"
+
+#: kcmaccess.cpp:148
+#, kde-format
+msgid "Press %1 while NumLock and CapsLock are active"
+msgstr ""
+"Nyomja meg a(z) %1 billentyűt úgy, hogy a NumLock és a CapsLock mind "
+"bekapcsolt legyen"
+
+#: kcmaccess.cpp:150
+#, kde-format
+msgid "Press %1 while CapsLock is active"
+msgstr "Nyomja meg a(z) %1 billentyűt úgy, hogy a CapsLock bekapcsolt legyen"
+
+#: kcmaccess.cpp:152
+#, kde-format
+msgid "Press %1 while NumLock is active"
+msgstr "Nyomja meg a(z) %1 billentyűt úgy, hogy a NumLock bekapcsolt legyen"
+
+#: kcmaccess.cpp:154
+#, kde-format
+msgid "Press %1"
+msgstr "Nyomja meg a(z) %1 billentyűt"
+
+#: kcmaccess.cpp:163
+#, kde-format
+msgid "KDE Accessibility Tool"
+msgstr "KDE kezeléssegítő eszköz"
+
+#: kcmaccess.cpp:164
+#, kde-format
+msgid "(c) 2000, Matthias Hoelzer-Kluepfel"
+msgstr "(C) Matthias Hölzer-Klüpfel, 2000."
+
+#: kcmaccess.cpp:166
+#, kde-format
+msgid "Matthias Hoelzer-Kluepfel"
+msgstr "Matthias Hölzer-Kluepfel"
+
+#: kcmaccess.cpp:166
+#, kde-format
+msgid "Author"
+msgstr "Szerző"
+
+#: kcmaccess.cpp:221
+#, kde-format
+msgid ""
+"Here you can activate keyboard gestures that turn on the following "
+"features: \n"
+"Sticky keys: Press Shift key 5 consecutive times\n"
+"Slow keys: Hold down Shift for 8 seconds"
+msgstr ""
+"Itt lehet az alábbi funkciókat bekapcsoló mozdulatsorokat megadni: \n"
+"Ragadó billentyűk: nyomja meg a Shiftet egymás után ötször\n"
+"Lassú billentyűk: tartsa lenyomva a Shiftet 8 másodpercig"
+
+#: kcmaccess.cpp:225
+#, kde-format
+msgid ""
+"Here you can activate keyboard gestures that turn on the following "
+"features: \n"
+"Mouse Keys: %1\n"
+"Sticky keys: Press Shift key 5 consecutive times\n"
+"Slow keys: Hold down Shift for 8 seconds"
+msgstr ""
+"Itt lehet az alábbi funkciókat bekapcsoló billentyűsorozatot megadni: \n"
+"Egérmozgató billentyűk: %1\n"
+"Lassú billentyűk: tartsa lenyomva a Shiftet 8 másodpercig"

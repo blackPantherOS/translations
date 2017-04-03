@@ -1,0 +1,305 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Balázs Úr <urbalazs@gmail.com>, 2013, 2014.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-02-12 07:49+0100\n"
+"PO-Revision-Date: 2014-08-29 11:23+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: contents/activitymanager/ActivityItem.qml:206
+msgid "Currently being used"
+msgstr ""
+
+#: contents/activitymanager/ActivityItem.qml:284
+msgid "Configure"
+msgstr ""
+
+#: contents/activitymanager/ActivityItem.qml:300
+#, fuzzy
+#| msgid "Stopped activities:"
+msgid "Stop activity"
+msgstr "Leállított aktivitások:"
+
+#: contents/activitymanager/ActivityList.qml:155
+msgid "Stopped activities:"
+msgstr "Leállított aktivitások:"
+
+#: contents/activitymanager/ActivityManager.qml:140
+msgid "Create activity..."
+msgstr "Aktivitás létrehozása…"
+
+#: contents/activitymanager/Heading.qml:70
+msgid "Activities"
+msgstr "Aktivitások"
+
+#: contents/activitymanager/Heading.qml:85
+#: contents/explorer/WidgetExplorer.qml:225
+msgid "Search..."
+msgstr "Keresés…"
+
+#: contents/activitymanager/StoppedActivityItem.qml:146
+#, fuzzy
+#| msgid "Clone current activity"
+msgid "Configure activity"
+msgstr "Jelenlegi aktivitás másolása"
+
+#: contents/activitymanager/StoppedActivityItem.qml:161
+msgid "Delete"
+msgstr "Törlés"
+
+#: contents/configuration/AppletConfiguration.qml:53
+msgid "Keyboard shortcuts"
+msgstr "Gyorsbillentyűk"
+
+#: contents/configuration/AppletConfiguration.qml:129
+msgid "Apply Settings"
+msgstr "Beállítások alkalmazása"
+
+#: contents/configuration/AppletConfiguration.qml:130
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"Az aktuális modul beállításai megváltoztak. Szeretné menteni a "
+"módosításokat, vagy elveti azokat?"
+
+#: contents/configuration/AppletConfiguration.qml:429
+msgid "OK"
+msgstr "OK"
+
+#: contents/configuration/AppletConfiguration.qml:436
+msgid "Apply"
+msgstr "Alkalmazás"
+
+#: contents/configuration/AppletConfiguration.qml:442
+#: contents/explorer/AppletAlternatives.qml:184
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Left-Button"
+msgstr "Bal gomb"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:32
+msgid "Right-Button"
+msgstr "Jobb gomb"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:33
+msgid "Middle-Button"
+msgstr "Középső gomb"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:34
+#, fuzzy
+#| msgid "Left-Button"
+msgid "Back-Button"
+msgstr "Bal gomb"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:35
+msgid "Forward-Button"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentActions.qml:37
+msgid "Vertical-Scroll"
+msgstr "Függőleges görgetés"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:38
+msgid "Horizontal-Scroll"
+msgstr "Vízszintes görgetés"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:40
+msgid "Shift"
+msgstr "Shift"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:41
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:42
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:43
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:118
+#: contents/configuration/MouseEventInputButton.qml:27
+msgid "Add Action"
+msgstr "Művelet hozzáadása"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:75
+msgid "Layout:"
+msgstr "Elrendezés:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:96
+msgid "Layout cannot be changed whilst widgets are locked"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:109
+msgid "Wallpaper Type:"
+msgstr "Háttérkép típus:"
+
+#: contents/configuration/ConfigurationShortcuts.qml:41
+msgid ""
+"This shortcut will activate the applet: it will give the keyboard focus to "
+"it, and if the applet has a popup (such as the start menu), the popup will "
+"be open."
+msgstr ""
+
+#: contents/configuration/ContainmentConfiguration.qml:43
+msgid "Wallpaper"
+msgstr "Háttérkép"
+
+#: contents/configuration/ContainmentConfiguration.qml:48
+msgid "Mouse Actions"
+msgstr "Egérműveletek"
+
+#: contents/configuration/MouseEventInputButton.qml:38
+msgid "Input Here"
+msgstr "Bemenet itt"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:27
+msgid "Screen Edge"
+msgstr "Képernyőszél"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:43
+msgid "Panel Alignment"
+msgstr "Panel igazítása"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
+msgid "Top"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
+msgid "Left"
+msgstr "Balra"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:64
+msgid "Center"
+msgstr "Középre"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:75
+msgid "Bottom"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:75
+msgid "Right"
+msgstr "Jobbra"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:85
+msgid "Visibility"
+msgstr "Láthatóság"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:93
+msgid "Always Visible"
+msgstr "Mindig látható"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:101
+msgid "Auto Hide"
+msgstr "Automatikus elrejtés"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:109
+msgid "Windows Can Cover"
+msgstr "Az ablakok eltakarhatják"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:117
+msgid "Windows Go Below"
+msgstr "Az ablakok elé kerülhet"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:126
+msgid "Maximize Panel"
+msgstr "Panel maximalizálása"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:132
+msgid "Lock Widgets"
+msgstr "Elemek zárolása"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:141
+msgid "Remove Panel"
+msgstr "Panel eltávolítása"
+
+#: contents/configuration/panelconfiguration/SizeHandle.qml:27
+msgid "Width"
+msgstr "Szélesség"
+
+#: contents/configuration/panelconfiguration/SizeHandle.qml:27
+msgid "Height"
+msgstr "Magasság"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:32
+msgid "Add Widgets..."
+msgstr "Elemek hozzáadása…"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:33
+msgid "Add Spacer"
+msgstr "Elválasztó hozzáadása"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:34
+msgid "More Settings..."
+msgstr "További beállítások…"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:141
+msgid "Close"
+msgstr "Bezárás"
+
+#: contents/explorer/AppletAlternatives.qml:83
+#, fuzzy
+#| msgid "Alternatives"
+msgid "Alternative Widgets"
+msgstr "Alternatívák"
+
+#: contents/explorer/AppletAlternatives.qml:173
+msgid "Switch"
+msgstr "Váltás"
+
+#: contents/explorer/AppletDelegate.qml:179
+#, fuzzy
+#| msgid "Uninstall"
+msgid "Undo uninstall"
+msgstr "Eltávolítás"
+
+#: contents/explorer/AppletDelegate.qml:180
+#, fuzzy
+#| msgid "Uninstall"
+msgid "Uninstall widget"
+msgstr "Eltávolítás"
+
+#: contents/explorer/Tooltip.qml:106
+msgid "License:"
+msgstr "Licenc:"
+
+#: contents/explorer/Tooltip.qml:115
+msgid "Author:"
+msgstr "Szerző:"
+
+#: contents/explorer/Tooltip.qml:123
+msgid "Email:"
+msgstr "E-mail:"
+
+#: contents/explorer/Tooltip.qml:142
+msgid "Uninstall"
+msgstr "Eltávolítás"
+
+#: contents/explorer/WidgetExplorer.qml:215
+msgid "Widgets"
+msgstr "Elemek"
+
+#: contents/explorer/WidgetExplorer.qml:254
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: contents/explorer/WidgetExplorer.qml:364
+msgid "Get new widgets"
+msgstr "Új widgetek letöltése"

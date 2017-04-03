@@ -1,0 +1,447 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Balázs Úr <urbalazs@gmail.com>, 2012, 2013, 2014.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-02-12 07:49+0100\n"
+"PO-Revision-Date: 2014-10-03 12:55+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: package/contents/code/tools.js:47
+#, kde-format
+msgid "Remove from Favorites"
+msgstr "Eltávolítás a kedvencekből"
+
+#: package/contents/code/tools.js:51
+#, kde-format
+msgid "Add to Favorites"
+msgstr "Hozzáadás a kedvencekhez"
+
+#: package/contents/config/config.qml:26
+#, kde-format
+msgid "General"
+msgstr "Általános"
+
+#: package/contents/ui/ConfigGeneral.qml:53
+#, kde-format
+msgid "Icon"
+msgstr "Ikon"
+
+#: package/contents/ui/ConfigGeneral.qml:61
+#, kde-format
+msgid "Use custom image:"
+msgstr "Egyéni kép:"
+
+#: package/contents/ui/ConfigGeneral.qml:86
+#, kde-format
+msgid "Choose an image"
+msgstr "Válasszon egy képet"
+
+#: package/contents/ui/ConfigGeneral.qml:91
+#, kde-format
+msgid "Image Files (*.png *.jpg *.jpeg *.bmp *.svg *.svgz)"
+msgstr "Képfájlok (*.png *.jpg *.jpeg *.bmp *.svg *.svgz)"
+
+#: package/contents/ui/ConfigGeneral.qml:107
+#, kde-format
+msgid "Behavior"
+msgstr "Viselkedés"
+
+#: package/contents/ui/ConfigGeneral.qml:114
+#, kde-format
+msgid "Show applications as:"
+msgstr "Alkalmazások megjelenítése mint:"
+
+#: package/contents/ui/ConfigGeneral.qml:122
+#, kde-format
+msgid "Name only"
+msgstr "Csak név"
+
+#: package/contents/ui/ConfigGeneral.qml:122
+#, kde-format
+msgid "Description only"
+msgstr "Csak leírás"
+
+#: package/contents/ui/ConfigGeneral.qml:122
+#, kde-format
+msgid "Name (Description)"
+msgstr "Név (leírás)"
+
+#: package/contents/ui/ConfigGeneral.qml:122
+#, kde-format
+msgid "Description (Name)"
+msgstr "Leírás (név)"
+
+#: package/contents/ui/ConfigGeneral.qml:131
+#, kde-format
+msgid "Flatten menu to a single level"
+msgstr "Menü összenyomása egyetlen szintre"
+
+#: package/contents/ui/ConfigGeneral.qml:139
+#, kde-format
+msgid "Categories"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:147
+#, fuzzy, kde-format
+#| msgid "Recent Applications"
+msgid "Show recent applications"
+msgstr "Legutóbbi alkalmazások"
+
+#: package/contents/ui/ConfigGeneral.qml:153
+#, fuzzy, kde-format
+#| msgid "Recent Documents"
+msgid "Show recent documents"
+msgstr "Legutóbbi dokumentumok"
+
+#: package/contents/ui/ConfigGeneral.qml:159
+#, kde-format
+msgid "Show recent contacts"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:167
+#, kde-format
+msgid "Search"
+msgstr "Keresés"
+
+#: package/contents/ui/ConfigGeneral.qml:175
+#, kde-format
+msgid "Expand search to bookmarks, files and emails"
+msgstr "Keresés kiterjesztése könyvjelzőkre, fájlokra és e-mailekre"
+
+#: package/contents/ui/ConfigGeneral.qml:183
+#, kde-format
+msgid "Align search results to bottom"
+msgstr "Találatok igazítása alulra "
+
+#: package/contents/ui/DashboardRepresentation.qml:227
+#, kde-format
+msgid "Searching for '%1'"
+msgstr ""
+
+#: package/contents/ui/DashboardRepresentation.qml:227
+#, kde-format
+msgid "Type to search."
+msgstr ""
+
+#: package/contents/ui/DashboardRepresentation.qml:295
+#: plugin/favoritesmodel.cpp:43
+#, fuzzy, kde-format
+#| msgid "Favorite Places"
+msgid "Favorites"
+msgstr "Kedvenc helyek"
+
+#: package/contents/ui/main.qml:252
+#, kde-format
+msgid "Edit Applications..."
+msgstr "Alkalmazások szerkesztése…"
+
+#: package/contents/ui/MenuRepresentation.qml:314
+#, kde-format
+msgid "Search..."
+msgstr "Keresés…"
+
+#: plugin/actionlist.cpp:84
+#, kde-format
+msgid "Open with:"
+msgstr "Megnyitás ezzel:"
+
+#: plugin/actionlist.cpp:97
+#, kde-format
+msgid "Properties"
+msgstr "Tulajdonságok"
+
+#: plugin/actionlist.cpp:140
+#, kde-format
+msgid "Add to Desktop"
+msgstr "Hozzáadás az asztalhoz"
+
+#: plugin/actionlist.cpp:144
+#, fuzzy, kde-format
+#| msgid "Add to Panel"
+msgid "Add to Panel"
+msgstr "Hozzáadás a panelhez"
+
+#: plugin/actionlist.cpp:148
+#, kde-format
+msgid "Add as Launcher"
+msgstr "Hozzáadás az indítóhoz"
+
+#: plugin/actionlist.cpp:260 plugin/rootmodel.cpp:282
+#, kde-format
+msgid "Recent Documents"
+msgstr "Legutóbbi dokumentumok"
+
+#: plugin/actionlist.cpp:272
+#, fuzzy, kde-format
+#| msgid "Recent Documents"
+msgid "Forget Recent Documents"
+msgstr "Legutóbbi dokumentumok"
+
+#: plugin/appentry.cpp:175
+#, kde-format
+msgid "Edit Application..."
+msgstr "Alkalmazás szerkesztése…"
+
+#: plugin/appentry.cpp:204
+#, kde-format
+msgid "Hide Application"
+msgstr "Alkalmazás elrejtése"
+
+#: plugin/appentry.cpp:274
+#, kde-format
+msgctxt "App name (Generic name)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: plugin/appentry.cpp:276
+#, kde-format
+msgctxt "Generic name (App name)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: plugin/appsmodel.cpp:38 plugin/appsmodel.cpp:57 plugin/computermodel.cpp:110
+#: plugin/computermodel.cpp:244 plugin/recentusagemodel.cpp:136
+#: plugin/recentusagemodel.cpp:196
+#, fuzzy, kde-format
+#| msgctxt "Tab title"
+#| msgid "Applications"
+msgid "Applications"
+msgstr "Alkalmazások"
+
+#: plugin/appsmodel.cpp:138
+#, kde-format
+msgid "Unhide Applications in this Submenu"
+msgstr "Alkalmazások rejtésének megszüntetése ebben az almenüben"
+
+#: plugin/appsmodel.cpp:144
+#, kde-format
+msgid "Unhide Applications in '%1'"
+msgstr "Alkalmazások rejtésének megszüntetése itt: „%1”"
+
+#: plugin/computermodel.cpp:104
+#, kde-format
+msgid "Run Command..."
+msgstr ""
+
+#: plugin/computermodel.cpp:108
+#, kde-format
+msgid "Run a command or a search query"
+msgstr ""
+
+#: plugin/computermodel.cpp:161
+#, kde-format
+msgid "Computer"
+msgstr ""
+
+#: plugin/computermodel.cpp:236
+#, kde-format
+msgid "Removable Storage"
+msgstr ""
+
+#: plugin/computermodel.cpp:238
+#, kde-format
+msgid "Places"
+msgstr ""
+
+#: plugin/contactentry.cpp:117 plugin/recentcontactsmodel.cpp:93
+#, kde-format
+msgid "Show Contact Information..."
+msgstr ""
+
+#: plugin/recentcontactsmodel.cpp:52
+#, fuzzy, kde-format
+#| msgid "Recent Documents"
+msgid "Contacts"
+msgstr "Legutóbbi dokumentumok"
+
+#: plugin/recentcontactsmodel.cpp:85
+#, fuzzy, kde-format
+#| msgid "Forget Document"
+msgid "Forget Contact"
+msgstr "Dokumentum elfelejtése"
+
+#: plugin/recentcontactsmodel.cpp:88 plugin/recentcontactsmodel.cpp:163
+#, fuzzy, kde-format
+#| msgid "Forget All Documents"
+msgid "Forget All Contacts"
+msgstr "Összes dokumentum elfelejtése"
+
+#: plugin/recentusagemodel.cpp:134
+#, kde-format
+msgid "Recently Used"
+msgstr ""
+
+#: plugin/recentusagemodel.cpp:139 plugin/recentusagemodel.cpp:245
+#, fuzzy, kde-format
+#| msgid "Recent Documents"
+msgid "Documents"
+msgstr "Legutóbbi dokumentumok"
+
+#: plugin/recentusagemodel.cpp:214
+#, kde-format
+msgid "Forget Application"
+msgstr "Alkalmazás elfelejtése"
+
+#: plugin/recentusagemodel.cpp:257
+#, kde-format
+msgid "Forget Document"
+msgstr "Dokumentum elfelejtése"
+
+#: plugin/recentusagemodel.cpp:372
+#, fuzzy, kde-format
+#| msgid "Forget All Documents"
+msgid "Forget All"
+msgstr "Összes dokumentum elfelejtése"
+
+#: plugin/recentusagemodel.cpp:374
+#, kde-format
+msgid "Forget All Applications"
+msgstr "Összes alkalmazás elfelejtése"
+
+#: plugin/recentusagemodel.cpp:377
+#, kde-format
+msgid "Forget All Documents"
+msgstr "Összes dokumentum elfelejtése"
+
+#: plugin/rootmodel.cpp:102
+#, kde-format
+msgid "Hide %1"
+msgstr ""
+
+#: plugin/rootmodel.cpp:270
+#, kde-format
+msgid "All Applications"
+msgstr "Minden alkalmazás"
+
+#: plugin/rootmodel.cpp:276
+#, fuzzy, kde-format
+#| msgid "Recent Documents"
+msgid "Recent Contacts"
+msgstr "Legutóbbi dokumentumok"
+
+#: plugin/rootmodel.cpp:288
+#, kde-format
+msgid "Recent Applications"
+msgstr "Legutóbbi alkalmazások"
+
+#: plugin/rootmodel.cpp:298
+#, kde-format
+msgid "Power / Session"
+msgstr "Erő / munkamenet"
+
+#: plugin/runnermodel.cpp:238
+#, fuzzy, kde-format
+#| msgid "Search"
+msgid "Search results"
+msgstr "Keresés"
+
+#: plugin/systementry.cpp:168
+#, kde-format
+msgid "Lock"
+msgstr "Zárolás"
+
+#: plugin/systementry.cpp:171
+#, kde-format
+msgid "Logout"
+msgstr "Kijelentkezés"
+
+#: plugin/systementry.cpp:174 plugin/systementry.cpp:242
+#, kde-format
+msgid "Save Session"
+msgstr "Munkamenet mentése"
+
+#: plugin/systementry.cpp:177
+#, fuzzy, kde-format
+#| msgctxt "an action"
+#| msgid "Switch User"
+msgid "Switch User"
+msgstr "Felhasználóváltás"
+
+#: plugin/systementry.cpp:180
+#, kde-format
+msgid "Suspend"
+msgstr "Felfüggesztés"
+
+#: plugin/systementry.cpp:183
+#, kde-format
+msgid "Hibernate"
+msgstr "Hibernálás"
+
+#: plugin/systementry.cpp:186
+#, kde-format
+msgid "Reboot"
+msgstr ""
+
+#: plugin/systementry.cpp:189
+#, fuzzy, kde-format
+#| msgid "Shutdown"
+msgid "Shut Down"
+msgstr "Leállítás"
+
+#: plugin/systementry.cpp:202 plugin/systementry.cpp:205
+#: plugin/systementry.cpp:208 plugin/systementry.cpp:211
+#, kde-format
+msgid "Session"
+msgstr "Munkamenet"
+
+#: plugin/systementry.cpp:214 plugin/systementry.cpp:217
+#: plugin/systementry.cpp:220 plugin/systementry.cpp:223
+#, kde-format
+msgid "System"
+msgstr ""
+
+#: plugin/systementry.cpp:236
+#, kde-format
+msgid "Lock screen"
+msgstr ""
+
+#: plugin/systementry.cpp:239
+#, fuzzy, kde-format
+#| msgid "Opened Sessions"
+msgid "End session"
+msgstr "Megnyitott munkamenetek"
+
+#: plugin/systementry.cpp:245
+#, kde-format
+msgid "Start a parallel session as a different user"
+msgstr ""
+
+#: plugin/systementry.cpp:248
+#, fuzzy, kde-format
+#| msgid "Suspend"
+msgid "Suspend to RAM"
+msgstr "Felfüggesztés"
+
+#: plugin/systementry.cpp:251
+#, fuzzy, kde-format
+#| msgid "Suspend"
+msgid "Suspend to disk"
+msgstr "Felfüggesztés"
+
+#: plugin/systementry.cpp:254
+#, fuzzy, kde-format
+#| msgid "Restart"
+msgid "Restart computer"
+msgstr "Újraindítás"
+
+#: plugin/systementry.cpp:257
+#, kde-format
+msgid "Turn off computer"
+msgstr ""
+
+#: plugin/systemmodel.cpp:75
+#, kde-format
+msgid "System actions"
+msgstr ""

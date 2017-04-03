@@ -1,0 +1,169 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2014-08-29 15:13+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Kiszel Kristóf"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ulysses@kubuntu.org"
+
+#: kcmtranslations.cpp:45
+#, kde-format
+msgid "Translations"
+msgstr "Fordítások"
+
+#: kcmtranslations.cpp:47
+#, kde-format
+msgid "Configure Plasma translations"
+msgstr "A Plasma fordításainak beállítása"
+
+#: kcmtranslations.cpp:49
+#, kde-format
+msgid "John Layt"
+msgstr "John Layt"
+
+#: kcmtranslations.cpp:49
+#, kde-format
+msgid "Maintainer"
+msgstr "Karbantartó"
+
+#: kcmtranslations.cpp:112
+#, kde-format
+msgctxt "%1 is the language code"
+msgid ""
+"The translation files for the language with the code '%2' could not be "
+"found. The language has been removed from your configuration. If you want to "
+"add it back, please install the localization files for it and add the "
+"language again."
+msgid_plural ""
+"The translation files for the languages with the codes '%2' could not be "
+"found. These languages have been removed from your configuration. If you "
+"want to add them back, please install the localization files for it and the "
+"languages again."
+msgstr[0] ""
+"Nem találhatók fordítási fájlok a(z) „%2” kódú nyelvhez. A nyelv "
+"eltávolításra került a beállításokból. Ha szeretné újra hozzáadni, telepítse "
+"előbb a nyelvi fájlokat és adja hozzá a nyelvet ismét."
+msgstr[1] ""
+"Nem találhatók fordítási fájlok a(z) „%2” kódú nyelvekhez. A nyelvek "
+"eltávolításra kerültek a beállításokból. Ha szeretné újra hozzáadni ezeket, "
+"telepítse előbb a nyelvi fájlokat és adja hozzá a nyelveket ismét."
+
+#: kcmtranslations.cpp:142
+#, kde-format
+msgid "Your changes will take effect the next time you log in."
+msgstr "A módosítások a következő bejelentkezéstől érvényesek."
+
+#: kcmtranslations.cpp:143
+#, kde-format
+msgid "Applying Language Settings"
+msgstr "A nyelvi beállítások használata"
+
+#: kcmtranslations.cpp:183
+#, kde-format
+msgid ""
+"<h1>Translations</h1>\n"
+"<p>Here you can set your preferred language for translating the user "
+"interface of your applications. You can choose a single language, or a list "
+"of languages to be applied in sequence. Only language translations that are "
+"installed on your system will be listed as available. If your language is "
+"not listed then you will need to install it first.</p>"
+msgstr ""
+"<h1>Fordítások</h1>\n"
+"<p>Itt adhatja meg a felhasználói felület nyelvét. Kiválaszthat egy vagy "
+"több nyelvet, amelyeket sorba alkalmaz a rendszer. Csak a telepített nyelvek "
+"kerülnek felsorolásra. Ha az Ön nyelve nincs a listában, telepítenie kell a "
+"fordítási fájlokat előbb.</p>"
+
+#: kcmtranslations.cpp:204
+#, kde-format
+msgid "Available Languages:"
+msgstr "Elérhető nyelvek:"
+
+#: kcmtranslations.cpp:205
+#, kde-format
+msgid ""
+"This is the list of installed KDE Plasma language translations not currently "
+"being used. <br />To use a language translation move it to the 'Preferred "
+"Languages' list in the order of preference.  <br />If no suitable languages "
+"are listed, then you may need to install more language packages using your "
+"usual installation method."
+msgstr ""
+"Ez a KDE Plasma telepített, jelenleg nem használt nyelvi fordításainak "
+"listája.<br />A nyelvi fordítás használatához mozgassa azt az „Elsődleges "
+"nyelvek” listájába a használni kívánt sorrendben.<br />Ha a megfelelő nyelv "
+"nincs a listában, akkor további nyelvi csomagok telepítése lehet szükséges a "
+"szokásos telepítési módszerrel."
+
+#: kcmtranslations.cpp:214
+#, kde-format
+msgid "Preferred Languages:"
+msgstr "Elsődleges nyelvek:"
+
+#: kcmtranslations.cpp:215
+#, kde-format
+msgid ""
+"This is the list of installed KDE Plasma language translations currently "
+"being used, listed in order of preference.  <br />If a translation is not "
+"available for the first language in the list, the next language will be "
+"used. <br /> If no other translations are available then US English will be "
+"used."
+msgstr ""
+"Ez a KDE Plasma jelenleg használt telepített nyelvi fordításainak listája "
+"preferencia szerinti sorrendben.<br />Ha egy fordítás nem érhető el a "
+"listában lévő első nyelvhez, a következő nyelv lesz használatban.<br />Ha "
+"nem érhető el egyéb fordítás, akkor az Amerikai angol lesz használatban."
+
+#: kcmtranslations.cpp:250 kcmtranslations.cpp:259
+#, kde-format
+msgctxt "%1 is language name, %2 is language code name"
+msgid "%1 (%2)"
+msgstr ""
+
+#: kcmtranslations.cpp:316
+#, kde-format
+msgid "Install more languages"
+msgstr "További nyelvek telepítése"
+
+#: kcmtranslations.cpp:317
+#, kde-format
+msgid "<p>Click here to install more languages</p>"
+msgstr "<p>Kattintson ide további nyelvek telepítéséhez</p>"
+
+#. i18n: ectx: property (availableLabel), widget (KActionSelector, m_selectTranslations)
+#: kcmtranslationswidget.ui:31
+#, kde-format
+msgid "Available &Translations:"
+msgstr "Elérhető fordí&tások:"
+
+#. i18n: ectx: property (selectedLabel), widget (KActionSelector, m_selectTranslations)
+#: kcmtranslationswidget.ui:34
+#, kde-format
+msgid "Preferred Trans&lations:"
+msgstr "Elsődleges nye&lvek:"
+
+#. i18n: ectx: property (text), widget (QPushButton, m_buttonTranslationsInstall)
+#: kcmtranslationswidget.ui:44
+#, kde-format
+msgid "Install more translations"
+msgstr "További fordítások telepítése"

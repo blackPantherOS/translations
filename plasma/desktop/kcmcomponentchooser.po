@@ -1,0 +1,304 @@
+#
+# Tamas Szanto <tszanto@interware.hu>, 2002.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.1\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2011-04-14 21:57+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Szántó Tamás,Kiszel Kristóf"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "tszanto@interware.hu,ulysses@kubuntu.org"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: browserconfig_ui.ui:12
+#, kde-format
+msgid "<qt>Open <b>http</b> and <b>https</b> URLs</qt>"
+msgstr "<qt><b>HTTP-</b> és <b>HTTPS-</b>címek megnyitása</qt>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioKIO)
+#: browserconfig_ui.ui:19
+#, kde-format
+msgid "in an application based on the contents of the URL"
+msgstr "Az URL tartalma alapján kiválasztott alkalmazásban"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioExec)
+#: browserconfig_ui.ui:29
+#, kde-format
+msgid "in the following browser:"
+msgstr "Ebben a böngészőben:"
+
+#. i18n: ectx: property (text), widget (QToolButton, btnSelectBrowser)
+#. i18n: ectx: property (text), widget (QToolButton, btnSelectEmail)
+#. i18n: ectx: property (text), widget (QToolButton, btnSelectFileManager)
+#. i18n: ectx: property (text), widget (QToolButton, btnSelectTerminal)
+#: browserconfig_ui.ui:64 emailclientconfig_ui.ui:69 filemanagerconfig_ui.ui:41
+#: terminalemulatorconfig_ui.ui:60
+#, kde-format
+msgid "..."
+msgstr "…"
+
+#: componentchooser.cpp:134
+#, kde-format
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#: componentchooser.cpp:150
+#, kde-format
+msgid ""
+"<qt>You changed the default component of your choice, do want to save that "
+"change now ?</qt>"
+msgstr ""
+"<qt>Megváltoztatott egy alapértelmezett komponenst, el szeretné menteni a "
+"módosítást?</qt>"
+
+#: componentchooser.cpp:154
+#, kde-format
+msgid "No description available"
+msgstr "Nincs leírás"
+
+#: componentchooser.cpp:165 componentchooser.cpp:170
+#, kde-format
+msgid ""
+"Choose from the list below which component should be used by default for the "
+"%1 service."
+msgstr ""
+"Válassza ki az alábbi listából a(z) %1 szolgáltatás alapértelmezett "
+"komponensét."
+
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, GroupBox1)
+#: componentchooser_ui.ui:26
+#, kde-format
+msgid ""
+"Here you can change the component program. Components are programs that "
+"handle basic tasks, like the terminal emulator, the text editor and the "
+"email client. Different KDE applications sometimes need to invoke a console "
+"emulator, send a mail or display some text. To do so consistently, these "
+"applications always call the same components. You can choose here which "
+"programs these components are."
+msgstr ""
+"Itt lehet megváltoztatni a komponens programfájljának nevét. A komponensek "
+"egy-egy alapvető feladat elvégzésére valók, például a parancsértelmező, a "
+"szövegszerkesztő vagy a levelezőprogram szerepét töltik be. A különféle KDE-"
+"alkalmazásoknak gyakran van szükségük arra, hogy elindítsanak egy "
+"parancsértelmezőt, elküldjenek egy e-mailt vagy megjelenítsenek egy szöveges "
+"fájlt. Hogy a műveleteket konzisztens módon végezzék el, a felhasználó által "
+"a megadott célra kijelölt komponenst használják fel. Itt lehet beállítani, "
+"hogy az egyes komponensekhez melyik program tartozzon."
+
+#. i18n: ectx: property (title), widget (QGroupBox, GroupBox1)
+#: componentchooser_ui.ui:29
+#, kde-format
+msgid "Default Component"
+msgstr "Alapértelmezett komponens"
+
+#. i18n: ectx: property (whatsThis), widget (QListWidget, ServiceChooser)
+#: componentchooser_ui.ui:44
+#, kde-format
+msgid ""
+"<qt>\n"
+"<p>This list shows the configurable component types. Click the component you "
+"want to configure.</p>\n"
+"<p>In this dialog you can change KDE default components. Components are "
+"programs that handle basic tasks, like the terminal emulator, the text "
+"editor and the email client. Different KDE applications sometimes need to "
+"invoke a console emulator, send a mail or display some text. To do so "
+"consistently, these applications always call the same components. Here you "
+"can select which programs these components are.</p>\n"
+"</qt>"
+msgstr ""
+"<qt>\n"
+"<p>Itt látható, hogy a rendszerben milyen komponenstípusok léteznek. "
+"Kattintson rá a beállítani kívánt komponensre.</p>\n"
+"<p>Ebben a párbeszédablakban a KDE alapértelmezett komponenseit lehet "
+"megváltoztatni. A komponensek egy-egy alapvető feladat elvégzésére valók, "
+"például a parancsértelmező, a szövegszerkesztő vagy a levelezőprogram "
+"szerepét töltik be. A különféle KDE-alkalmazásoknak gyakran van szükségük "
+"arra, hogy elindítsanak egy parancsértelmezőt, elküldjenek egy e-mailt vagy "
+"megjelenítsenek egy szöveges fájlt. Hogy a műveleteket konzisztens módon "
+"végezzék el, a felhasználó által a megadott célra kijelölt komponenst "
+"használják fel. Itt lehet beállítani, hogy az egyes komponensekhez melyik "
+"program tartozzon..</p>\n"
+"</qt>"
+
+#: componentchooserbrowser.cpp:110
+#, kde-format
+msgid "Select preferred Web browser application:"
+msgstr "Válassza ki az alapértelmezett webböngészőt:"
+
+#: componentchooseremail.cpp:82
+#, kde-format
+msgid "Select preferred email client:"
+msgstr "Az alapértelmezett e-mail-kliens:"
+
+#: componentchooserterminal.cpp:103
+#, kde-format
+msgid "Select preferred terminal application:"
+msgstr "Az alapértelmezett parancsértelmező:"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, kmailCB)
+#: emailclientconfig_ui.ui:12
+#, kde-format
+msgid "Kmail is the standard Mail program for the KDE desktop."
+msgstr "A KMail a KDE alapértelmezett levelezőprogramja."
+
+#. i18n: ectx: property (text), widget (QRadioButton, kmailCB)
+#: emailclientconfig_ui.ui:15
+#, kde-format
+msgid "&Use KMail as preferred email client"
+msgstr "A &KMail legyen az alapértelmezett levelezőprogram"
+
+#. i18n: ectx: property (whatsThis), widget (QRadioButton, otherCB)
+#: emailclientconfig_ui.ui:22
+#, kde-format
+msgid "Select this option if you want to use any other mail program."
+msgstr ""
+"Ezt kell választani, ha más programot szeretne használni (nem a KMailt)."
+
+#. i18n: ectx: property (text), widget (QRadioButton, otherCB)
+#: emailclientconfig_ui.ui:25
+#, kde-format
+msgid "Use a different &email client:"
+msgstr "Más &program:"
+
+#. i18n: ectx: property (toolTip), widget (KLineEdit, txtEMailClient)
+#: emailclientconfig_ui.ui:53
+#, fuzzy, no-c-format, kde-format
+#| msgid ""
+#| "<ul> <li>%t: Recipient's address</li> <li>%s: Subject</li> <li>%c: Carbon "
+#| "Copy (CC)</li> <li>%b: Blind Carbon Copy (BCC)</li> <li>%B: Template body "
+#| "text</li> <li>%A: Attachment </li> <li>%u: Full mailto: URL </li></ul>"
+msgid ""
+"Optional placeholders: <ul> <li>%t: Recipient's address</li> <li>%s: "
+"Subject</li> <li>%c: Carbon Copy (CC)</li> <li>%b: Blind Carbon Copy (BCC)</"
+"li> <li>%B: Template body text</li> <li>%A: Attachment </li> <li>%u: Full "
+"mailto: URL </li></ul>"
+msgstr ""
+"<ul> <li>%t: a címzett e-mail címe</li> <li>%s: tárgy</li> <li>%c: a "
+"másolatok (CC) címei</li> <li>%b: a titkos másolatok (BCC) címei</li> <li>"
+"%B: az üzenetszöveg sablonja</li> <li>%A: csatolás </li> <li>%u: teljes "
+"mailto: URL </li></ul>"
+
+#. i18n: ectx: property (whatsThis), widget (KLineEdit, txtEMailClient)
+#: emailclientconfig_ui.ui:56
+#, no-c-format, kde-format
+msgid ""
+"Press this button to select your favorite email client. Please note that the "
+"file you select has to have the executable attribute set in order to be "
+"accepted.<br/> You can also use several placeholders which will be replaced "
+"with the actual values when the email client is called:<ul> <li>%t: "
+"Recipient's address</li> <li>%s: Subject</li> <li>%c: Carbon Copy (CC)</li> "
+"<li>%b: Blind Carbon Copy (BCC)</li> <li>%B: Template body text</li> <li>%A: "
+"Attachment </li> </ul>"
+msgstr ""
+"Ezzel a gombbal lehet kiválasztani az alapértelmezett e-mail-klienst. A "
+"kiválasztott programot csak akkor fogadja el a program, ha Önnek "
+"végrehajthatósági jogosultsága van hozzá.<br /> Többféle változó is "
+"felhasználható - ezek értékei az üzenetre vonatkozó konkrét értékek lesznek:"
+"<ul> <li>%t: a címzett e-mail címe</li> <li>%s: a tárgy</li> <li>%c: a "
+"másolatok (CC) címei</li> <li>%b: a rejtett másolatok (BCC) címei</li> <li>"
+"%B: az üzenetszöveg sablonja</li> <li>%A: csatolás </li> </ul>"
+
+#. i18n: ectx: property (whatsThis), widget (QToolButton, btnSelectEmail)
+#: emailclientconfig_ui.ui:66
+#, kde-format
+msgid "Click here to browse for the mail program file."
+msgstr "Kattintson ide a levélküldő program kiválasztásához."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkRunTerminal)
+#: emailclientconfig_ui.ui:99
+#, kde-format
+msgid ""
+"Activate this option if you want the selected email client to be executed in "
+"a terminal (e.g. <em>Konsole</em>)."
+msgstr ""
+"Ezt akkor kell bejelölni, ha a kiválasztott e-mail-kliens karakteres módú "
+"(azaz parancsértelmezőben kell futtatni, pl. a <em>Konsole</em>-ban)."
+
+#. i18n: ectx: property (text), widget (QCheckBox, chkRunTerminal)
+#: emailclientconfig_ui.ui:102
+#, kde-format
+msgid "&Run in terminal"
+msgstr "F&uttatás parancsértelmezőben"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: filemanagerconfig_ui.ui:12
+#, kde-format
+msgid "Browse directories using the following file manager:"
+msgstr "Mappák böngészése a következő fájlkezelővel:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioExec)
+#: filemanagerconfig_ui.ui:24
+#, kde-format
+msgid "Other: click Add... in the dialog shown here:"
+msgstr "Egyéb: kattintson a Hozzáadás… gombra itt:"
+
+#: kcm_componentchooser.cpp:44
+#, kde-format
+msgid "Component Chooser"
+msgstr "Komponensválasztó"
+
+#: kcm_componentchooser.cpp:46
+#, kde-format
+msgid "(c), 2002 Joseph Wenninger"
+msgstr "(C) Joseph Wenninger, 2002."
+
+#: kcm_componentchooser.cpp:48
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: ktimerdialog.cpp:163
+#, kde-format
+msgid "1 second remaining:"
+msgid_plural "%1 seconds remaining:"
+msgstr[0] "1 másodperc van hátra:"
+msgstr[1] "%1 másodperc van hátra:"
+
+#. i18n: ectx: property (text), widget (QRadioButton, terminalCB)
+#: terminalemulatorconfig_ui.ui:12
+#, kde-format
+msgid "&Use Konsole as terminal application"
+msgstr "A K&onsole legyen az alapértelmezett parancsértelmező"
+
+#. i18n: ectx: property (text), widget (QRadioButton, otherCB)
+#: terminalemulatorconfig_ui.ui:19
+#, kde-format
+msgid "Use a different &terminal program:"
+msgstr "Más pro&gram:"
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, terminalLE)
+#: terminalemulatorconfig_ui.ui:47
+#, kde-format
+msgid ""
+"Press this button to select your favorite terminal client. Please note that "
+"the file you select has to have the executable attribute set in order to be "
+"accepted.<br/> Also note that some programs that utilize Terminal Emulator "
+"will not work if you add command line arguments (Example: konsole -ls)."
+msgstr ""
+"Nyomja meg ezt a gombot a terminál kiválasztásához. A programot csak akkor "
+"fogadja el a program, ha Önnek futtatási jogosultsága van hozzá.<br /> "
+"Néhány terminál nem működik parancssori argumentumokkal (például: konsole -"
+"ls)."
+
+#. i18n: ectx: property (whatsThis), widget (QToolButton, btnSelectTerminal)
+#: terminalemulatorconfig_ui.ui:57
+#, kde-format
+msgid "Click here to browse for terminal program."
+msgstr "Kattintson ide a parancsértelmező kiválasztásához."

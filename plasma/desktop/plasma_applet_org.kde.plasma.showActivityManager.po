@@ -1,0 +1,28 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2011-10-23 10:58+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: package/contents/ui/main.qml:50
+#, kde-format
+msgid "Show Activity Manager"
+msgstr "Aktivitáskezelő megjelenítése"
+
+#: package/contents/ui/main.qml:51
+#, kde-format
+msgid "Click to show the activity manager"
+msgstr "Kattintson az aktivitáskezelő megjelenítéséhez"

@@ -1,0 +1,309 @@
+# Copyright (C) 2010 Free Software Foundation, Inc.
+#
+# Tamas Szanto <tszanto@interware.hu>, 2000.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2014.
+# Balázs Úr <urbalazs@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.1\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2014-09-30 14:07+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: fonts.cpp:251
+#, kde-format
+msgid "Configure Anti-Alias Settings"
+msgstr "Élsimítási beállítások"
+
+#: fonts.cpp:259
+#, kde-format
+msgid "E&xclude range:"
+msgstr "Ki&zárási tartomány:"
+
+#: fonts.cpp:262 fonts.cpp:267
+#, kde-format
+msgid " pt"
+msgstr " pt"
+
+#: fonts.cpp:264
+#, kde-format
+msgid " to "
+msgstr " - "
+
+#: fonts.cpp:271
+#, kde-format
+msgid ""
+"<p>If you have a TFT or LCD screen you can further improve the quality of "
+"displayed fonts by selecting this option.<br />Sub-pixel rendering is also "
+"known as ClearType(tm).<br /> In order for sub-pixel rendering to work "
+"correctly you need to know how the sub-pixels of your display are aligned.</"
+"p> <p>On TFT or LCD displays a single pixel is actually composed of three "
+"sub-pixels, red, green and blue. Most displays have a linear ordering of RGB "
+"sub-pixel, some have BGR.<br /> This feature does not work with CRT monitors."
+"</p>"
+msgstr ""
+"<p>LCD képernyő használata esetén a betűk megjelenítési minősége javítható "
+"ezzel a beállítással.<br />A képpontkorrekció ClearType(tm) néven is ismert."
+"<br /> A képpontkorrekció helyes működéséhez ismerni kell a képernyő "
+"képpontalkotó részeinek elrendezését.</p> <p>LCD képernyőknél minden képpont "
+"egy külön piros (R), kék (B) és zöld (G) képpontból tevődik össze. A legtöbb "
+"típusnál RGB a sorrend, de előfordul BGR is.<br /> Ez a lehetőség NEM "
+"működik képcsöves monitoroknál!</p>"
+
+#: fonts.cpp:282
+#, kde-format
+msgid "Sub-pixel rendering type: "
+msgstr "Képpontkorrekció típusa: "
+
+#: fonts.cpp:295
+#, kde-format
+msgid "Hinting style: "
+msgstr "Betűjavítási mód: "
+
+#: fonts.cpp:303
+#, kde-format
+msgid ""
+"Hinting is a process used to enhance the quality of fonts at small sizes."
+msgstr ""
+"A betűjavítás segítségével kis méretű betűk megjelenítési minőségét lehet "
+"javítani."
+
+#: fonts.cpp:520
+#, kde-format
+msgctxt "font usage"
+msgid "General"
+msgstr "Általános"
+
+#: fonts.cpp:521
+#, kde-format
+msgctxt "font usage"
+msgid "Fixed width"
+msgstr "Rögzített szélességű"
+
+#: fonts.cpp:522
+#, kde-format
+msgctxt "font usage"
+msgid "Small"
+msgstr "Kicsi"
+
+#: fonts.cpp:523
+#, kde-format
+msgctxt "font usage"
+msgid "Toolbar"
+msgstr "Eszköztár"
+
+#: fonts.cpp:524
+#, kde-format
+msgctxt "font usage"
+msgid "Menu"
+msgstr "Menü"
+
+#: fonts.cpp:525
+#, kde-format
+msgctxt "font usage"
+msgid "Window title"
+msgstr "Ablakcím"
+
+#: fonts.cpp:562
+#, kde-format
+msgid "Used for normal text (e.g. button labels, list items)."
+msgstr "Normál szövegekhez használt (pl.: gombfeliratok, listaelemek)."
+
+#: fonts.cpp:563
+#, kde-format
+msgid "A non-proportional font (i.e. typewriter font)."
+msgstr ""
+"Azonos szélességű betűkből álló betűtípus (más néven írógép-betűtípus)."
+
+#: fonts.cpp:564
+#, kde-format
+msgid "Smallest font that is still readable well."
+msgstr "A legkisebb, még olvasható betűméret."
+
+#: fonts.cpp:565
+#, kde-format
+msgid "Used to display text beside toolbar icons."
+msgstr "Eszköztárikonok melletti szöveg megjelenítéséhez használt."
+
+#: fonts.cpp:566
+#, kde-format
+msgid "Used by menu bars and popup menus."
+msgstr "Menükhöz és a felbukkanó menükhöz használt."
+
+#: fonts.cpp:567
+#, kde-format
+msgid "Used by the window titlebar."
+msgstr "Ablakok címsorához használt."
+
+#: fonts.cpp:605
+#, kde-format
+msgctxt "Font role"
+msgid "%1: "
+msgstr "%1: "
+
+#: fonts.cpp:618
+#, kde-format
+msgid "Ad&just All Fonts..."
+msgstr "Az összes betűtípus kii&gazítása…"
+
+#: fonts.cpp:619
+#, kde-format
+msgid "Click to change all fonts"
+msgstr "Kattintson ide az összes betűtípus megváltoztatásához"
+
+#: fonts.cpp:630
+#, kde-format
+msgid "Use a&nti-aliasing:"
+msgstr "Éls&imítás:"
+
+#: fonts.cpp:634
+#, kde-format
+msgctxt "Use anti-aliasing"
+msgid "Enabled"
+msgstr "be"
+
+#: fonts.cpp:635
+#, kde-format
+msgctxt "Use anti-aliasing"
+msgid "System Settings"
+msgstr "Alapértelmezett beállítás"
+
+#: fonts.cpp:636
+#, kde-format
+msgctxt "Use anti-aliasing"
+msgid "Disabled"
+msgstr "Kikapcsolva"
+
+#: fonts.cpp:637
+#, kde-format
+msgid ""
+"If this option is selected, KDE will smooth the edges of curves in fonts."
+msgstr ""
+"Ha ez az opció be van jelölve, akkor a KDE élsimítást fog alkalmazni a betűk "
+"megjelenítésénél."
+
+#: fonts.cpp:638
+#, kde-format
+msgid "Configure..."
+msgstr "Beállítás…"
+
+#: fonts.cpp:649
+#, kde-format
+msgid "Force fonts DPI:"
+msgstr "A betűtípusok DPI értéke:"
+
+#: fonts.cpp:655
+#, kde-format
+msgid ""
+"<p>This option forces a specific DPI value for fonts. It may be useful when "
+"the real DPI of the hardware is not detected properly and it is also often "
+"misused when poor quality fonts are used that do not look well with DPI "
+"values other than 96 or 120 DPI.</p><p>The use of this option is generally "
+"discouraged. For selecting proper DPI value a better option is explicitly "
+"configuring it for the whole X server if possible (e.g. DisplaySize in xorg."
+"conf or adding <i>-dpi value</i> to ServerLocalArgs= in $KDEDIR/share/config/"
+"kdm/kdmrc). When fonts do not render properly with real DPI value better "
+"fonts should be used or configuration of font hinting should be checked.</p>"
+msgstr ""
+"<p>Ezzel a beállítással lehet egy adott DPI értéket előírni. Akkor érdemes "
+"használni, ha a hardver valódi DPI-jét nem tudja felismerni a rendszer, vagy "
+"ha olyan gyenge minőségűek a betűtípusok, hogy nem néznek ki jól, kivéve ha "
+"96 vagy 120 DPI a felbontás értéke.</p><p>Általában nem célszerű használni "
+"ezt a beállítást. A megfelelő DPI érték általában beállítható az X-"
+"kiszolgálóban is (pl.: a DisplaySize érték az xorg.conf-ban vagy a <i>-dpi "
+"érték</i> opció a ServerLocalArgs= sorban a(z) $KDEDIR/share/config/kdm/"
+"kdmrc fájlban). Ha a betűk nem jelennek meg jól a valós DPI értékükkel, "
+"akkor érdemes jobb minőségű betűtípusokat beszerezni vagy módosítani a "
+"betűtípus hintelését.</p>"
+
+#: fonts.cpp:812
+#, kde-format
+msgid ""
+"<p>Some changes such as anti-aliasing or DPI will only affect newly started "
+"applications.</p>"
+msgstr ""
+"<p>Egyes módosítások – mint például az élsimítás vagy DPI – csak az ezután "
+"indított alkalmazásokra lesznek érvényesek.</p>"
+
+#: fonts.cpp:813 fonts.cpp:823
+#, kde-format
+msgid "Font Settings Changed"
+msgstr "A betűtípus-beállítások megváltoztak"
+
+#: fonts.cpp:822
+#, kde-format
+msgid ""
+"<p>Some changes such as DPI will only affect newly started applications.</p>"
+msgstr ""
+"<p>Egyes módosítások (például a betűtípusok DPI értéke) csak az ezután "
+"indított alkalmazásokra lesznek érvényesek.</p>"
+
+#: kxftconfig.cpp:454
+#, kde-format
+msgctxt "use system subpixel setting"
+msgid "System default"
+msgstr "Alapértelmezett beállítás"
+
+#: kxftconfig.cpp:456
+#, kde-format
+msgctxt "no subpixel rendering"
+msgid "None"
+msgstr "Nincs"
+
+#: kxftconfig.cpp:458
+#, kde-format
+msgid "RGB"
+msgstr "RGB"
+
+#: kxftconfig.cpp:460
+#, kde-format
+msgid "BGR"
+msgstr "BGR"
+
+#: kxftconfig.cpp:462
+#, kde-format
+msgid "Vertical RGB"
+msgstr "Függőleges RGB"
+
+#: kxftconfig.cpp:464
+#, kde-format
+msgid "Vertical BGR"
+msgstr "Függőleges BGR"
+
+#: kxftconfig.cpp:490
+#, kde-format
+msgctxt "use system hinting settings"
+msgid "System default"
+msgstr "Alapértelmezett beállítás"
+
+#: kxftconfig.cpp:492
+#, kde-format
+msgctxt "medium hinting"
+msgid "Medium"
+msgstr "Közepes"
+
+#: kxftconfig.cpp:494
+#, kde-format
+msgctxt "no hinting"
+msgid "None"
+msgstr "Nincs"
+
+#: kxftconfig.cpp:496
+#, kde-format
+msgctxt "slight hinting"
+msgid "Slight"
+msgstr "Enyhe"
+
+#: kxftconfig.cpp:498
+#, kde-format
+msgctxt "full hinting"
+msgid "Full"
+msgstr "Teljes"

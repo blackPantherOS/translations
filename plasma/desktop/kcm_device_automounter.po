@@ -1,0 +1,235 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2011-07-28 23:31+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Kiszel Kristóf"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ulysses@kubuntu.org"
+
+#: DeviceAutomounterKCM.cpp:45
+#, kde-format
+msgid "Device Automounter"
+msgstr "Automatikus csatolás"
+
+#: DeviceAutomounterKCM.cpp:49
+#, fuzzy, kde-format
+#| msgid "(c) 2009 Trever Fischer"
+msgid "(c) 2009 Trever Fischer, (c) 2015 Kai Uwe Broulik"
+msgstr "(C) Trever Fisher, 2009."
+
+#: DeviceAutomounterKCM.cpp:50
+#, kde-format
+msgid "Trever Fischer"
+msgstr "Trever Fischer"
+
+#: DeviceAutomounterKCM.cpp:50
+#, kde-format
+msgid "Original Author"
+msgstr ""
+
+#: DeviceAutomounterKCM.cpp:51
+#, kde-format
+msgid "Kai Uwe Broulik"
+msgstr ""
+
+#: DeviceAutomounterKCM.cpp:51
+#, kde-format
+msgid "Plasma 5 Port"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, automountEnabled)
+#: DeviceAutomounterKCM.ui:17
+#, kde-format
+msgid ""
+"When this is unchecked, no device automounting of any kind will happen, "
+"regardless of anything selected in the \"Device Overrides\" section."
+msgstr ""
+"Ha ki van kapcsolva, nem történik semmilyen automatikus csatolás, az "
+"„Eszközfelülbírálások” részben beállítottaktól függetlenül."
+
+#. i18n: ectx: property (text), widget (QCheckBox, automountEnabled)
+#: DeviceAutomounterKCM.ui:20
+#, kde-format
+msgid "Enable automatic mounting of removable media"
+msgstr "Cserélhető eszközök automatikus csatolásának engedélyezése"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, automountUnknownDevices)
+#: DeviceAutomounterKCM.ui:45
+#, kde-format
+msgid ""
+"When this is checked, only remembered devices will be automatically mounted. "
+"A device is 'remembered' if it has ever been mounted before. For instance, "
+"plugging in a USB media player to charge is not sufficient to 'remember' it "
+"- if the files are not accessed, it will not be automatically mounted the "
+"next time it is seen. Once they have been accessed, however, the device's "
+"contents will be automatically made available to the system."
+msgstr ""
+"Ha be van kapcsolva, a KDE csak a megjegyzett eszközöket csatolja "
+"automatikusan. Egy „megjegyzett”, ha korábban csatolva volt. Például egy USB "
+"médialejátszót nem elég bedugni töltésre: ha nem volt fájlművelet (például "
+"fájlböngésés), a KDE nem csatolja automatikusan következő alkalommal. Amint "
+"fájlművelet történik, a KDE megjegyzi, és automatikusan csatolja és "
+"elérhetővé teszi az eszköz tartalmát a rendszernek."
+
+#. i18n: ectx: property (text), widget (QCheckBox, automountUnknownDevices)
+#: DeviceAutomounterKCM.ui:48
+#, kde-format
+msgid ""
+"Only automatically mount removable media that has been manually mounted "
+"before"
+msgstr ""
+"Csak a korábban kézzel csatolt cserélhető eszközök automatikus csatolása"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, automountOnLogin)
+#: DeviceAutomounterKCM.ui:55
+#, kde-format
+msgid ""
+"If any removable storage devices are connected to your system when you login "
+"to your desktop, their contents will automatically be made available to your "
+"system for other programs to read."
+msgstr ""
+"Ha bejelentkezéskor bármilyen cserélhető eszköz csatlakoztatva van, a KDE "
+"automatikusan elérhetővé teszi a tartalmát más programok számára olvasásra."
+
+#. i18n: ectx: property (text), widget (QCheckBox, automountOnLogin)
+#: DeviceAutomounterKCM.ui:58
+#, kde-format
+msgid "Mount all removable media at login"
+msgstr "Összes cserélhető eszköz csatolása bejelentkezéskor"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, automountOnPlugin)
+#: DeviceAutomounterKCM.ui:65
+#, kde-format
+msgid ""
+"When this is checked, the contents of any storage device will automatically "
+"be made available to the system when it is plugged in or attached."
+msgstr ""
+"Ha be van kapcsolva, a KDE automatikusan elérhetővé teszi a tárolóeszközök "
+"tartalmát bedugáskor vagy csatlakoztatáskor."
+
+#. i18n: ectx: property (text), widget (QCheckBox, automountOnPlugin)
+#: DeviceAutomounterKCM.ui:68
+#, kde-format
+msgid "Automatically mount removable media when attached"
+msgstr "Cserélhető eszközök automatikus csatolása csatlakoztatáskor"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: DeviceAutomounterKCM.ui:90
+#, kde-format
+msgid "Device Overrides"
+msgstr "Eszközfelülbírálások"
+
+#. i18n: ectx: property (whatsThis), widget (QTreeView, deviceView)
+#: DeviceAutomounterKCM.ui:98
+#, kde-format
+msgid ""
+"This list contains the storage devices known to the system. If \"Automount "
+"on Login\" is checked, the device will be automatically mounted even though "
+"\"Mount all removable media at login\" is unchecked. The same applies for "
+"\"Automount on Attach\".\n"
+"\n"
+"If \"Enable automatic mounting of removable media\" is unchecked, the "
+"overrides do not apply and no devices will be automatically mounted."
+msgstr ""
+"Ez a lista a KDE által ismert eszközöket tartalmazza. Ha az „Automatikus "
+"csatolás bejelentkezéskor” be van kapcsolva, az eszköz automatikusan "
+"csatolva lesz, még ha az „Összes cserélhető eszköz csatolása "
+"bejelentkezéskor” ki is van kapcsolva. Ugyanez érvényez az „Automatikus "
+"csatolás csatlakoztatáskor” beállításra is.\n"
+"\n"
+"Ha a „Cserélhető eszközök automatikus csatolásának bekapcsolása” ki van "
+"kapcsolva, a felülbírálások nem kerülnek alkalmazásra, és az eszközök nem "
+"lesznek automatikusan csatolva."
+
+#. i18n: ectx: property (whatsThis), widget (QPushButton, forgetDevice)
+#: DeviceAutomounterKCM.ui:134
+#, kde-format
+msgid ""
+"Clicking this button causes the selected devices to be 'forgotten'. This is "
+"only useful if \"Only automatically mount removable media that has been "
+"manually mounted before\" is checked. Once a device is forgotten and the "
+"system is set to only automatically mount familiar devices, the device will "
+"not be automatically mounted."
+msgstr ""
+"Erre a gombra kattintva a KDE „elfelejti”, hogy a kijelölt eszköz valaha is "
+"létezett. Ez csak akkor hasznos, ha a „Csak a korábban kézzel csatolt "
+"cserélhető eszközök automatikus csatolása” be van kapcsolva. Amint egy "
+"eszköz elfelejtődik, és a KDE csak az ismert eszközök automatikus "
+"csatolására lesz beállítva, az eszköz nem lesz többé automatikusan csatolva."
+
+#. i18n: ectx: property (text), widget (QPushButton, forgetDevice)
+#: DeviceAutomounterKCM.ui:137
+#, kde-format
+msgid "Forget Device"
+msgstr "Eszköz elfelejtése"
+
+#: DeviceModel.cpp:62
+#, kde-format
+msgid "Device"
+msgstr "Eszköz"
+
+#: DeviceModel.cpp:63
+#, kde-format
+msgid "Automount on Login"
+msgstr "Automatikus csatolás bejelentkezéskor"
+
+#: DeviceModel.cpp:64
+#, kde-format
+msgid "Automount on Attach"
+msgstr "Automatikus csatolás csatlakoztatáskor"
+
+#: DeviceModel.cpp:235 DeviceModel.cpp:274
+#, kde-format
+msgid "UDI: %1"
+msgstr "UDI: %1"
+
+#: DeviceModel.cpp:245 DeviceModel.cpp:284
+#, kde-format
+msgid "This device will be automatically mounted at login."
+msgstr "Az eszköz automatikusan csatolva lesz bejelentkezéskor."
+
+#: DeviceModel.cpp:246 DeviceModel.cpp:285
+#, kde-format
+msgid "This device will not be automatically mounted at login."
+msgstr "Az eszköz nem lesz automatikusan csatolva bejelentkezéskor."
+
+#: DeviceModel.cpp:254 DeviceModel.cpp:293
+#, kde-format
+msgid "This device will be automatically mounted when attached."
+msgstr "Az eszköz automatikusan csatolva lesz csatlakoztatáskor."
+
+#: DeviceModel.cpp:255 DeviceModel.cpp:294
+#, kde-format
+msgid "This device will not be automatically mounted when attached."
+msgstr "Az eszköz nem lesz automatikusan csatolva csatlakoztatáskor."
+
+#: DeviceModel.cpp:301
+#, kde-format
+msgid "Attached Devices"
+msgstr "Csatlakoztatott eszközök"
+
+#: DeviceModel.cpp:303
+#, kde-format
+msgid "Disconnected Devices"
+msgstr "Leválasztott eszközök"

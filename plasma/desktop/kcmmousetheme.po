@@ -1,0 +1,166 @@
+#
+# Balazs Nagy <julian7@kva.hu>, 1998.
+# John Zero <johnzero@telnet.hu>, 1998.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2011, 2014, 2015.
+# Balázs Úr <urbalazs@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.1\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2015-03-24 23:40+0100\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Szántó Tamás,Kiszel Kristóf"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "tszanto@interware.hu,ulysses@kubuntu.org"
+
+#: kcmcursortheme.cpp:43
+#, kde-format
+msgid "Cursor Theme"
+msgstr "Kurzortéma"
+
+#: kcmcursortheme.cpp:44
+#, kde-format
+msgid "(c) 2003-2007 Fredrik Höglund"
+msgstr "(C) Fredrik Höglund, 2003-2007."
+
+#: kcmcursortheme.cpp:45
+#, kde-format
+msgid "Fredrik Höglund"
+msgstr "Fredrik Höglund"
+
+#: xcursor/thememodel.cpp:67
+#, kde-format
+msgid "Name"
+msgstr "Név"
+
+#: xcursor/thememodel.cpp:70
+#, kde-format
+msgid "Description"
+msgstr "Leírás"
+
+#: xcursor/themepage.cpp:154
+#, kde-format
+msgctxt "@item:inlistbox size"
+msgid "Resolution dependent"
+msgstr "Felbontásfüggő"
+
+#: xcursor/themepage.cpp:317
+#, fuzzy, kde-format
+#| msgid "You have to restart KDE for these changes to take effect."
+msgid ""
+"You have to restart the Plasma session for these changes to take effect."
+msgstr "A KDE-t újra kell indítani, hogy a módosítások érvényesüljenek."
+
+#: xcursor/themepage.cpp:318
+#, kde-format
+msgid "Cursor Settings Changed"
+msgstr "Az egérmutató beállításai megváltoztak"
+
+#: xcursor/themepage.cpp:436
+#, kde-format
+msgid "Drag or Type Theme URL"
+msgstr "Írja be vagy ejtse ide a téma URL-jét"
+
+#: xcursor/themepage.cpp:447
+#, kde-format
+msgid "Unable to find the cursor theme archive %1."
+msgstr "Nem található a(z) %1 egérmutató-téma archívuma."
+
+#: xcursor/themepage.cpp:450
+#, kde-format
+msgid ""
+"Unable to download the cursor theme archive; please check that the address "
+"%1 is correct."
+msgstr ""
+"Nem sikerült letölteni az egérmutató-téma archívumát. Ellenőrizze, hogy "
+"valóban ez-e a helyes cím: %1."
+
+#: xcursor/themepage.cpp:459
+#, kde-format
+msgid "The file %1 does not appear to be a valid cursor theme archive."
+msgstr "A(z) %1 fájl nem egérmutató-téma csomagja."
+
+#: xcursor/themepage.cpp:474
+#, kde-format
+msgid ""
+"<qt>You cannot delete the theme you are currently using.<br />You have to "
+"switch to another theme first.</qt>"
+msgstr ""
+"<qt>Nem lehet törölni az éppen használt témát.<br />Törlés előtt váltson át "
+"másik témára.</qt>"
+
+#: xcursor/themepage.cpp:480
+#, kde-format
+msgid ""
+"<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
+"will delete all the files installed by this theme.</qt>"
+msgstr ""
+"<qt>Biztosan el szeretné távolítani ezt az egérmutató-témát: <strong>%1</"
+"strong>?<br />A témához tartozó összes fájl törlődni fog.</qt>"
+
+#: xcursor/themepage.cpp:486
+#, kde-format
+msgid "Confirmation"
+msgstr "Megerősítés"
+
+#: xcursor/themepage.cpp:543
+#, kde-format
+msgid ""
+"A theme named %1 already exists in your icon theme folder. Do you want "
+"replace it with this one?"
+msgstr ""
+"Már létezik %1 nevű téma az ikontéma-mappában. Felül szeretné írni az újjal?"
+
+#: xcursor/themepage.cpp:547
+#, kde-format
+msgid "Overwrite Theme?"
+msgstr "Felül szeretné írni a témát?"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, installKnsButton)
+#: xcursor/themepage.ui:49
+#, kde-format
+msgid "Get new color schemes from the Internet"
+msgstr "Új színsémák letöltése az internetről"
+
+#. i18n: ectx: property (text), widget (QPushButton, installKnsButton)
+#: xcursor/themepage.ui:52
+#, fuzzy, kde-format
+#| msgid "Get New Theme..."
+msgid "Get new Theme"
+msgstr "Új téma letöltése…"
+
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: xcursor/themepage.ui:59
+#, kde-format
+msgid "Remove Theme"
+msgstr "Téma eltávolítása"
+
+#. i18n: ectx: property (text), widget (QPushButton, installButton)
+#: xcursor/themepage.ui:85
+#, fuzzy, kde-format
+#| msgid "Install From File..."
+msgid "Install from File"
+msgstr "Telepítés fájlból…"
+
+#: xcursor/xcursortheme.cpp:77
+#, kde-format
+msgctxt ""
+"@info The argument is the list of available sizes (in pixel). Example: "
+"'Available sizes: 24' or 'Available sizes: 24, 36, 48'"
+msgid "(Available sizes: %1)"
+msgstr "(Elérhető méretek: %1)"

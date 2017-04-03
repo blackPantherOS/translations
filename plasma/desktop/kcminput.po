@@ -1,0 +1,365 @@
+#
+# Balazs Nagy <julian7@kva.hu>, 1998.
+# John Zero <johnzero@telnet.hu>, 1998.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2011, 2014, 2015.
+# Balázs Úr <urbalazs@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.1\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-02-12 07:49+0100\n"
+"PO-Revision-Date: 2015-03-24 23:40+0100\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Szántó Tamás,Kiszel Kristóf"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "tszanto@interware.hu,ulysses@kubuntu.org"
+
+#. i18n: ectx: property (title), widget (QGroupBox, handedBox)
+#: kmousedlg.ui:27
+#, kde-format
+msgid "Button Order"
+msgstr "Gombsorrend"
+
+#. i18n: ectx: property (text), widget (QRadioButton, rightHanded)
+#: kmousedlg.ui:36
+#, kde-format
+msgid "Righ&t handed"
+msgstr "&jobbkezes"
+
+#. i18n: ectx: property (text), widget (QRadioButton, leftHanded)
+#: kmousedlg.ui:46
+#, kde-format
+msgid "Le&ft handed"
+msgstr "&balkezes"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbScrollPolarity)
+#: kmousedlg.ui:72
+#, kde-format
+msgid ""
+"Change the direction of scrolling for the mouse wheel or the 4th and 5th "
+"mouse buttons."
+msgstr "Invertálja az egérgörgő irányát (vagy a 4. és 5. egérgombét)."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbScrollPolarity)
+#: kmousedlg.ui:75
+#, kde-format
+msgid "Re&verse scroll direction"
+msgstr "For&dított görgetés"
+
+#. i18n: ectx: property (title), widget (QGroupBox, GroupBox1)
+#: kmousedlg.ui:105
+#, kde-format
+msgid "Icons"
+msgstr "Ikonok"
+
+#. i18n: ectx: property (text), widget (QRadioButton, doubleClick)
+#: kmousedlg.ui:111
+#, kde-format
+msgid "Dou&ble-click to open files and folders (select icons on first click)"
+msgstr ""
+"A fájlokat és mappákat &dupla kattintással lehessen megnyitni (az első "
+"kattintás csak kijelöl)"
+
+#. i18n: ectx: property (text), widget (QRadioButton, singleClick)
+#: kmousedlg.ui:121
+#, kde-format
+msgid "&Single-click to open files and folders"
+msgstr "A fájlokat és mappákat &egyszeres kattintással lehessen megnyitni"
+
+#: mouse.cpp:95
+#, kde-format
+msgid ""
+"<h1>Mouse</h1> This module allows you to choose various options for the way "
+"in which your pointing device works. Your pointing device may be a mouse, "
+"trackball, or some other hardware that performs a similar function."
+msgstr ""
+"<h1>Egér</h1> Ez a modul a mutatóeszköz beállításainak a módosítására "
+"szolgál. A mutatóeszköz lehet egér, hanyattegér vagy valami más hardver ami "
+"hasonló funkciót lát el."
+
+#: mouse.cpp:114
+#, kde-format
+msgid "&General"
+msgstr "Ál&talános"
+
+#: mouse.cpp:124
+#, kde-format
+msgid ""
+"If you are left-handed, you may prefer to swap the functions of the left and "
+"right buttons on your pointing device by choosing the 'left-handed' option. "
+"If your pointing device has more than two buttons, only those that function "
+"as the left and right buttons are affected. For example, if you have a three-"
+"button mouse, the middle button is unaffected."
+msgstr ""
+"Ha Ön balkezes, akkor kényelmesebb, ha felcseréli a bal és jobb gombot a "
+"„balkezes” beállítás kiválasztásával. Ha a mutatóeszközén több mint két gomb "
+"van, akkor csak a jobb és bal gomb funkcióit ellátó gombok cserélődnek fel. "
+"Például ha háromgombos egere van, akkor a középső gomb funkciója nem "
+"változik."
+
+#: mouse.cpp:134
+#, kde-format
+msgid ""
+"The default behavior in KDE is to select and activate icons with a single "
+"click of the left button on your pointing device. This behavior is "
+"consistent with what you would expect when you click links in most web "
+"browsers. If you would prefer to select with a single click, and activate "
+"with a double click, check this option."
+msgstr ""
+"A KDE alapértelmezett beállítása esetén a bal egérgomb egyszeres "
+"kattintásával lehet kiválasztani és aktiválni egy ikont. Ez a viselkedés "
+"ahhoz hasonló, mint amit az internetes böngészőkben egy linkre történő "
+"kattintáskor tapasztalhat. Ha inkább egyszeres kattintással szeretné "
+"kiválasztani és dupla kattintással aktiválni az ikonokat, akkor jelölje be "
+"ezt a beállítást."
+
+#: mouse.cpp:142
+#, kde-format
+msgid "Activates and opens a file or folder with a single click."
+msgstr "A fájlok és mappák megnyitása egyetlen kattintással történjen."
+
+#: mouse.cpp:166
+#, kde-format
+msgid "Advanced"
+msgstr "Speciális"
+
+#: mouse.cpp:171
+#, kde-format
+msgid " x"
+msgstr " x"
+
+#: mouse.cpp:172
+#, kde-format
+msgid "Pointer acceleration:"
+msgstr "Az egérmutató gyorsítása:"
+
+#: mouse.cpp:175
+#, kde-format
+msgid ""
+"<p>This option allows you to change the relationship between the distance "
+"that the mouse pointer moves on the screen and the relative movement of the "
+"physical device itself (which may be a mouse, trackball, or some other "
+"pointing device.)</p><p> A high value for the acceleration will lead to "
+"large movements of the mouse pointer on the screen even when you only make a "
+"small movement with the physical device. Selecting very high values may "
+"result in the mouse pointer flying across the screen, making it hard to "
+"control.</p>"
+msgstr ""
+"<p>Itt lehet beállítani az egérmutatónak a képernyőn megtett útja és az "
+"eszköz valós elmozdulása közötti arányt. Az eszköz lehet egér, hanyattegér "
+"vagy más hasonló célú eszköz.</p><p> Nagy gyorsítási értéknél az egérmutató "
+"nagyot fog elmozdulni a fizikai eszköz kis elmozgatásakor is. Nagyon nagy "
+"értékek esetén a mutató nehezen irányíthatóan fog ugrálni a képernyőn!</p>"
+
+#: mouse.cpp:190
+#, kde-format
+msgid "Pointer threshold:"
+msgstr "Gyorsítási küszöbérték:"
+
+#: mouse.cpp:195
+#, kde-format
+msgid ""
+"<p>The threshold is the smallest distance that the mouse pointer must move "
+"on the screen before acceleration has any effect. If the movement is smaller "
+"than the threshold, the mouse pointer moves as if the acceleration was set "
+"to 1X;</p><p> thus, when you make small movements with the physical device, "
+"there is no acceleration at all, giving you a greater degree of control over "
+"the mouse pointer. With larger movements of the physical device, you can "
+"move the mouse pointer rapidly to different areas on the screen.</p>"
+msgstr ""
+"<p>A gyorsítási küszöbérték az a minimális távolság, amelyet az "
+"egérkurzornak meg kell tennie a képernyőn, mielőtt a gyorsítás "
+"bekapcsolódna. Ha az elmozdulás kisebb, mint a küszöbérték, akkor az "
+"egérkurzor úgy fog mozogni, mintha a gyorsítás ki lenne kapcsolva.</p><p> Ez "
+"azt eredményezi, hogy ha kis mozdulatokat végez az egérrel, akkor nem lesz "
+"gyorsítás, ezért pontosan lehet pozicionálni a mutatót, viszont a képernyő "
+"egyik feléről a másikra gyorsan el lehet jutni.</p>"
+
+#: mouse.cpp:210 mouse.cpp:225 mouse.cpp:271 mouse.cpp:276 mouse.cpp:281
+#, kde-format
+msgid " msec"
+msgstr " ms"
+
+#: mouse.cpp:212
+#, kde-format
+msgid "Double click interval:"
+msgstr "A dupla kattintás időköze:"
+
+#: mouse.cpp:215
+#, kde-format
+msgid ""
+"The double click interval is the maximal time (in milliseconds) between two "
+"mouse clicks which turns them into a double click. If the second click "
+"happens later than this time interval after the first click, they are "
+"recognized as two separate clicks."
+msgstr ""
+"A dupla kattintás időköze az az idő (ezredmásodpercben mérve), ami "
+"maximálisan eltelhet két kattintás között, hogy dupla kattintás történjen. "
+"Ha a második kattintás az első után ennél később történik, két különálló "
+"egyszeres kattintást érzékel a rendszer."
+
+#: mouse.cpp:227
+#, kde-format
+msgid "Drag start time:"
+msgstr "A húzás minimális ideje:"
+
+#: mouse.cpp:230
+#, kde-format
+msgid ""
+"If you click with the mouse (e.g. in a multi-line editor) and begin to move "
+"the mouse within the drag start time, a drag operation will be initiated."
+msgstr ""
+"Ha kattint egyet az egérrel (pl. egy szövegszerkesztőben) és elmozdítja az "
+"egérmutatót a húzás minimális idején belül, akkor a rendszer elkezd egy "
+"húzási művelet."
+
+#: mouse.cpp:238
+#, kde-format
+msgid "Drag start distance:"
+msgstr "A húzás minimális távolsága:"
+
+#: mouse.cpp:243
+#, kde-format
+msgid ""
+"If you click with the mouse and begin to move the mouse at least the drag "
+"start distance, a drag operation will be initiated."
+msgstr ""
+"Ha kattint egyet az egérrel és elmozdítja azt legalább a húzás minimális "
+"távolságáig, a húzási művelet elkezdődik."
+
+#: mouse.cpp:251
+#, kde-format
+msgid "Mouse wheel scrolls by:"
+msgstr "Az egérgörgő elmozgatási tényezője:"
+
+#: mouse.cpp:256
+#, kde-format
+msgid ""
+"If you use the wheel of a mouse, this value determines the number of lines "
+"to scroll for each wheel movement. Note that if this number exceeds the "
+"number of visible lines, it will be ignored and the wheel movement will be "
+"handled as a page up/down movement."
+msgstr ""
+"Ha görgős egeret használ, akkor ez az érték határozza meg, hogy hány sor "
+"elmozdítását okozza a görgő egy elmozdítása. Ha ez nagyobb, mint a látható "
+"sorok száma, akkor a KDE figyelmen kívül hagyja az értéket és az egérgörgő "
+"hatása a Page Up/Page Down billentyűknek megfelelő lesz."
+
+#: mouse.cpp:262
+#, fuzzy, kde-format
+#| msgid "Mouse Navigation"
+msgid "Keyboard Navigation"
+msgstr "Egérnavigáció"
+
+#: mouse.cpp:266
+#, kde-format
+msgid "&Move pointer with keyboard (using the num pad)"
+msgstr "Az egérmutató moz&gatható legyen a numerikus billentyűkkel"
+
+#: mouse.cpp:272
+#, kde-format
+msgid "&Acceleration delay:"
+msgstr "Gyorsítás&i késleltetés:"
+
+#: mouse.cpp:277
+#, kde-format
+msgid "R&epeat interval:"
+msgstr "Ismé&tlési időköz:"
+
+#: mouse.cpp:282
+#, kde-format
+msgid "Acceleration &time:"
+msgstr "Gyorsítási i&dő:"
+
+#: mouse.cpp:286
+#, kde-format
+msgid " pixel/sec"
+msgstr " képpont/s"
+
+#: mouse.cpp:287
+#, kde-format
+msgid "Ma&ximum speed:"
+msgstr "Ma&ximális sebesség:"
+
+#: mouse.cpp:291
+#, kde-format
+msgid "Acceleration &profile:"
+msgstr "Gyorsítási pr&ofil:"
+
+#: mouse.cpp:304
+#, kde-format
+msgid "Mouse"
+msgstr "Egér"
+
+#: mouse.cpp:305
+#, kde-format
+msgid "(c) 1997 - 2005 Mouse developers"
+msgstr "(C) Az egérbeállító modul fejlesztői, 1997-2005."
+
+#: mouse.cpp:306
+#, kde-format
+msgid "Patrick Dowler"
+msgstr "Patrick Dowler"
+
+#: mouse.cpp:307
+#, kde-format
+msgid "Dirk A. Mueller"
+msgstr "Dirk A. Mueller"
+
+#: mouse.cpp:308
+#, kde-format
+msgid "David Faure"
+msgstr "David Faure"
+
+#: mouse.cpp:309
+#, kde-format
+msgid "Bernd Gehrmann"
+msgstr "Bernd Gehrmann"
+
+#: mouse.cpp:310
+#, kde-format
+msgid "Rik Hemsley"
+msgstr "Rik Hemsley"
+
+#: mouse.cpp:311
+#, kde-format
+msgid "Brad Hughes"
+msgstr "Brad Hughes"
+
+#: mouse.cpp:312
+#, kde-format
+msgid "Ralf Nolden"
+msgstr "Ralf Nolden"
+
+#: mouse.cpp:313
+#, kde-format
+msgid "Brad Hards"
+msgstr "Brad Hards"
+
+#: mouse.cpp:596 mouse.cpp:601
+#, kde-format
+msgid " pixel"
+msgid_plural " pixels"
+msgstr[0] " képpont"
+msgstr[1] " képpont"
+
+#: mouse.cpp:606
+#, kde-format
+msgid " line"
+msgid_plural " lines"
+msgstr[0] " sor"
+msgstr[1] " sor"

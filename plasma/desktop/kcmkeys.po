@@ -1,0 +1,222 @@
+#
+# Marcell Lengyel <miketkf@yahoo.com>, 1998.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.1\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2010-11-18 17:42+0100\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.1\n"
+
+#. i18n: ectx: property (text), widget (QLabel, components_label)
+#: export_scheme_dialog.ui:17
+#, kde-format
+msgid "Select the Components to Export"
+msgstr "Exportálandó komponens kiválasztása"
+
+#. i18n: ectx: property (title), widget (QGroupBox, components)
+#: export_scheme_dialog.ui:27
+#, kde-format
+msgid "Components"
+msgstr "Komponens"
+
+#: globalshortcuts.cpp:67
+#, kde-format
+msgid "You are about to reset all shortcuts to their default values."
+msgstr "Az alapértelmezett gyorsbillentyűk visszaállítására készül."
+
+#: globalshortcuts.cpp:68
+#, kde-format
+msgid "Reset to defaults"
+msgstr "Visszaállás az alapértelmezésekre"
+
+#: globalshortcuts.cpp:69
+#, kde-format
+msgid "Current Component"
+msgstr "Jelenlegi komponens"
+
+#: globalshortcuts.cpp:70
+#, kde-format
+msgid "All Components"
+msgstr "Összes komponens"
+
+#: kglobalshortcutseditor.cpp:232
+#, kde-format
+msgid "Import Scheme..."
+msgstr "Séma importálása…"
+
+#: kglobalshortcutseditor.cpp:233
+#, kde-format
+msgid "Export Scheme..."
+msgstr "A séma exportálása…"
+
+#: kglobalshortcutseditor.cpp:234
+#, kde-format
+msgid "Set All Shortcuts to None"
+msgstr "Összes gyorsbillentyű törlése"
+
+#: kglobalshortcutseditor.cpp:242
+#, kde-format
+msgid "Applications"
+msgstr ""
+
+#: kglobalshortcutseditor.cpp:293
+#, kde-format
+msgid "Launch %1"
+msgstr ""
+
+#: kglobalshortcutseditor.cpp:329
+#, kde-format
+msgid ""
+"Component '%1' is currently active. Only global shortcuts currently not "
+"active will be removed from the list.\n"
+"All global shortcuts will reregister themselves with their defaults when "
+"they are next started."
+msgstr ""
+"A(z) „%1” komponens jelenleg aktív. Csak azok a globális gyorsbillentyűk "
+"távolíthatók el a listából, amelyek nem aktívak.\n"
+"Az összes globális gyorsbillentyű visszaáll az alapértelmezettre a következő "
+"indulásakor."
+
+#: kglobalshortcutseditor.cpp:331 kglobalshortcutseditor.cpp:341
+#, kde-format
+msgid "Remove component"
+msgstr "Komponens eltávolítása"
+
+#: kglobalshortcutseditor.cpp:337
+#, kde-format
+msgid ""
+"Are you sure you want to remove the registered shortcuts for component '%1'? "
+"The component and shortcuts will reregister themselves with their default "
+"settings when they are next started."
+msgstr ""
+"Biztosan eltávolítja a(z) „%1” komponens regisztrált gyorsbillentyűit? A "
+"komponens és a gyorsbillentyűk visszaállnak az alapértelmezett értékekre a "
+"következő indulásukkor."
+
+#: kglobalshortcutseditor.cpp:451
+#, kde-format
+msgid "Application Launchers"
+msgstr ""
+
+#: kglobalshortcutseditor.cpp:454
+#, fuzzy, kde-format
+#| msgid "Shortcuts:"
+msgid "Other Shortcuts"
+msgstr "Billentyűparancsok:"
+
+#: kglobalshortcutseditor.cpp:559
+#, kde-format
+msgid ""
+"Your current changes will be lost if you load another scheme before saving "
+"this one"
+msgstr "A változtatások elvesznek, ha mentés nélkül betölt egy másik sémát."
+
+#: kglobalshortcutseditor.cpp:560
+#, kde-format
+msgid "Load Shortcut Scheme"
+msgstr "Gyorsbillentyű-séma betöltése"
+
+#: kglobalshortcutseditor.cpp:561
+#, kde-format
+msgid "Load"
+msgstr "Betöltés"
+
+#: kglobalshortcutseditor.cpp:574
+#, kde-format
+msgid "This file (%1) does not exist. You can only select local files."
+msgstr "Nem létezik %1 nevű fájl. Csak helyi fájlokat lehet kijelölni."
+
+#: kglobalshortcutseditor.cpp:602 kglobalshortcutseditor.cpp:625
+#, kde-format
+msgid ""
+"Message: %1\n"
+"Error: %2"
+msgstr ""
+"Üzenet: %1\n"
+"Hiba: %2"
+
+#: kglobalshortcutseditor.cpp:607 kglobalshortcutseditor.cpp:630
+#, kde-format
+msgid "Failed to contact the KDE global shortcuts daemon\n"
+msgstr ""
+"Nem sikerült elérni a KDE globális billentyűparancsokat kezelő "
+"szolgáltatását.\n"
+
+#. i18n: ectx: property (text), widget (QLabel, componentLabel)
+#: kglobalshortcutseditor.ui:25
+#, fuzzy, kde-format
+#| msgid "Components"
+msgid "Component:"
+msgstr "Komponens"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, addButton)
+#: kglobalshortcutseditor.ui:62
+#, kde-format
+msgid "Add a new shortcut to an Application..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QToolButton, addButton)
+#. i18n: ectx: property (text), widget (QToolButton, removeButton)
+#: kglobalshortcutseditor.ui:65 kglobalshortcutseditor.ui:75
+#, kde-format
+msgid "..."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, removeButton)
+#: kglobalshortcutseditor.ui:72
+#, fuzzy, kde-format
+#| msgid "Remove component"
+msgid "Remove the selected component"
+msgstr "Komponens eltávolítása"
+
+#. i18n: ectx: property (text), widget (QPushButton, menu_button)
+#: kglobalshortcutseditor.ui:95
+#, kde-format
+msgid "File"
+msgstr "Fájl"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, SelectApplicationDialog)
+#: select_application.ui:14
+#, kde-format
+msgid "Select Application"
+msgstr ""
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, SelectSchemeDialog)
+#. i18n: ectx: property (clickMessage), widget (KUrlRequester, m_url)
+#: select_scheme_dialog.ui:15 select_scheme_dialog.ui:123
+#, kde-format
+msgid "Select Shortcut Scheme"
+msgstr "Billentyűparancs-séma kiválasztása"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label)
+#: select_scheme_dialog.ui:39
+#, kde-format
+msgid "Select one of the standard KDE shortcut schemes"
+msgstr "Válassza ki az egyik standard sémát"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: select_scheme_dialog.ui:42
+#, kde-format
+msgid "&Standard scheme:"
+msgstr "&Standard séma:"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, label_2)
+#: select_scheme_dialog.ui:92
+#, kde-format
+msgid "Select a shortcut scheme file"
+msgstr "Válasszon ki egy billentyűparancs-sémát"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: select_scheme_dialog.ui:95
+#, kde-format
+msgid "&Path:"
+msgstr "&Elérési út:"

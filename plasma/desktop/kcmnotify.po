@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# Tamas Szanto <tszanto@interware.hu>, 2000.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.1\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2008-06-03 11:11+0100\n"
+"Last-Translator: Tamas Szanto <tszanto@interware.hu>\n"
+"Language-Team: Hungarian <kde-lista@sophia.jpte.hu>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Szántó Tamás"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "tszanto@interware.hu"
+
+#: knotify.cpp:57
+#, kde-format
+msgid ""
+"<h1>System Notifications</h1>KDE allows for a great deal of control over how "
+"you will be notified when certain events occur. There are several choices as "
+"to how you are notified:<ul><li>As the application was originally designed.</"
+"li><li>With a beep or other noise.</li><li>Via a popup dialog box with "
+"additional information.</li><li>By recording the event in a logfile without "
+"any additional visual or audible alert.</li></ul>"
+msgstr ""
+"<h1>Rendszerüzenetek</h1>A KDE-ben könnyen beállíthatja, hogy a különféle "
+"eseményekről hogyan szeretne értesülni. Az értesítés módja a következők "
+"közül választható:<ul><li>Ahogy az alkalmazásban eredetileg szerepelt.</"
+"li><li>Hangjelzéssel.</li><li>Szöveges üzenetablakkal, mely további "
+"információkat tartalmaz.</li><li>Naplófájlba írás ablak és hangjelzés nélkül."
+"</li></ul>"
+
+#: knotify.cpp:71
+#, kde-format
+msgid "Event source:"
+msgstr "Az üzenet forrása:"
+
+#: knotify.cpp:92
+#, kde-format
+msgid "Disable sounds for all of these events"
+msgstr ""
+
+#: knotify.cpp:101
+#, kde-format
+msgid "KNotify"
+msgstr "KNotify"
+
+#: knotify.cpp:102
+#, kde-format
+msgid "System Notification Control Panel Module"
+msgstr "Rendszerüzenet vezérlőmodul"
+
+#: knotify.cpp:103
+#, kde-format
+msgid "(c) 2002-2006 KDE Team"
+msgstr "(c) A KDE fejlesztői, 2002-2006."
+
+#: knotify.cpp:105
+#, kde-format
+msgid "Olivier Goffart"
+msgstr "Olivier Goffart"
+
+#: knotify.cpp:106
+#, kde-format
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+#: knotify.cpp:107
+#, kde-format
+msgid "Charles Samuels"
+msgstr "Charles Samuels"
+
+#: knotify.cpp:107
+#, kde-format
+msgid "Original implementation"
+msgstr "Első változat"
