@@ -1,0 +1,36 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Tamas Szanto <tszanto@interware.hu>, 2009.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.2\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2011-04-14 21:59+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-i18n-doc@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.2\n"
+
+#: rss.cpp:189
+#, kde-format
+msgid "Syndication did not work out"
+msgstr "Nem sikerült az adatgyűjtés"
+
+#: rss.cpp:190
+#, kde-format
+msgid "Fetching feed failed."
+msgstr "Nem sikerült egy letöltés."
+
+#: rss.cpp:281
+#, kde-format
+msgid "1 RSS feed fetched"
+msgid_plural "%1 RSS feeds fetched"
+msgstr[0] "1 RSS-hírcsatorna letöltve"
+msgstr[1] "%1 RSS-hírcsatorna letöltve"

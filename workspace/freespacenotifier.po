@@ -1,0 +1,92 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2011, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2014-08-29 13:48+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: freespacenotifier.cpp:91 freespacenotifier.cpp:102 freespacenotifier.cpp:123
+#, kde-format
+msgid "Low Disk Space"
+msgstr "Kevés a lemezterület"
+
+#: freespacenotifier.cpp:91 freespacenotifier.cpp:123
+#, kde-format
+msgid "Remaining space in your Home folder: %1 MiB"
+msgstr "A saját mappájában hátralévő hely: %1 MiB"
+
+#: freespacenotifier.cpp:106
+#, kde-format
+msgctxt "Opens a file manager like dolphin"
+msgid "Open File Manager..."
+msgstr "Fájlkezelő megnyitása…"
+
+#: freespacenotifier.cpp:110
+#, kde-format
+msgctxt "Allows the user to configure the warning notification being shown"
+msgid "Configure Warning..."
+msgstr "Figyelmeztetési beállítások…"
+
+#: freespacenotifier.cpp:114
+#, kde-format
+msgctxt "Allows the user to hide this notifier item"
+msgid "Hide"
+msgstr "Elrejtés"
+
+#: freespacenotifier.cpp:128
+#, kde-format
+msgctxt ""
+"Warns the user that the system is running low on space on his home folder, "
+"indicating the percentage and absolute MiB size remaining"
+msgid ""
+"Your Home folder is running out of disk space, you have %1 MiB remaining "
+"(%2%)"
+msgstr "A saját mappájában fogy a hely, %1 MiB van hátra (%2%)"
+
+#: freespacenotifier.cpp:181
+#, kde-format
+msgctxt "The settings dialog main page name, as in 'general settings'"
+msgid "General"
+msgstr "Általános"
+
+#. i18n: ectx: label, entry (minimumSpace), group (General)
+#: freespacenotifier.kcfg:9
+#, kde-format
+msgid "Minimum free space before user starts being notified."
+msgstr "Minimum szabad hely a felhasználói értesítések megkezdése előtt."
+
+#. i18n: ectx: label, entry (enableNotification), group (General)
+#: freespacenotifier.kcfg:15
+#, kde-format
+msgid "Is the free space notification enabled."
+msgstr "Be van-e kapcsolva a szabadhely-értesítés."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_enableNotification)
+#: freespacenotifier_prefs_base.ui:17
+#, kde-format
+msgid "Enable low disk space warning"
+msgstr "Kevés lemezterületről szóló értesítés bekapcsolása"
+
+#. i18n: ectx: property (text), widget (QLabel, label_minimumSpace)
+#: freespacenotifier_prefs_base.ui:27
+#, kde-format
+msgid "Warn when free space is below:"
+msgstr "Figyelmeztessen, ha a szabad lemez terület kevesebb mint:"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_minimumSpace)
+#: freespacenotifier_prefs_base.ui:37
+#, kde-format
+msgid " MiB"
+msgstr " MiB"

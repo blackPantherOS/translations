@@ -1,0 +1,99 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Tamas Szanto <tszanto@interware.hu>, 2008.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.2\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2011-07-30 22:34+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-i18n-doc@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.2\n"
+
+#. i18n: ectx: property (whatsThis), widget (QLabel, lbUsername)
+#. i18n: ectx: property (whatsThis), widget (KLineEdit, leUsername)
+#: shellOptions.ui:61 shellOptions.ui:134
+#, kde-format
+msgid "Enter the user you want to run the application as here."
+msgstr "Adja meg, melyik felhasználó nevében fusson az alkalmazás."
+
+#. i18n: ectx: property (text), widget (QLabel, lbUsername)
+#: shellOptions.ui:64
+#, kde-format
+msgid "User&name:"
+msgstr "Né&v:"
+
+#. i18n: ectx: property (whatsThis), widget (KLineEdit, lePassword)
+#. i18n: ectx: property (whatsThis), widget (QLabel, lbPassword)
+#: shellOptions.ui:83 shellOptions.ui:102
+#, kde-format
+msgid "Enter the password here for the user you specified above."
+msgstr "Adja meg a fenti felhasználónévhez tartozó jelszót."
+
+#. i18n: ectx: property (text), widget (QLabel, lbPassword)
+#: shellOptions.ui:105
+#, kde-format
+msgid "Pass&word:"
+msgstr "&Jelszó:"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbRunInTerminal)
+#: shellOptions.ui:115
+#, kde-format
+msgid ""
+"Check this option if the application you want to run is a text mode "
+"application. The application will then be run in a terminal emulator window."
+msgstr ""
+"Jelölje be, ha az alkalmazás szöveges módban futó terminálalkalmazás. A "
+"rendszer megnyit egy terminálablakot, és abban indítja el a programot."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbRunInTerminal)
+#: shellOptions.ui:118
+#, kde-format
+msgid "Run in &terminal window"
+msgstr "Futtatás &terminálban"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, cbRunAsOther)
+#: shellOptions.ui:141
+#, kde-format
+msgid ""
+"Check this option if you want to run the application with a different user "
+"id. Every process has a user id associated with it. This id code determines "
+"file access and other permissions. The password of the user is required to "
+"do this."
+msgstr ""
+"Jelölje be, ha az alkalmazást más felhasználó nevében szeretné elindítani. "
+"Minden folyamathoz hozzátartozik az indító felhasználó azonosítója, ez "
+"határozza meg a fájlelérési és egyéb jogosultságokat. Meg kell adni a "
+"felhasználó jelszavát is."
+
+#. i18n: ectx: property (text), widget (QCheckBox, cbRunAsOther)
+#: shellOptions.ui:144
+#, kde-format
+msgid "Run as a different &user"
+msgstr "Futtatás &adott felhasználónévvel"
+
+#: shellrunner.cpp:47
+#, kde-format
+msgid "Finds commands that match :q:, using common shell syntax"
+msgstr ""
+"A(z) :q: kifejezésre illeszkedő parancsok keresése, az általános "
+"parancsértelmező szintaxis használatával"
+
+#: shellrunner.cpp:67
+#, kde-format
+msgid "Run %1"
+msgstr "Futtatás: %1"
+
+#: shellrunner.cpp:94
+#, fuzzy, kde-format
+#| msgid "Run in &terminal window"
+msgid "Run in Terminal Window"
+msgstr "Futtatás &terminálban"

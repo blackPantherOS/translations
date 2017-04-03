@@ -1,0 +1,3043 @@
+#
+# Tamas Szanto <tszanto@interware.hu>, 2000.
+# Laszlo Papp <djszapi@archlinux.us>, 2010.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2011, 2012, 2014, 2015.
+# Balázs Úr <urbalazs@gmail.com>, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.3\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2015-03-26 12:18+0100\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Kiszel Kristóf,Szántó Tamás"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ulysses@kubuntu.org,tszanto@interware.hu"
+
+#: aboutbugreportingdialog.cpp:40
+#, kde-format
+msgctxt "@title title of the dialog"
+msgid "About Bug Reporting - Help"
+msgstr "Hibabejelentési tudnivalók"
+
+#: aboutbugreportingdialog.cpp:52
+#, kde-format
+msgctxt "@title"
+msgid "Information about bug reporting"
+msgstr "Tájékoztató a hibabejelentésről"
+
+#: aboutbugreportingdialog.cpp:54
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid "You can help us improve this software by filing a bug report."
+msgstr "Kérjük segítse a fejlesztők munkáját hibabejelentések beküldésével."
+
+#: aboutbugreportingdialog.cpp:55
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"<note>It is safe to close this dialog. If you do not want to, you do not "
+"have to file a bug report.</note>"
+msgstr ""
+"<note>Ezt az ablakot már be lehet zárni. Ha nem szeretne hibabejelentést "
+"küldeni, természetesen nem kötelező.</note>"
+
+#: aboutbugreportingdialog.cpp:57
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"In order to generate a useful bug report we need some information about both "
+"the crash and your system. (You may also need to install some debug "
+"packages.)"
+msgstr ""
+"A hiba azonosításához szükségünk van a hiba és a számítógép egyes "
+"jellemzőire. (Néhány nyomkövetési csomag telepítésére is szükség lehet.)"
+
+#: aboutbugreportingdialog.cpp:62
+#, kde-format
+msgctxt "@title"
+msgid "Bug Reporting Assistant Guide"
+msgstr "Hibabejelentési asszisztens útmutató"
+
+#: aboutbugreportingdialog.cpp:64
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"This assistant will guide you through the crash reporting process for the "
+"KDE bug tracking system. All the information you enter on the bug report "
+"<strong>must be written in English</strong>, if possible, as KDE is formed "
+"internationally."
+msgstr ""
+"Ez a segéd végigvezeti önt a KDE hibakövető rendszerébe történő összeomlás "
+"jelentési folyamaton. Minden információt, amelyet a hibajelentés során "
+"megad, <strong>angolul kell írnia</strong>, ha lehetséges, ugyanis a KDE "
+"nemzetközileg készül."
+
+#: aboutbugreportingdialog.cpp:71 aboutbugreportingdialog.cpp:174
+#: bugzillaintegration/reportassistantdialog.cpp:83
+#, kde-format
+msgctxt "@title"
+msgid "What do you know about the crash?"
+msgstr "Mit tud a hiba körülményeiről?"
+
+#: aboutbugreportingdialog.cpp:74
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"In this page you need to describe how much do you know about the desktop and "
+"the application state before it crashed."
+msgstr ""
+"Írjon le mindent ezen az oldalon az asztal és az alkalmazás összeomlás "
+"előtti állapotáról."
+
+#: aboutbugreportingdialog.cpp:76
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"If you can, describe in as much detail as possible the crash circumstances, "
+"and what you were doing when the application crashed (this information is "
+"going to be requested later.) You can mention: "
+msgstr ""
+"Ha teheti, írja le minél részletesebben az összeomlás körülményeit, és hogy "
+"mit csinált az alkalmazás összeomlásakor (ezt az információt később lesz "
+"szükséges). Megemlítheti még: "
+
+#: aboutbugreportingdialog.cpp:79
+#, kde-kuit-format
+msgctxt "@info/rich crash situation example"
+msgid "actions you were taking inside or outside the application"
+msgstr "mit hajtott végre a programban és azon kívül"
+
+#: aboutbugreportingdialog.cpp:81
+#, kde-kuit-format
+msgctxt "@info/rich crash situation example"
+msgid ""
+"documents or images that you were using and their type/format (later if you "
+"go to look at the report in the bug tracking system, you can attach a file "
+"to the report)"
+msgstr ""
+"a felhasznált dokumentumokat és képeket, valamint azok formátumát (később ha "
+"megtekinti a bejegyzést, szükség esetén csatolhat egyes fájlokat a "
+"bejelentéshez)"
+
+#: aboutbugreportingdialog.cpp:84
+#, kde-kuit-format
+msgctxt "@info/rich crash situation example"
+msgid "widgets that you were running"
+msgstr "a felhasznált grafikus elemeket"
+
+#: aboutbugreportingdialog.cpp:85
+#, kde-kuit-format
+msgctxt "@info/rich crash situation example"
+msgid "the URL of a web site you were browsing"
+msgstr "a webböngészőben látogatott oldal URL-címét"
+
+#: aboutbugreportingdialog.cpp:86
+#, kde-kuit-format
+msgctxt "@info/rich crash situation example"
+msgid "configuration details of the application"
+msgstr "az alkalmazás részletes beállításait"
+
+#: aboutbugreportingdialog.cpp:87
+#, kde-kuit-format
+msgctxt "@info/rich crash situation example"
+msgid "or other strange things you notice before or after the crash. "
+msgstr ""
+"vagy más egyéb, a hiba előtt vagy után bekövetkező, megjegyzésre érdemes "
+"eseményt. "
+
+#: aboutbugreportingdialog.cpp:89
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"Screenshots can be very helpful sometimes. You can attach them to the bug "
+"report after it is posted to the bug tracking system."
+msgstr ""
+"A képernyőképek időnként hasznosak lehetnek. A hiba jelentése után csatolhat "
+"képernyőképeket a hibajelentéshez."
+
+#: aboutbugreportingdialog.cpp:94
+#, kde-format
+msgctxt "@title"
+msgid "Crash Information (backtrace)"
+msgstr "Rendszerösszeomlás információ (backtrace)"
+
+#: aboutbugreportingdialog.cpp:96
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"This page will generate a \"backtrace\" of the crash. This is information "
+"that tells the developers where the application crashed."
+msgstr ""
+"Ez az oldal készíti ez az összeomlás „visszakövetését”. Az információ "
+"megmondja a fejlesztőknek, hol omlott össze az alkalmazás."
+
+#: aboutbugreportingdialog.cpp:99
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"If the crash information is not detailed enough, you may need to install "
+"some debug packages and reload it (if the <interface>Install Debug Symbols</"
+"interface> button is available you can use it to automatically install the "
+"missing information.)"
+msgstr ""
+"Ha az összeomlási információk nem elég részletesek, néhány hibakövetési "
+"csomag telepítése után újra kell töltenie azokat (ha a "
+"<interface>Hibakövetési szombólumok telepítése</interface> gomb elérhető, "
+"használhatja a hiányzó csomagok telepítésére)."
+
+#: aboutbugreportingdialog.cpp:103
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"You can find more information about backtraces, what they mean, and how they "
+"are useful at <link>%1</link>"
+msgstr ""
+"További információkat találhat a visszakövetések jelentéséről és hogy hol "
+"használják őket a következő hivatkozáson: <link>%1</link>"
+
+#: aboutbugreportingdialog.cpp:105
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"Once you get a useful backtrace (or if you do not want to install the "
+"missing debugging packages) you can continue."
+msgstr ""
+"Ha sikerült elkészíteni a visszakövetési adatokat (vagy ha inkább nem "
+"szeretné telepíteni a nyomkövetési csomagokat), lépjen tovább."
+
+#: aboutbugreportingdialog.cpp:110
+#, kde-format
+msgctxt "@title"
+msgid "Conclusions"
+msgstr "Következtetések"
+
+#: aboutbugreportingdialog.cpp:112
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"Using the quality of the crash information gathered, and your answers on the "
+"previous page, the assistant will tell you if the crash is worth reporting "
+"or not."
+msgstr ""
+"Az összegyűjtött adatok és a kérdésekre adott válaszok alapján a segéd "
+"megpróbálja eldönteni, van-e értelme a hibabejelentésnek."
+
+#: aboutbugreportingdialog.cpp:115
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"If the crash is worth reporting but the application is not supported in the "
+"KDE bug tracking system, you will need to directly contact the maintainer of "
+"the application."
+msgstr ""
+"Ha az összeomlást érdemes jelenteni, de az alkalmazás nem támogatott a KDE "
+"hibakövető rendszerében, az alkalmazás karbantartójával kell felvennie a "
+"kapcsolatot."
+
+#: aboutbugreportingdialog.cpp:118
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"If the crash is listed as being not worth reporting, and you think the "
+"assistant has made a mistake, you can still manually report the bug by "
+"logging into the bug tracking system. You can also go back and change "
+"information and download debug packages."
+msgstr ""
+"Ha a vizsgálat eredménye az, hogy nincs értelme beküldeni a hibabejelentést, "
+"de úgy gondolja, hogy a kiértékelés volt hibás, akkor jelentkezzen be és "
+"vigye fel közvetlenül a hibabejelentést. Ha kívánja, visszaléphet és további "
+"adatokat adhat meg vagy nyomkövetési csomagokat tölthet le, hogy teljesebb "
+"legyen a bejelentés."
+
+#: aboutbugreportingdialog.cpp:126
+#, kde-format
+msgctxt "@title"
+msgid "Login into the bug tracking system"
+msgstr "Bejelentkezés a hibakövető rendszerbe"
+
+#: aboutbugreportingdialog.cpp:128
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"We may need to contact you in the future to ask for further information. As "
+"we need to keep track of the bug reports, you need to have an account on the "
+"KDE bug tracking system. If you do not have one, you can create one here: "
+"<link>%1</link>"
+msgstr ""
+"A hiba vizsgálata során előfordulhat, hogy további információra van "
+"szükségük a fejlesztőknek. A követhetőség érdekében csak felhasználónévvel "
+"azonosítva lehet bejelentést készíteni. Ha még nem regisztrált, megteheti "
+"itt: <link>%1</link>"
+
+#: aboutbugreportingdialog.cpp:134
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"Then, enter your username and password and press the Login button. You can "
+"use this login to directly access the KDE bug tracking system later."
+msgstr ""
+"Ezután adja meg a felhasználónevét és a jelszavát, majd nyomja meg "
+"Bejelentkezés gombot. Ezt a bejelentkezést később a KDE hibakövető "
+"rendszerének közvetlen elérésére is használhatja."
+
+#: aboutbugreportingdialog.cpp:137
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"The KWallet dialog may appear when pressing Login to save your password in "
+"the KWallet password system. Also, it will prompt you for the KWallet "
+"password upon loading to autocomplete the login fields if you use this "
+"assistant again."
+msgstr ""
+"A KDE jelszótároló ablaka megjelenhet, amikor beírta a nevet és a jelszót. A "
+"rendszer bekéri a jelszótároló eléréséhez szükséges jelszót, amikor "
+"automatikusan kitölti a bejelentkezési adatokat a segéd következő "
+"futtatásakor."
+
+#: aboutbugreportingdialog.cpp:144
+#, kde-format
+msgctxt "@title"
+msgid "List of possible duplicate reports"
+msgstr "Lehetséges duplikált jelentések listája"
+
+#: aboutbugreportingdialog.cpp:147
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"This page will search the bug report system for similar crashes which are "
+"possible duplicates of your bug. If there are similar bug reports found, you "
+"can double click on them to see details. Then, read the current bug report "
+"information so you can check to see if they are similar. "
+msgstr ""
+"Ezen az oldalon a bejelentendő hibához hasonló korábbi bejelentéseket lehet "
+"keresni a hibajelentő rendszerben. Ha vannak hasonló bejelentések, dupla "
+"kattintással megnyithatja az adatlapjukat. Olvassa el alaposan a leírást, és "
+"döntse el, valóban hasonló-e a két hiba."
+
+#: aboutbugreportingdialog.cpp:152
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"If you are very sure your bug is the same as another that is previously "
+"reported, you can set your information to be attached to the existing report."
+msgstr ""
+"Ha teljesen biztos benne hogy a hiba megegyezik egy korábban jelentettel, "
+"csatolhatja az információit a meglévő jelentéshez."
+
+#: aboutbugreportingdialog.cpp:155
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"If you are unsure whether your report is the same, follow the main options "
+"to tentatively mark your crash as a duplicate of that report. This is "
+"usually the safest thing to do. We cannot uncombine bug reports, but we can "
+"easily merge them."
+msgstr ""
+"Ha nem tudja eldönteni, hasonlít-e egy korábbi bejelentés a mostanihoz, "
+"jelölje meg az opcióknál nem biztosnak a hasonlóságot. Általában ez a "
+"legjobb választás, mert nem lehet egyszerűen szétválasztani két külön hibára "
+"egy bejelentést, de összevonni nagyon könnyű."
+
+#: aboutbugreportingdialog.cpp:159
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"If not enough possible duplicates are found, or you did not find a similar "
+"report, then you can force it to search for more bug reports (only if the "
+"date range limit is not reached.)"
+msgstr ""
+"Ha nem található elég lehetséges duplikátum vagy nem talált hasonló "
+"hibajelentést,  kényszerítheti további hibajelentések keresését, ha még nem "
+"érte el a dátumtartomány korlátját."
+
+#: aboutbugreportingdialog.cpp:162
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"If you do not find any related reports, your crash information is not useful "
+"enough, and you really cannot give additional information about the crash "
+"context, then it is better to not file the bug report, thereby closing the "
+"assistant."
+msgstr ""
+"Ha nem talált egy kapcsolódó jelentést sem, az összeomlási információi nem "
+"elég hasznosak, nem tud további információkat hozzáadni az összeomlás "
+"körülményeiről, ezért jobb ha nem küld hibabejelentést. Zárja be az "
+"asszisztenst."
+
+#: aboutbugreportingdialog.cpp:169
+#, kde-format
+msgctxt "@title"
+msgid "Details of the bug report and your system"
+msgstr "A hibajelentés és a rendszer részletei"
+
+#: aboutbugreportingdialog.cpp:171
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"In this case you need to write a title and description of the crash. Explain "
+"as best you can. "
+msgstr ""
+"Ebben az esetben adjon egy címet és egy leírást a hibabejelentésnek. Írja le "
+"a hiba körülményeit a lehető legpontosabban. "
+
+#: aboutbugreportingdialog.cpp:175
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"You can also specify your distribution method (GNU/Linux distribution or "
+"packaging system) or if you compiled the KDE Platform from sources."
+msgstr ""
+"Megadhatja az Ön által használt GNU/Linux disztribúciót vagy csomagkezelő "
+"rendszert is, vagy hogy forráskódból fordította-e a KDE Platformot."
+
+#: aboutbugreportingdialog.cpp:178
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"<note>You should <strong>write those information in English</strong>.</note>"
+msgstr ""
+"<note><strong>Azokat az információkat angolul</strong> kellene írnia.</note>"
+
+#: aboutbugreportingdialog.cpp:182
+#: bugzillaintegration/reportassistantdialog.cpp:153
+#, kde-format
+msgctxt "@title"
+msgid "Sending the Crash Report"
+msgstr "A hibajelentés elküldése"
+
+#: aboutbugreportingdialog.cpp:184
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"The last page will send the bug report to the bug tracking system and will "
+"notify you when it is done. It will then show the web address of the bug "
+"report in the KDE bug tracking system, so that you can look at the report "
+"later."
+msgstr ""
+"Az utolsó oldal elküldi a hibajelentést a hibakövető rendszerbe és értesíti "
+"Önt amint végzett. Ezután megjeleníti a hibajelentés URL-címét, így később "
+"is megtekintheti a jelentést."
+
+#: aboutbugreportingdialog.cpp:188
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"If the process fails, you can click <interface>Retry</interface> to try "
+"sending the bug report again. If the report cannot be sent because the bug "
+"tracking system has a problem, you can save it to a file to manually report "
+"later."
+msgstr ""
+"Ha a folyamat meghiúsul, az <interface>Újra</interface> gombra kattintva "
+"megpróbálhatja még egyszer elküldeni a hibajelentést. Ha a jelentés a "
+"hibakövető rendszer hibája miatt nem küldheti el, elmentheti azt egy fájlba "
+"és elküldheti később kézzel."
+
+#: aboutbugreportingdialog.cpp:194
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid "Thank you for being part of KDE!"
+msgstr "Köszönjük, hogy segített a KDE jobbá tételében!"
+
+#: aboutbugreportingdialog.cpp:195
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"If you are interested in helping us to keep the KDE bug tracker system clean "
+"and useful, which allows the developers to be more focused on fixing the "
+"real issues,  you are welcome to <link url='http://techbase.kde.org/"
+"Contribute/Bugsquad'>join the BugSquad team</link>."
+msgstr ""
+"Ha az iránt érdeklődik, hogy hogyan segíthet nekünk a KDE hibakövető "
+"rendszerének tisztán és hasznosan tartásában, amely lehetővé teszi a "
+"fejlesztőknek a valódi hibák javítására való koncentrálást, szívesen "
+"vennénk, ha <link url='http://techbase.kde.org/Contribute/"
+"Bugsquad'>csatlakozna a Hibabrigád csapatba</link>."
+
+#: applicationdetailsexamples.cpp:34
+#, fuzzy, kde-format
+#| msgctxt "@info examples about information the user can provide"
+#| msgid ""
+#| "Widgets you have in your desktop and panels (both official and "
+#| "unofficial), desktop settings (wallpaper plugin, themes), activities, and "
+#| "dashboard configuration."
+msgctxt "@info examples about information the user can provide"
+msgid ""
+"Widgets you have in your desktop and panels (both official and unofficial), "
+"desktop settings (wallpaper plugin, themes) and activities."
+msgstr ""
+"Az asztalon és a paneleken lévő widgetek (hivatalosak és nem hivatalosak), "
+"asztali beállítások (háttérképmodul, témák), aktivitások, és az áttekintő "
+"nézet beállításai."
+
+#: applicationdetailsexamples.cpp:38
+#, kde-format
+msgctxt "@info examples about information the user can provide"
+msgid ""
+"State of Desktop Effects (Compositing), kind of effects enabled, window "
+"decoration, and specific window rules and configuration."
+msgstr ""
+"Az asztali effektusok állapota (kompozitálás), a bekapcsolt effektusok, "
+"ablakdekoráció, és különleges ablakszabályok és beállítások."
+
+#: applicationdetailsexamples.cpp:43
+#, kde-format
+msgctxt "@info examples about information the user can provide"
+msgid ""
+"sites you were visiting, number of opened tabs, plugins you have installed, "
+"and any other non-default setting."
+msgstr ""
+"a látogatott weboldalak, a megnyitott lapok száma, a telepített bővítmények "
+"és bármilyen, az alapértelmezésektől eltérő beállítás."
+
+#: applicationdetailsexamples.cpp:47
+#, kde-format
+msgctxt "@info examples about information the user can provide"
+msgid ""
+"File view mode, grouping and sorting settings, preview settings, and "
+"directory you were browsing."
+msgstr ""
+"Fájlnézeti mód, csoportosítási és rendezési beállítások, előnézeti "
+"beállítások és a mappa amelyben böngészett."
+
+#: applicationdetailsexamples.cpp:50
+#, kde-format
+msgctxt "@info examples about information the user can provide"
+msgid ""
+"Instant Messaging protocols you use, and plugins you have installed "
+"(official and unofficial)."
+msgstr ""
+"A használt azonnali üzenetküldési protokollok és a telepített bővítmények "
+"(hivatalosak és nem hivatalosak)."
+
+#: applicationdetailsexamples.cpp:53
+#, kde-format
+msgctxt "@info examples about information the user can provide"
+msgid "Mail protocols and account-types you use."
+msgstr "A használt levél protokollok és fiók típusok."
+
+#: applicationdetailsexamples.cpp:58
+#, kde-format
+msgctxt "@info examples about information the user can provide"
+msgid "Type of the document you were editing."
+msgstr "Az Ön által szerkesztett dokumentum típusa."
+
+#: applicationdetailsexamples.cpp:64
+#, kde-format
+msgctxt "@info examples about information the user can provide"
+msgid ""
+"Type of media (extension and format) you were watching and/or listening to."
+msgstr "A nézett és/vagy hallgatott média típusa (kiterjesztés és formátum)."
+
+#: backtracewidget.cpp:66
+#, kde-format
+msgctxt "@action:button"
+msgid "&Reload"
+msgstr "Új&ratöltés"
+
+#: backtracewidget.cpp:67
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Use this button to reload the crash information (backtrace). This is useful "
+"when you have installed the proper debug symbol packages and you want to "
+"obtain a better backtrace."
+msgstr ""
+"Ezzel a gombbal lehet újratölteni a visszakövetési adatokat. Akkor lehet rá "
+"szükség, ha telepítette a szükséges nyomkövetési csomagokat és részletesebb "
+"visszakövetési adatokat szeretne kapni."
+
+#: backtracewidget.cpp:74
+#, kde-format
+msgctxt "@action:button"
+msgid "&Install Debug Symbols"
+msgstr "H&ibakövetési szimbólumok telepítése"
+
+#: backtracewidget.cpp:75
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Use this button to install the missing debug symbols packages."
+msgstr ""
+"Ezzel a gombbal telepítheti a hiányzó hibakövetési szimbólumokat tartalmazó "
+"csomagokat."
+
+#: backtracewidget.cpp:81
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Use this button to copy the crash information (backtrace) to the clipboard."
+msgstr "Ezzel a gombbal lehet a vágólapra másolni a visszakövetési adatokat."
+
+#: backtracewidget.cpp:88
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Use this button to save the crash information (backtrace) to a file. This is "
+"useful if you want to take a look at it or to report the bug later."
+msgstr ""
+"Ezzel a gombbal lehet fájlba menteni a visszakövetési adatokat. Ez hasznos "
+"lehet, ha meg szeretné tekinteni az adatokat vagy hibabejelentést szeretne "
+"készíteni."
+
+#: backtracewidget.cpp:109
+#, kde-format
+msgid ""
+"<h2>What is a \"backtrace\" ?</h2><p>A backtrace basically describes what "
+"was happening inside the application when it crashed, so the developers may "
+"track down where the mess started. They may look meaningless to you, but "
+"they might actually contain a wealth of useful information.<br />Backtraces "
+"are commonly used during interactive and post-mortem debugging.</p>"
+msgstr ""
+"<h2>Mi a „backtrace”?</h2><p>Egy backtrace leírja, hogy mi történt az "
+"alkalmazáson belül az összeomlás pillanatában, így a fejlesztő vissza tudja "
+"követni, hol kezdődött a baj. Az Ön számára értelmetlennek tűnhet, valójában "
+"azonban hasznos információkat tartalmazhat.<br />A backtrace-t általában "
+"interaktív és összeomlás utáni hibakövetés során használják.</p>"
+
+#: backtracewidget.cpp:129
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:629
+#, kde-format
+msgctxt "@info:status"
+msgid "Loading..."
+msgstr "Betöltés…"
+
+#: backtracewidget.cpp:133
+#, kde-format
+msgctxt "@info:status"
+msgid "Generating backtrace... (this may take some time)"
+msgstr "Backtrace generálása, ez sokáig eltarthat…"
+
+#: backtracewidget.cpp:183
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Another debugger is currently debugging the same application. The crash "
+"information could not be fetched."
+msgstr ""
+"Egy másik nyomkövető már csatlakozott az alkalmazáshoz, ezért nem sikerült "
+"lekérni a hibajellemzőket."
+
+#: backtracewidget.cpp:187
+#, kde-format
+msgctxt "@info:status"
+msgid "The crash information could not be fetched."
+msgstr "Nem sikerült lekérdezni a hiba jellemzőit."
+
+#: backtracewidget.cpp:189
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"Another debugging process is attached to the crashed application. Therefore, "
+"the DrKonqi debugger cannot fetch the backtrace. Please close the other "
+"debugger and click <interface>Reload</interface>."
+msgstr ""
+"Egy másik hibakövető folyamat van csatolva az összeomlott alkalmazáshoz, "
+"ezért a DrKonqi hibakövetője nem tudja letölteni a backtrace-t. Zárja be a "
+"másik hibakövetőt, és kattintson az <interface>Újratöltés</interface> gombra."
+
+#: backtracewidget.cpp:226
+#, kde-format
+msgctxt "@info"
+msgid "The generated crash information is useful"
+msgstr "A generált összeomlási információ hasznos"
+
+#: backtracewidget.cpp:229
+#, kde-format
+msgctxt "@info"
+msgid "The generated crash information may be useful"
+msgstr "A generált összeomlási információ talán hasznos"
+
+#: backtracewidget.cpp:232
+#, kde-format
+msgctxt "@info"
+msgid "The generated crash information is probably not useful"
+msgstr "A generált összeomlási információ valószínűleg nem hasznos"
+
+#: backtracewidget.cpp:235
+#, kde-format
+msgctxt "@info"
+msgid "The generated crash information is not useful"
+msgstr "A generált összeomlási információ nem hasznos"
+
+#: backtracewidget.cpp:239
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The rating of this crash information is invalid. This is a bug in DrKonqi "
+"itself."
+msgstr ""
+"Az összeomlási információ értékelése érvénytelen. Ez egy hiba a DrKonqiban."
+
+#: backtracewidget.cpp:250
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"You can click the <interface>Install Debug Symbols</interface> button in "
+"order to automatically install the missing debugging information packages. "
+"If this method does not work: please read <link url='%1'>How to create "
+"useful crash reports</link> to learn how to get a useful backtrace; install "
+"the needed packages (<link url='%2'>list of files</link>) and click the "
+"<interface>Reload</interface> button."
+msgstr ""
+"A <interface>Hibakövető szimbólumok telepítése</interface> gombra kattintva "
+"automatikusan telepítheti a hiányzó hibakövetési információkat tartalmazó "
+"csomagokat. Ha mégsem sikerülne, olvassa el a <link url='%1'>Hogyan "
+"készítsünk hasznos hibajelentést</link> oldalt, hogy megtudja hogyan kaphat "
+"hasznos visszakövetést. Telepítse a szükséges csomagokat (<link url='%2'>a "
+"fájlok listája</link>) és kattintson az <interface>Újratöltés</interface> "
+"gombra."
+
+#: backtracewidget.cpp:267
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"Please read <link url='%1'>How to create useful crash reports</link> to "
+"learn how to get a useful backtrace; install the needed packages (<link "
+"url='%2'>list of files</link>) and click the <interface>Reload</interface> "
+"button."
+msgstr ""
+"Olvassa el a <link url='%1'>Hogyan készítsünk hasznos hibajelentést</link> "
+"oldalt, hogy megtudja hogyan kaphat hasznos visszakövetést. Telepítse a "
+"szükséges csomagokat (<link url='%2'>a fájlok listája</link>) és kattintson "
+"az <interface>Újratöltés</interface> gombra."
+
+#: backtracewidget.cpp:283
+#, kde-format
+msgctxt "@info:status"
+msgid "The debugger has quit unexpectedly."
+msgstr "A nyomkövető váratlanul kilépett."
+
+#: backtracewidget.cpp:286 backtracewidget.cpp:301
+#, kde-format
+msgctxt "@info:status"
+msgid "The crash information could not be generated."
+msgstr "Nem sikerült létrehozni a hiba jellemzőit."
+
+#: backtracewidget.cpp:289
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"You could try to regenerate the backtrace by clicking the <interface>Reload</"
+"interface> button."
+msgstr ""
+"Megpróbálhatja újragenerálni a visszakövetést az <interface>Újratöltés</"
+"interface> gombra kattintva."
+
+#: backtracewidget.cpp:297
+#, kde-format
+msgctxt "@info:status"
+msgid ""
+"<strong>The debugger application is missing or could not be launched.</"
+"strong>"
+msgstr ""
+"<strong>Hiányzik a nyomkövető alkalmazás vagy nem sikerült elindítani.</"
+"strong>"
+
+#: backtracewidget.cpp:303
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"<strong>You need to first install the debugger application (%1) then click "
+"the <interface>Reload</interface> button.</strong>"
+msgstr ""
+"<strong>Először telepítenie kell a hibakereső alkalmazást (%1), majd "
+"kattintson az <interface>Újratöltés</interface> gombra.</strong>"
+
+#: backtracewidget.cpp:358
+#, kde-format
+msgctxt "@title:window"
+msgid "Error during the installation of debug symbols"
+msgstr "Hiba történt a hibakövetési szimbólumok telepítése során"
+
+#: backtracewidget.cpp:391
+#, kde-format
+msgid ""
+"The packages containing debug information for the following application and "
+"libraries are missing:"
+msgstr ""
+"Az alábbi alkalmazások és függvénykönyvtárak hibakeresési információit "
+"tartalmazó csomagok hiányoznak:"
+
+#: backtracewidget.cpp:400
+#, kde-format
+msgctxt "messagebox title"
+msgid "Missing debug information packages"
+msgstr "Hiányzó hibakövetési csomagok"
+
+#: bugzillaintegration/bugzillalib.cpp:317
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:816
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Invalid report information (malformed data). This could mean that the bug "
+"report does not exist, or the bug tracking site is experiencing a problem."
+msgstr ""
+"Érvénytelen jelentésinformáció (hibás adat). Ez jelentheti azt, hogy a "
+"hibajelentés nem létezik, vagy a hibakövető rendszerrel probléma van."
+
+#: bugzillaintegration/bugzillalib.cpp:339
+#, kde-format
+msgctxt "@info"
+msgid "Invalid bug list: corrupted data"
+msgstr "Érvénytelen hibalista: hibás adatok"
+
+#: bugzillaintegration/bugzillalib.cpp:455
+#, kde-format
+msgctxt "@info"
+msgid "Received unexpected error code %1 from bugzilla. Error message was: %2"
+msgstr "Váratlan hibakód (%1) érkezett a bugzillától. Hibaüzenet: %2"
+
+#: bugzillaintegration/reportassistantdialog.cpp:41
+#, kde-format
+msgid "the KDE Bug Tracking System"
+msgstr "a KDE hibakövető rendszere"
+
+#: bugzillaintegration/reportassistantdialog.cpp:52
+#, kde-format
+msgctxt "@title:window"
+msgid "Crash Reporting Assistant"
+msgstr "Hibabejelentő segéd"
+
+#: bugzillaintegration/reportassistantdialog.cpp:70
+#, kde-format
+msgctxt "@title"
+msgid "Welcome to the Reporting Assistant"
+msgstr "Üdvözli Önt a Hibabejelentési asszisztens"
+
+#: bugzillaintegration/reportassistantdialog.cpp:93
+#, kde-format
+msgctxt "@title"
+msgid "Fetching the Backtrace (Automatic Crash Information)"
+msgstr ""
+"Visszakövetési információk lekérése (Automatikus összeomlási információk)"
+
+#: bugzillaintegration/reportassistantdialog.cpp:103
+#, kde-format
+msgctxt "@title"
+msgid "Results of the Analyzed Crash Details"
+msgstr "A vizsgált összeomlás részleteinek eredményei"
+
+#: bugzillaintegration/reportassistantdialog.cpp:114
+#, kde-format
+msgctxt "@title"
+msgid "Login into %1"
+msgstr "Bejelentkezés ide: %1"
+
+#: bugzillaintegration/reportassistantdialog.cpp:125
+#, kde-format
+msgctxt "@title"
+msgid "Look for Possible Duplicate Reports"
+msgstr "Lehetséges duplikált jelentések keresése"
+
+#: bugzillaintegration/reportassistantdialog.cpp:135
+#, kde-format
+msgctxt "@title"
+msgid "Enter the Details about the Crash"
+msgstr "Adja meg a részleteket az összeomlásról"
+
+#: bugzillaintegration/reportassistantdialog.cpp:144
+#, kde-format
+msgctxt "@title"
+msgid "Preview the Report"
+msgstr "A jelentés előnézete"
+
+#: bugzillaintegration/reportassistantdialog.cpp:338
+#, kde-format
+msgctxt "@action:button"
+msgid "Close the assistant"
+msgstr "Az asszisztens bezárása"
+
+#: bugzillaintegration/reportassistantdialog.cpp:341
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: bugzillaintegration/reportassistantdialog.cpp:348
+#, kde-format
+msgctxt "@action:button"
+msgid "Save information and close"
+msgstr "Információk mentése és bezárás"
+
+#: bugzillaintegration/reportassistantdialog.cpp:351
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Do you really want to close the bug reporting assistant? <note>The crash "
+"information is still valid, so you can save the report before closing if you "
+"want.</note>"
+msgstr ""
+"Biztosan bezárja a hibabejelentési asszisztenst?<note>Az összeomlási "
+"információk még érvényesek, így elmentheti a jelentést az asszisztens "
+"bezárása előtt.</note>"
+
+#: bugzillaintegration/reportassistantdialog.cpp:354
+#: bugzillaintegration/reportassistantdialog.cpp:369
+#, kde-format
+msgctxt "@title:window"
+msgid "Close the Assistant"
+msgstr "Az asszisztens bezárása"
+
+#: bugzillaintegration/reportassistantdialog.cpp:367
+#, kde-format
+msgctxt "@info"
+msgid "Do you really want to close the bug reporting assistant?"
+msgstr "Biztos benne, hogy beszeretné zárni a hibabejelentési asszisztenst?"
+
+#: bugzillaintegration/reportassistantpages_base.cpp:109
+#, kde-format
+msgctxt "@info"
+msgid ""
+"This crash information is not useful enough, do you want to try to improve "
+"it? You will need to install some debugging packages."
+msgstr ""
+"A hiba jellemzői nem elég részletesek, megpróbálja kibővíteni az adatokat? "
+"Lehet, hogy telepíteni kell néhány nyomkövetési csomagot."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:112
+#, kde-format
+msgctxt "@title:window"
+msgid "Crash Information is not useful enough"
+msgstr "Az összeomlási információ nem eléggé használható"
+
+#: bugzillaintegration/reportassistantpages_base.cpp:135
+#, kde-format
+msgctxt ""
+"@option:check kind of information the user can provide about the crash, %1 "
+"is the application name"
+msgid "What I was doing when the application \"%1\" crashed"
+msgstr "Amit csináltam a(z) \"%1\" alkalmazás összeomlásakor"
+
+#: bugzillaintegration/reportassistantpages_base.cpp:200
+#, kde-format
+msgctxt "@label examples about information the user can provide"
+msgid "Examples: %1"
+msgstr "Példák: %1"
+
+#: bugzillaintegration/reportassistantpages_base.cpp:217
+#, kde-format
+msgctxt "@action:button"
+msgid "&Show Contents of the Report"
+msgstr "A jelentés tartalmának &megjelenítése"
+
+#: bugzillaintegration/reportassistantpages_base.cpp:219
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:700
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Use this button to show the generated report information about this crash."
+msgstr "Ezzel a gombbal lehet a hibáról készített jelentést megtekinteni."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:275
+#, kde-format
+msgctxt "@info"
+msgid "The automatically generated crash information is useful."
+msgstr "Az automatikus generált összeomlási információ hasznos."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:280
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The automatically generated crash information lacks some details but may be "
+"still be useful."
+msgstr ""
+"Az automatikusan generált hibajellemzők nem túl részletesek, de elérik a "
+"hibabejelentéshez szükséges minimumot."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:287
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The automatically generated crash information lacks important details and it "
+"is probably not helpful."
+msgstr ""
+"A hibajellemzők automatikusan jöttek létre, több fontos jellemző hiányzik, "
+"ezért így nem érdemes hibabejelentést beküldeni."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:297
+#, kde-format
+msgctxt "@info"
+msgid "The crash information was not generated because it was not needed."
+msgstr ""
+"Az összeomlás információi nem lettek előállítva, mert nem volt szükséges."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:301
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The automatically generated crash information does not contain enough "
+"information to be helpful."
+msgstr ""
+"A hibajellemzők automatikusan jöttek létre, nem tartalmaznak elég adatot, "
+"ezért így nem érdemes hibabejelentést beküldeni."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:304
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<note>You can improve it by installing debugging packages and reloading the "
+"crash on the Crash Information page. You can get help with the Bug Reporting "
+"Guide by clicking on the <interface>Help</interface> button.</note>"
+msgstr ""
+"<note>Több jellemző nyerhető ki, ha telepíti a szükséges nyomkövetési "
+"csomagokat és újratölti a Hibajellemzők lapot. Ha további segítséget "
+"szeretne kapni a hibabejelentő kezeléséhez, kattintson a <interface>Súgó</"
+"interface> gombra.</note>"
+
+#: bugzillaintegration/reportassistantpages_base.cpp:318
+#, kde-format
+msgctxt "@info"
+msgid "The information you can provide could be considered helpful."
+msgstr "A szolgáltatott információkat hasznosnak lehet tekinteni."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:321
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The information you can provide is not considered helpful enough in this "
+"case."
+msgstr ""
+"A szolgáltatott információkat nem lehet elég hasznosnak tekinteni ebben az "
+"esetben."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:326
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Your problem has already been reported as bug %1."
+msgstr "A problémát már jelentették a(z) %1. hibaként."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:338
+#, kde-format
+msgctxt "@info"
+msgid "This report is considered helpful."
+msgstr "A hibabejelentés megfelelő formátumúnak tűnik."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:343
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This application's bugs are reported to the KDE bug tracking system: click "
+"<interface>Next</interface> to start the reporting process. You can manually "
+"report at <link>%1</link>"
+msgstr ""
+"Ennek az alkalmazásnak a bejelentései a KDE hibabejelentő rendszerében "
+"tárolódnak. Kattintson a <interface>Tovább</interface> gombra a bejelentés "
+"megkezdéséhez. Kézi bejelentés is lehetséges itt: <link>%1</link>"
+
+#: bugzillaintegration/reportassistantpages_base.cpp:354
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This application is not supported in the KDE bug tracking system. Click "
+"<interface>Finish</interface> to report this bug to the application "
+"maintainer. Also, you can manually report at <link>%1</link>."
+msgstr ""
+"Ezt az alkalmazást nem támogatja a hibabejelentő rendszer. Ha a "
+"<interface>Befejezés</interface> gombra kattint, a bejelentés továbbítódik a "
+"program karbantartójának címére. Kézi bejelentés ezen a címen is kérhető: "
+"<link>%1</link>."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:369
+#, kde-format
+msgctxt "@info"
+msgid ""
+"This report does not contain enough information for the developers, so the "
+"automated bug reporting process is not enabled for this crash."
+msgstr ""
+"Ez a jelentés nem tartalmaz elég adatot a hiba kivizsgálásához, ezért az "
+"automatikus hibabejelentő nem aktiválódik."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:372
+#, kde-format
+msgctxt "@info"
+msgid "If you wish, you can go back and change your answers. "
+msgstr ""
+"Ha szeretné, visszaléphet az előző oldalra és módosíthat a válaszokon. "
+
+#: bugzillaintegration/reportassistantpages_base.cpp:381
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"You can manually report this bug at <link>%1</link>. Click "
+"<interface>Finish</interface> to close the assistant."
+msgstr ""
+"Jelentheti ezt a hibát a(z) <link>%1</link> címen. Kattintson a "
+"<interface>Befejezés</interface> gombra az asszisztens bezárásához."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:387
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"You can manually report this bug to its maintainer at <link>%1</link>. Click "
+"<interface>Finish</interface> to close the assistant."
+msgstr ""
+"Jelentheti ezt a hibát kézzel a karbantartójának a(z) <link>%1</link> címen. "
+"Kattintson a <interface>Befejezés</interface> gombra az asszisztes "
+"bezáráshoz."
+
+#: bugzillaintegration/reportassistantpages_base.cpp:406
+#, kde-format
+msgctxt "@info report to url/mail address"
+msgid "Report to %1"
+msgstr "Jelentés ide: %1"
+
+#: bugzillaintegration/reportassistantpages_base.cpp:429
+#, kde-format
+msgctxt "@title:window"
+msgid "Contents of the Report"
+msgstr "A bejelentés tartalma"
+
+#: bugzillaintegration/reportassistantpages_base.cpp:435
+#, kde-format
+msgctxt "@action:button"
+msgid "&Save to File..."
+msgstr "Menté&s fájlba…"
+
+#: bugzillaintegration/reportassistantpages_base.cpp:437
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Use this button to save the generated crash report information to a file. "
+"You can use this option to report the bug later."
+msgstr ""
+"Kattintson erre a gombra, ha fájlba szeretné menteni a bejelentést. Így a "
+"tényleges bejelentést későbbre halaszthatja."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:78
+#, kde-format
+msgctxt "@info:status '1' is replaced with the short URL of the bugzilla "
+msgid "You need to login with your %1 account in order to proceed."
+msgstr "A továbblépéshez először be kell jelentkeznie a(z) %1 fiókjával."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:81
+#, kde-format
+msgctxt "@action:button"
+msgid "Login"
+msgstr "Bejelentkezés"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:83
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Use this button to login to the KDE bug tracking system using the provided "
+"username and password."
+msgstr ""
+"Ezzel a gombbal jelentkezhet be a KDE hibakövető rendszerébe a beírt névvel "
+"és jelszóval."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:97
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"<note>You need a user account on the <link url='%1'>KDE bug tracking system</"
+"link> in order to file a bug report, because we may need to contact you "
+"later for requesting further information. If you do not have one, you can "
+"freely <link url='%2'>create one here</link>. Please do not use disposable "
+"email accounts.</note>"
+msgstr ""
+"<note>Szüksége van egy felhasználói fiókra a <link url='%1'>KDE hibakövető "
+"rendszerben</link> a hibajelentés elküldéséhez, mert később szükségünk lehet "
+"felvenni a kapcsolatot Önnel további információk kéréséhez. Ha még nincs "
+"fiókja, szabadon <link url='%2'>létrehozhat egyet itt</link>. Kérjük ne "
+"használjon eldobható e-mail fiókot.</note>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:129
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Error when trying to login: <message>%1.</message>"
+msgstr "Hiba történt bejelentkezéskor: <message>%1</message>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:158
+#, kde-format
+msgctxt "@info:status the user is logged at the bugtracker site as USERNAME"
+msgid "Logged in at the KDE bug tracking system (%1) as: %2."
+msgstr ""
+"Sikerült bejelentkeznie a KDE hibabejelentő rendszerébe (%1) ezzel a névvel: "
+"%2."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:246
+#, kde-format
+msgid "Failed to communicate with kded. Make sure it is running."
+msgstr "Nem sikerült kommunikálni a kded-vel. Ellenőrizze, hogy fut-e."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:249
+#, kde-format
+msgid "Failed to load KCookieServer. Check your KDE installation."
+msgstr ""
+"Nem sikerült betölteni a KCookieServert. Ellenőrizze a KDE telepítését."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:261
+#, kde-format
+msgid "Failed to communicate with KCookieServer."
+msgstr "Nem sikerült kommunikálni a KCookieServerrel."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:269
+#, kde-format
+msgctxt "@info 1 is the bugzilla website url"
+msgid ""
+"Cookies are not allowed in your KDE network settings. In order to proceed, "
+"you need to allow %1 to set cookies."
+msgstr ""
+"A sütik nincsenek engedélyezve a KDE hálózati beállításokban. A folytatás "
+"érdekében engedélyeznie kell a(z) %1 számára a sütik használatát."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:274
+#, kde-format
+msgctxt "@action:button 1 is the bugzilla website url"
+msgid "Allow %1 to set cookies"
+msgstr "%1 engedélyezése sütik elhelyezésére"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:278
+#, kde-format
+msgctxt "@action:button do not allow the bugzilla website to set cookies"
+msgid "No, do not allow"
+msgstr "Nem engedélyezem"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:344
+#, kde-format
+msgctxt "@info:status '1' is a url, '2' the username"
+msgid "Performing login at %1 as %2..."
+msgstr "Bejelentkezés itt: %1 mint %2…"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:367
+#, kde-format
+msgctxt "@info:status"
+msgid "<b>Error: Invalid username or password</b>"
+msgstr "<b>Hiba: érvénytelen felhasználónév vagy jelszó</b>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:422
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Unspecified"
+msgstr "Nincs megadva"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:424
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Archlinux"
+msgstr "Archlinux"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:426
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Chakra"
+msgstr "Chakra"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:428
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Debian stable"
+msgstr "Debian stable"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:430
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Debian testing"
+msgstr "Debian testing"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:432
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Debian unstable"
+msgstr "Debian unstable"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:434
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Exherbo"
+msgstr "Exherbo"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:436
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Fedora"
+msgstr "Fedora"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:438
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Gentoo"
+msgstr "Gentoo"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:440
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Mageia"
+msgstr "Mageia"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:442
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Mandriva"
+msgstr "Mandriva"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:444
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Neon"
+msgstr ""
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:446
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "OpenSUSE"
+msgstr "OpenSUSE"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:448
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Pardus"
+msgstr "Pardus"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:450
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "RedHat"
+msgstr "RedHat"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:452
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Slackware"
+msgstr "Slackware"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:454
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Ubuntu (and derivatives)"
+msgstr "Ubuntu (és változataik)"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:457
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "FreeBSD (Ports)"
+msgstr "FreeBSD (Ports)"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:459
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "NetBSD (pkgsrc)"
+msgstr "NetBSD (pkgsrc)"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:461
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "OpenBSD"
+msgstr "OpenBSD"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:463
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Mac OS X"
+msgstr "Mac OS X"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:465
+#, kde-format
+msgctxt "@label:listbox KDE distribution method"
+msgid "Solaris"
+msgstr "Solaris"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:534
+#, kde-format
+msgctxt "the minimum required length of a text was reached"
+msgid "Minimum length reached"
+msgstr "Minimális hossz elérve"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:537
+#, kde-format
+msgctxt "the minimum required length of a text wasn't reached yet"
+msgid "Provide more information"
+msgstr "További információk szükségesek"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:557
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The description about the crash details does not provide enough information "
+"yet.<br /><br />"
+msgstr ""
+"A leírás az összeomlás részleteiről még nem szolgáltat elegendő információt."
+"<br  /><br />"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:560
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The amount of required information is proportional to the quality of the "
+"other information like the backtrace or the reproducibility rate.<br /><br />"
+msgstr ""
+"A szükséges információk mennyisége arányos az egyéb információk minőségével, "
+"mint a visszakövetés vagy a reprodukálhatóság arány.<br /><br />"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:568
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Previously, you told DrKonqi that you could provide some contextual "
+"information. Try writing more details about your situation. (even little "
+"ones could help us.)<br /><br />"
+msgstr ""
+"Korábban azt mondta a DrKonqinak, hogy tud szolgáltatni némi háttér-"
+"információt. Próbáljon meg további részleteket írni a helyzetről. (még a "
+"kicsik is segíthetnek nekünk.)<br /><br />"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:573
+#, kde-format
+msgctxt "@info"
+msgid ""
+"If you cannot provide more information, your report will probably waste "
+"developers' time. Can you tell us more?"
+msgstr ""
+"Ha nem tud több információt szolgáltatni, a jelentés valószínűleg csak a "
+"fejlesztők idejét rabolja. Tud nekünk többet mondani?"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:577
+#, kde-format
+msgid "Yes, let me add more information"
+msgstr "Igen, hadd adjak meg több információt"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:580
+#, kde-format
+msgid "No, I cannot add any other information"
+msgstr "Nem, nem tudok hozzáadni további információkat"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:583
+#, kde-format
+msgctxt "@title:window"
+msgid "We need more information"
+msgstr "Több adatra van szükségünk"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:625
+#, kde-kuit-format
+msgctxt "@info:tooltip examples of good bug report titles"
+msgid ""
+"<strong>Examples of good titles:</strong><nl />\"Plasma crashed after adding "
+"the Notes widget and writing on it\"<nl />\"Konqueror crashed when accessing "
+"the Facebook application 'X'\"<nl />\"Kopete suddenly closed after resuming "
+"the computer and talking to a MSN buddy\"<nl />\"Kate closed while editing a "
+"log file and pressing the Delete key a couple of times\""
+msgstr ""
+"<strong>Példák jó címekre:</strong><nl />„A Plasma összeomlott a "
+"Feljegyzések widget hozzáadása és az arra írásra után.”<nl />„A Konqueror "
+"összeomlott az 'X' Facebook alkalmazás megnyitásakor.”<nl />„A Kopete "
+"hirtelen bezárult felfüggesztésből felébredés és egy MSN beszélgetés "
+"után.”<nl />„A Kate bezárult egy naplófájl szerkesztése és a Delete gomb "
+"többszöri megnyomása közben”"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:636
+#, kde-format
+msgctxt "@info:tooltip help and examples of good bug descriptions"
+msgid "Describe in as much detail as possible the crash circumstances:"
+msgstr "Írja le minél részletesebben az összeomlás körülményeit:"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:640
+#, kde-format
+msgctxt "@info:tooltip help and examples of good bug descriptions"
+msgid ""
+"- Detail which actions were you taking inside and outside the application an "
+"instant before the crash."
+msgstr ""
+"- Részletezze, hogy milyen műveleteket hajtott végre az alkalmazásban és "
+"azon kívül az összeomlás pillanata előtt."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:646
+#, kde-format
+msgctxt "@info:tooltip help and examples of good bug descriptions"
+msgid ""
+"- Note if you noticed any unusual behavior in the application or in the "
+"whole environment."
+msgstr ""
+"- Jegyezze fel, ha bármilyen szokatlan viselkedést tapasztalt az "
+"alkalmazásban vagy az egész környezetben."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:652
+#, kde-format
+msgctxt "@info:tooltip help and examples of good bug descriptions"
+msgid "- Note any non-default configuration in the application."
+msgstr ""
+"- Jegyezze fel az alkalmazás bármilyen nem alapértelmezett beállítását."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:657
+#, kde-format
+msgctxt ""
+"@info:tooltip examples of configuration details. the examples are already "
+"translated"
+msgid "Examples: %1"
+msgstr "Példák: %1"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:692
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:573
+#, kde-format
+msgctxt "@action:button"
+msgid "Retry..."
+msgstr "Újra…"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:694
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Use this button to retry sending the crash report if it failed before."
+msgstr ""
+"Ezzel a gombbal újra megpróbálhatja elküldeni a bejelentést, ha korábban nem "
+"sikerült."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:698
+#, kde-format
+msgctxt "@action:button"
+msgid "Sho&w Contents of the Report"
+msgstr "A bejelentés tartalmának meg&jelenítése"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:721
+#, kde-format
+msgctxt "@info:status"
+msgid "Sending crash report... (please wait)"
+msgstr "Hibajelentés küldése… (egy kis türelmet)"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:738
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"Crash report sent.<nl/>URL: <link>%1</link><nl/>Thank you for being part of "
+"KDE. You can now close this window."
+msgstr ""
+"A hibajelentés elküldve.<nl/>URL: <link>%1</link><nl/>Köszönjük, hogy "
+"hozzájárult a KDE-hez. Most már bezárhatja ezt az ablakot."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:748
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Error sending the crash report:  <message>%1.</message>"
+msgstr "Hiba történt a hibabejelentés küldésekor: <message>%1.</message>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:774
+#, kde-format
+msgctxt "@info report to KDE bugtracker address"
+msgid "Report to %1"
+msgstr "Jelentés ide: %1"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:793
+#, kde-format
+msgctxt "@title:window"
+msgid "Unhandled Bugzilla Error"
+msgstr "Kezeletlen Bugzilla-hiba"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:797
+#, kde-format
+msgctxt "@action:button save html to a file"
+msgid "Save to a file"
+msgstr "Mentés fájlba"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:831
+#, kde-format
+msgctxt "@label"
+msgid ""
+"There was an unhandled Bugzilla error: %1.<br />Below is the HTML that "
+"DrKonqi received. Try to perform the action again or save this error page to "
+"submit a bug against DrKonqi."
+msgstr ""
+"Egy kezeletlen Bugzilla hiba volt: %1.<br />Lent van a HTML, amit a DrKonqi "
+"fogadott. Próbálja meg a újra végrehajtani a műveletet vagy mentse el ezt a "
+"hibaoldalt a hiba elküldéséhez a DrKonqival szemben."
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:848 drkonqi.cpp:171
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Filename"
+msgstr "Fájlnév kiválasztása"
+
+#: bugzillaintegration/reportassistantpages_bugzilla.cpp:871 drkonqi.cpp:197
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Cannot open file <filename>%1</filename> for writing."
+msgstr "Nem sikerült megnyitni írásra: <filename>%1</filename>."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:65
+#, kde-format
+msgctxt "@item:intable custom/manaul bug report number"
+msgid "Manual"
+msgstr "Kézi"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:67
+#, kde-format
+msgctxt "@item:intable custom bug report number description"
+msgid "Manually enter a bug report ID"
+msgstr "Hibaazonosító megadása kézzel"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:72
+#, kde-format
+msgctxt "@info:tooltip / whatsthis"
+msgid "Select this option to manually load a specific bug report"
+msgstr "Válassza ezt a beállítást egy megadott hibajelentés kézi betöltéséhez"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:80
+#, kde-format
+msgctxt "@action:button"
+msgid "Search for more reports"
+msgstr "További hibabejelentések keresése"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:82
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Use this button to search for more similar bug reports on an earlier date."
+msgstr ""
+"Ezzel a gombbal lehet a korábban leadott hasonló hibabejelentések között "
+"keresni."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:88
+#, kde-format
+msgctxt "@action:button"
+msgid "Retry search"
+msgstr "Keresés újból"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:90
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Use this button to retry the search that previously failed."
+msgstr "Az előző, sikertelen keresés megismétlése."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:94
+#, kde-format
+msgctxt "@action:button"
+msgid "Open selected report"
+msgstr "A kijelölt jelentés megnyitása"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:96
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Use this button to view the information of the selected bug report."
+msgstr ""
+"Ezzel a gombbal lehet a kijelölt hibabejelentés jellemzőit megtekinteni."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:100
+#, kde-format
+msgctxt "@action:button"
+msgid "Stop searching"
+msgstr "Keresés leállítása"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:102
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Use this button to stop the current search."
+msgstr "Ezzel a gombbal leállítható a keresés."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:114
+#, kde-format
+msgctxt "@action:button remove the selected item from a list"
+msgid "Remove"
+msgstr "Eltávolítás"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:116
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Use this button to remove a selected possible duplicate"
+msgstr "Ezzel a gombbal eltávolíthatók a kijelölt lehetséges duplikációk"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:179
+#, kde-format
+msgid "There are no real duplicates"
+msgstr "Nincsenek valódi duplikációk"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:180
+#, kde-format
+msgid ""
+"Press this button to declare that, in your opinion and according to your "
+"experience, the reports found as similar do not match the crash you have "
+"experienced, and you believe it is unlikely that a better match would be "
+"found after further review."
+msgstr ""
+"Ennek a gombnak a megnyomásával nyilatkozhat arról, hogy az Ön véleménye és "
+"a tapasztalata szerint a hasonlónak talált jelentések nem egyeznek azzal az "
+"összeomlással, amelyet tapasztalt és úgy gondolja, hogy nem valószínű jobb "
+"egyezés találata a későbbi átvizsgálás után."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:188
+#, kde-format
+msgid "Let me check more reports"
+msgstr "Hadd ellenőrizzek több jelentést"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:189
+#, kde-format
+msgid ""
+"Press this button if you would rather review more reports in order to find a "
+"match for the crash you have experienced."
+msgstr ""
+"Nyomja meg a gombot, ha inkább több jelentést szeretne átnézni annak "
+"érdekében, hogy egyezést találjon ahhoz az összeomláshoz, amelyet tapasztalt."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:195
+#, kde-format
+msgctxt "@info"
+msgid ""
+"You have not selected any possible duplicates, or a report to which to "
+"attach your crash information. Have you read all the reports, and can you "
+"confirm that there are no real duplicates?"
+msgstr ""
+"Nem választott ki egyetlen lehetséges duplikátumot vagy jelentést sem, "
+"amelyhez csatolja az összeomlási információkat. Elolvasott minden jelentést "
+"és meg tudja erősíteni, hogy nincsenek valódi duplikátumok?"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:198
+#, kde-format
+msgctxt "@title:window"
+msgid "No selected possible duplicates"
+msgstr "Nincs kiválasztva lehetséges duplikátum"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:224
+#, kde-format
+msgctxt "@info:status"
+msgid "Searching for duplicates (from %1 to %2)..."
+msgstr "Hasonló hibák keresése (%1–%2)…"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:252
+#, kde-format
+msgctxt "@info:status"
+msgid "Search stopped."
+msgstr "A keresés leállt."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:254
+#, kde-format
+msgctxt "@info:status"
+msgid "Search stopped. Showing results from %1 to %2"
+msgstr "A keresés leállt, a találatok: %1–%2"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:300
+#, kde-format
+msgctxt "@info:status"
+msgid "Showing results from %1 to %2"
+msgstr "Találatok %1–%2"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:321
+#, kde-format
+msgctxt "@info bug status"
+msgid "[Open]"
+msgstr "[Nyitott]"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:324
+#, kde-format
+msgctxt "@info bug resolution"
+msgid "[Fixed]"
+msgstr "[Javított]"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:326
+#, kde-format
+msgctxt "@info bug resolution"
+msgid "[Non-reproducible]"
+msgstr "[Nem reprodukálható]"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:328
+#, kde-format
+msgctxt "@info bug resolution"
+msgid "[Duplicate report]"
+msgstr "[Duplikált jelentés]"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:330
+#, kde-format
+msgctxt "@info bug resolution"
+msgid "[Invalid]"
+msgstr "[Érvénytelen]"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:333
+#, kde-format
+msgctxt "@info bug resolution"
+msgid "[External problem]"
+msgstr "[Külső probléma]"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:336
+#, kde-format
+msgctxt "@info bug status"
+msgid "[Incomplete]"
+msgstr "[Hiányos]"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:373
+#, kde-format
+msgctxt "@info:status"
+msgid "Search Finished. No reports found."
+msgstr "A keresés befejeződött, nincs találat."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:409
+#, kde-format
+msgctxt "@label"
+msgid ""
+"Your crash is a <strong>duplicate</strong> and has already been reported as "
+"<a href=\"%1\">Bug %1</a>."
+msgstr ""
+"Az összeomlás <strong>duplikált</strong> és már jelentették a(z) <a href="
+"\"%1\">%1. hibaként</a>."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:410
+#, kde-format
+msgctxt "@label"
+msgid ""
+"Your crash has already been reported as <a href=\"%1\">Bug %1</a>, which is "
+"a <strong>duplicate</strong> of <a href=\"%2\">Bug %2</a>"
+msgstr ""
+"Az összeomlást már jelentették a(z) <a href=\"%1\">%1. hibaként</a>, amely a "
+"<a href=\"%2\">%2. hiba</a> <strong>duplikátuma</strong>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:411
+#, kde-format
+msgctxt "@label"
+msgid ""
+"Only <strong><a href=\"%1\">attach</a></strong> if you can add needed "
+"information to the bug report."
+msgstr ""
+"Csak akkor <strong><a href=\"%1\">csatolja</a></strong>, ha hozzá tudja adni "
+"a szükséges információkat a hibajelentéshez."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:413
+#, kde-format
+msgctxt "@label"
+msgid ""
+"Your crash has already been reported as <a href=\"%1\">Bug %1</a> which has "
+"been <strong>closed</strong>."
+msgstr ""
+"Az összeomlást már jelentették a(z) <a href=\"%1\">%1. hibaként</a>, amelyet "
+"<strong>lezártak</strong>."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:414
+#, kde-format
+msgctxt "@label"
+msgid ""
+"Your crash has already been reported as <a href=\"%1\">Bug %1</a>, which is "
+"a duplicate of the <strong>closed</strong> <a href=\"%2\">Bug %2</a>."
+msgstr ""
+"Az összeomlást már jelentették a(z) <a href=\"%1\">%1. hibaként</a>, amely a "
+"<strong>lezárt</strong> <a href=\"\">%2. hiba</a> duplikátuma."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:437
+#, kde-format
+msgctxt "@info:status"
+msgid "Error fetching the bug report list"
+msgstr "Hiba történt a hibalista letöltésekor"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:439
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"Error fetching the bug report list<nl/><message>%1.</message><nl/>Please "
+"wait some time and try again."
+msgstr ""
+"Nem sikerült letölteni a bejelentések listáját<nl/><message>%1.</message><nl/"
+">Próbálja meg a műveletet kicsit később újból elvégezni."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:468
+#, kde-format
+msgctxt "@title:window"
+msgid "Enter a custom bug report number"
+msgstr "Adjon meg egyéni hibajelentés számot"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:469
+#, kde-format
+msgctxt "@label"
+msgid "Enter the number of the bug report you want to check"
+msgstr ""
+"Adja meg annak a hibajelentésnek a számát, amelyet ellenőrizni szeretne"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:542
+#, kde-kuit-format
+msgctxt "@label"
+msgid ""
+"The report is going to be <strong>attached</strong> to bug %1. <a href=\"#"
+"\">Cancel</a>"
+msgstr ""
+"A jelentés <strong>csatolva</strong> lesz a következő hibához: %1. <a href="
+"\"#\">Mégsem</a>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:569
+#, kde-format
+msgctxt "@title:window"
+msgid "Bug Description"
+msgstr "Hibaleírás"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:575
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Use this button to retry loading the bug report."
+msgstr "Ezzel a gombbal megkísérelheti újra betölteni a hibajelentést."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:582
+#, kde-format
+msgctxt "@action:button"
+msgid "Suggest this crash is related"
+msgstr "Javasolja ezt az összeomlást kapcsolódónak"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:583
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Use this button to suggest that the crash you experienced is related to this "
+"bug report"
+msgstr ""
+"Ennek a gombnak a használatával javasolhatja, hogy a tapasztalt összeomlás "
+"kapcsolódik ehhez a hibajelentéshez"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:632
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<link url='%1'>Report's webpage</link>"
+msgstr "<link url='%1'>A jelentés weboldala</link>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:635
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Loading information about bug %1 from %2...."
+msgstr "Hibajellemzők betöltése (hibaazonosító: %1) folyik innen: %2…"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:641
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Backtrace of the crash I experienced:\n"
+"\n"
+msgstr ""
+"Az általam tapasztalt összeomlás visszakövetése:\n"
+"\n"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:669
+#, kde-format
+msgctxt "@action:button let the user to choose to read the main report"
+msgid "Yes, read the main report"
+msgstr "Igen, elolvasom a fő jelentést"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:673
+#, kde-format
+msgctxt "@action:button let the user choose to read the original report"
+msgid "No, let me read the report I selected"
+msgstr "Nem, hadd olvassam el a kiválasztott jelentést"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:676
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"The report you selected (bug %1) is already marked as duplicate of bug %2. "
+"Do you want to read that report instead? (recommended)"
+msgstr ""
+"A kiválasztott jelentést (%1. hiba) már megjelölték a(z) %2. hiba "
+"duplikátumaként. Szeretné inkább azt a jelentést elolvasni? (javasolt)"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:680
+#, kde-format
+msgctxt "@title:window"
+msgid "Nested duplicate detected"
+msgstr "Beágyazott duplikátum található"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:698
+#, kde-format
+msgctxt "comment $number to use as subtitle"
+msgid "<h4>Comment %1:</h4>"
+msgstr "<h4>%1. megjegyzés:</h4>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:717
+#, kde-format
+msgctxt "@info bug status"
+msgid "Opened (Unconfirmed)"
+msgstr "Nyitva (megerősítetlen)"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:719
+#, kde-format
+msgctxt "@info bug status"
+msgid "Opened (Unfixed)"
+msgstr "Nyitva (javítatlan)"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:725
+#, kde-format
+msgctxt "@info bug resolution, fixed in version"
+msgid "Fixed in version \"%1\""
+msgstr "Javítva a(z) „%1” verzióban"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:728
+#, kde-format
+msgctxt "@info bug resolution, fixed by kde devs in version"
+msgid "the bug was fixed by KDE developers in version \"%1\""
+msgstr "a KDE fejlesztői javították a hibát a(z) „%1” verzióban"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:731
+#, kde-format
+msgctxt "@info bug resolution"
+msgid "Fixed"
+msgstr "Javítva"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:732
+#, kde-format
+msgctxt "@info bug resolution"
+msgid "the bug was fixed by KDE developers"
+msgstr "a KDE fejlesztői javították a hibát"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:735
+#, kde-format
+msgctxt "@info bug resolution"
+msgid "Non-reproducible"
+msgstr "Nem reprodukálható"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:737
+#, kde-format
+msgctxt "@info bug resolution"
+msgid "Duplicate report (Already reported before)"
+msgstr "Duplikált jelentés (korábban már jelentették)"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:740
+#, kde-format
+msgctxt "@info bug resolution"
+msgid "Not a valid report/crash"
+msgstr "Érvénytelen jelentés/összeomlás"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:742
+#, kde-format
+msgctxt "@info bug resolution"
+msgid "Not caused by a problem in the KDE's Applications or libraries"
+msgstr "Nem a KDE alkalmazásai vagy könyvtárak hibája okozta"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:744
+#, kde-format
+msgctxt "@info bug resolution"
+msgid ""
+"the bug is caused by a problem in an external application or library, or by "
+"a distribution or packaging issue"
+msgstr ""
+"a hibát egy külső alkalmazásban vagy könyvtárban lévő hiba okozta vagy egy "
+"disztribúció vagy egy csomagkiadás"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:751
+#, kde-format
+msgctxt "@info bug status, %1 is the resolution"
+msgid "Closed (%1)"
+msgstr "Lezárva (%1)"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:754
+#, kde-format
+msgctxt "@info bug status"
+msgid "Temporarily closed, because of a lack of information"
+msgstr "Információk hiányában átmenetileg lezárva"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:761
+#, kde-kuit-format
+msgid ""
+"<p><note>The bug report's title is often written by its reporter and may not "
+"reflect the bug's nature, root cause or other visible symptoms you could use "
+"to compare to your crash. Please read the complete report and all the "
+"comments below.</note></p>"
+msgstr ""
+"<p><note>A hibajelentések címeit gyakran a jelentőjük írja és nem tükrözi a "
+"hibák természetét, kiváltó okát vagy egyéb látható tüneteit, amelyet "
+"összehasonlításra tudna használni az összeomlással. Kérjük olvassa el a "
+"teljes jelentést és az összes alábbi megjegyzést.</note></p>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:767
+#, kde-kuit-format
+msgid ""
+"<p><note>This bug report has %1 duplicate report. That means this is "
+"probably a <strong>common crash</strong>. <i>Please consider only adding a "
+"comment or a note if you can provide new valuable information which was not "
+"already mentioned.</i></note></p>"
+msgid_plural ""
+"<p><note>This bug report has %1 duplicate reports. That means this is "
+"probably a <strong>common crash</strong>. <i>Please consider only adding a "
+"comment or a note if you can provide new valuable information which was not "
+"already mentioned.</i></note></p>"
+msgstr[0] ""
+"<p><note>Ennek a hibajelentésnek %1 duplikált jelentése van. Ez azt jelenti, "
+"hogy ez valószínűleg <strong>gyakori összeomlás</strong>. <i>Kérjük hogy "
+"csak akkor szóljon hozzá vagy adjon hozzá megjegyzést, ha olyan új hasznos "
+"információt tud szolgáltatni, amelyet még nem említettek.</i></note></p>"
+msgstr[1] ""
+"<p><note>Ennek a hibajelentésnek %1 duplikált jelentése van. Ez azt jelenti, "
+"hogy ez valószínűleg <strong>gyakori összeomlás</strong>. <i>Kérjük hogy "
+"csak akkor szóljon hozzá vagy adjon hozzá megjegyzést, ha olyan új hasznos "
+"információt tud szolgáltatni, amelyet még nem említettek.</i></note></p>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:784
+#, kde-kuit-format
+msgid ""
+"<p><note>This bug report is not about a crash or about any other critical "
+"bug.</note></p>"
+msgstr ""
+"<p><note>Ez a hibajelentés nem összeomlásról vagy egyéb kritikus hibáról "
+"szól.</note></p>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:791
+#, kde-format
+msgctxt "@info bug report title (quoted)"
+msgid "<h3>\"%1\"</h3>"
+msgstr "<h3>„%1”</h3>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:794
+#, kde-format
+msgctxt "@info bug report status"
+msgid "<h4>Bug Report Status: %1</h4>"
+msgstr "<h4>Hibajelentés állapota: %1</h4>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:796
+#, kde-format
+msgctxt "@info bug report product and component"
+msgid "<h4>Affected Component: %1 (%2)</h4>"
+msgstr "<h4>Érintett komponens: %1 (%2)</h4>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:799
+#, kde-format
+msgctxt "@info bug report description"
+msgid "<h3>Description of the bug</h3><p>%1</p>"
+msgstr "<h3>A hiba leírása</h3><p>%1</p>"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:804
+#, kde-format
+msgctxt "@label:textbox bug report comments (already formatted)"
+msgid "<h2>Additional Comments</h2>%1"
+msgstr "<h2>További megjegyzések</h2>%1"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:813
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Showing bug %1"
+msgstr "%1. hiba megjelenítése"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:852
+#, kde-kuit-format
+msgctxt "@info/rich"
+msgid ""
+"Error fetching the bug report<nl/><message>%1.</message><nl/>Please wait "
+"some time and try again."
+msgstr ""
+"Nem sikerült letölteni a hibabejelentést:<nl/><message>%1.</message><nl/"
+">Kérjük próbálkozzon egy kicsit később."
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:856
+#, kde-format
+msgctxt "@info"
+msgid "Error fetching the bug report"
+msgstr "Hiba történt a hibajelentés letöltése közben"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:857
+#, kde-format
+msgctxt "@info:status"
+msgid "Error fetching the bug report"
+msgstr "Hiba történt a hibajelentés letöltése közben"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:895
+#, kde-format
+msgctxt "@title:window"
+msgid "Related Bug Report"
+msgstr "Kapcsolódó hibajelentések"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:898
+#, kde-format
+msgctxt "@action:button"
+msgid "Cancel (Go back to the report)"
+msgstr "Mégsem (vissza a jelentéshez)"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:900
+#, kde-format
+msgctxt "@action:button continue with the selected option and close the dialog"
+msgid "Continue"
+msgstr "Folytatás"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:907
+#, kde-format
+msgid "You are going to mark your crash as related to bug %1"
+msgstr "Meg fogja jelölni az összeomlást a(z) %1. hibához kapcsolódóként"
+
+#: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:920
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The report is closed because %1. <i>If the crash is the same, adding further "
+"information will be useless and will consume developers' time.</i>"
+msgstr ""
+"A jelentést lezárták a következő ok miatt: %1. <i>Ha az összeomlás ugyanaz, "
+"a további információk hozzáadása hasztalan és csak a fejlesztők idejét "
+"rabolja.</i>"
+
+#: bugzillaintegration/reportinterface.cpp:177
+#, kde-kuit-format
+msgctxt "@info/plain"
+msgid ""
+"<placeholder>In detail, tell us what you were doing  when the application "
+"crashed.</placeholder>"
+msgstr ""
+"<placeholder>Kérjük írja le részletesen, milyen műveleteket hajtott végre, "
+"amikor az alkalmazás összeomlott.</placeholder>"
+
+#. i18n: ectx: property (text), widget (QLabel, m_rememberLabel)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:17
+#, kde-format
+msgctxt "@label question"
+msgid ""
+"<strong>Do you remember what you were doing prior to the crash?</strong>"
+msgstr "<strong>Emlészik rá, hogy mit csinált az összeomlás előtt?</strong>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rememberCrashSituationYes)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:44
+#, kde-format
+msgctxt ""
+"@option:radio \"yes\" to the question \"do you remember what were you doing "
+"prior to the crash?\""
+msgid "Yes"
+msgstr "Igen"
+
+#. i18n: ectx: property (text), widget (QRadioButton, m_rememberCrashSituationNo)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:54
+#, kde-format
+msgctxt ""
+"@option:radio \"No\" to the question \"do you remember what were you doing "
+"prior to the crash?\""
+msgid "No"
+msgstr "Nem"
+
+#. i18n: ectx: property (text), widget (QLabel, m_reproducibleLabel)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:90
+#, kde-format
+msgctxt "@label question"
+msgid ""
+"<strong>Does the application crash again if you repeat the same situation?</"
+"strong>"
+msgstr ""
+"<strong>Összeomlott újra az alkalmazás ugyanebben a szituációban?</strong>"
+
+#. i18n: ectx: property (toolTip), widget (KComboBox, m_reproducibleBox)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:118
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"If you tried to repeat the situation, select how often the application "
+"crashes"
+msgstr ""
+"Ha próbálta megismételni a szituációt, válassza ki milyen gyakran omlott "
+"össze az alkalmazás"
+
+#. i18n: ectx: property (whatsThis), widget (KComboBox, m_reproducibleBox)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:121
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"If you tried to repeat the situation, select how often the application "
+"crashes"
+msgstr ""
+"Ha próbálta megismételni a szituációt, válassza ki milyen gyakran omlott "
+"össze az alkalmazás"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, m_reproducibleBox)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:125
+#, kde-format
+msgctxt "@item:inlistbox  user didn't tried to repeat the crash situation"
+msgid "I did not try again"
+msgstr "Nem próbáltam újra"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, m_reproducibleBox)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:130
+#, kde-format
+msgctxt "@item:inlistbox the crash cannot be reproduce. reproduciblity->never"
+msgid "Never"
+msgstr "Soha"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, m_reproducibleBox)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:135
+#, kde-format
+msgctxt "@item:inlistbox the bug can be reproduced sometimes"
+msgid "Sometimes"
+msgstr "Néha"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, m_reproducibleBox)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:140
+#, kde-format
+msgctxt "@item:inlistbox the bug can be reproduced every time"
+msgid "Every time"
+msgstr "Mindig"
+
+#. i18n: ectx: property (text), widget (QLabel, m_informationLabel)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:182
+#, kde-format
+msgctxt "@label question"
+msgid ""
+"<strong>Please select which additional information you can provide:</strong>"
+msgstr ""
+"<strong>Válassza ki milyen további információkat tud megadni: </strong>"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, m_actionsInsideApp)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:212
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Check this option if you can describe what were you doing inside the "
+"application before it crashed"
+msgstr ""
+"Jelölje be ezt, ha le tudja írni milyen műveleteket végzett az alkalmazás "
+"összeomlása előtt"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_actionsInsideApp)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:215
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this option if you can describe what were you doing inside the "
+"application before it crashed"
+msgstr ""
+"Jelölje be ezt, ha le tudja írni milyen műveleteket végzett az alkalmazás "
+"összeomlása előtt"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, m_unusualSituation)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:225
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Check this option if you can describe any unusual behavior or appearance in "
+"the application or the whole desktop"
+msgstr ""
+"Jelölje be ezt, ha le tud írni bármilyen szokatlan viselkedést vagy "
+"megjelenést az alkalmazásban vagy az egész asztalon"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_unusualSituation)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:228
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this option if you can describe any unusual behavior or appearance in "
+"the application or the whole desktop"
+msgstr ""
+"Jelölje be ezt, ha le tud írni bármilyen szokatlan viselkedést vagy "
+"megjelenést az alkalmazásban vagy az egész asztalon"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_unusualSituation)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:231
+#, kde-format
+msgctxt ""
+"@option:check kind of information the user can provide about the crash"
+msgid "Unusual desktop behavior I noticed"
+msgstr "Szokatlan asztali viselkedést vettem észre"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, m_appSpecificDetails)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:246
+#, kde-format
+msgctxt "@info:tooltip"
+msgid ""
+"Check this option if you can provide application specific details or "
+"settings that may be related to the crash. You can check the examples (if "
+"available.)"
+msgstr ""
+"Jelölje be ezt a lehetőséget, ha olyan alkalmazásspecifikus részleteket vagy "
+"beállításokat tud szolgáltatni, amely kapcsolódhat az összeomláshoz. "
+"Megnézheti a példákat (ha elérhető)."
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, m_appSpecificDetails)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:249
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Check this option if you can provide application specific details or "
+"settings that may be related to the crash. You can check the examples (if "
+"available.)"
+msgstr ""
+"Jelölje be ezt a lehetőséget, ha olyan alkalmazásspecifikus részleteket vagy "
+"beállításokat tud szolgáltatni, amely kapcsolódhat az összeomláshoz. "
+"Megnézheti a példákat (ha elérhető)."
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_appSpecificDetails)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:252
+#, kde-format
+msgctxt ""
+"@option:check kind of information the user can provide about the crash"
+msgid "Custom settings of the application that may be related"
+msgstr "Az alkalmazás egyéni beállításai, amelyek kapcsolódhatnak"
+
+#. i18n: ectx: property (text), widget (QLabel, m_appSpecificDetailsExamples)
+#: bugzillaintegration/ui/assistantpage_bugawareness.ui:284
+#, kde-format
+msgctxt ""
+"@label clicking/hovering this, the user will get examples about application "
+"specific details s/he can provide"
+msgid "<a href=\"#\">Examples</a>"
+msgstr "<a href=\"#\">Példák</a>"
+
+#. i18n: ectx: property (text), widget (QLabel, m_explanationLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates.ui:17
+#, kde-format
+msgctxt "@info"
+msgid ""
+"See if your bug has already been reported. Double click a report in the list "
+"and compare it to yours. You can suggest that your crash is a duplicate of "
+"that report or directly attach your information to it."
+msgstr ""
+"Nézze meg, hogy a hibát már jelentették-e. Kattintson duplán a listában lévő "
+"jelentésre és hasonlítsa össze a sajátjával. Javasolhatja, hogy a jelentése "
+"egy duplikátuma annak a jelentésnek vagy közvetlenül csatolhatja az "
+"információkat ahhoz."
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_bugListWidget)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates.ui:72
+#, kde-format
+msgctxt "@title:column"
+msgid "Bug ID"
+msgstr "Hiba azonosító"
+
+#. i18n: ectx: property (text), widget (QTreeWidget, m_bugListWidget)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates.ui:77
+#, kde-format
+msgctxt "@title:column"
+msgid "Description"
+msgstr "Leírás"
+
+#. i18n: ectx: property (text), widget (QLabel, m_selectedPossibleDuplicatesLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates.ui:119
+#, kde-format
+msgctxt ""
+"@label title of a listbox where the possible duplicate bug numbers are put in"
+msgid "Possible duplicates:"
+msgstr "Lehetséges duplikációk:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_showOwnBacktraceCheckBox)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog.ui:81
+#, kde-format
+msgctxt ""
+"@option:check user must check this to preview the own backtrace (in order to "
+"compare it with the one in the showed report)"
+msgid "Show the backtrace of the crash I experienced to compare (advanced)"
+msgstr ""
+"Az általam tapasztalt összeomlás visszakövetésének megjelenítése "
+"összehasonlításra (speciális)"
+
+#. i18n: ectx: property (text), widget (QLabel, commonCrashLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:42
+#, kde-format
+msgid ""
+"This is likely to be a <strong>common crash</strong>, and a lot of different "
+"cases' details may have been provided already. <i>Proceed only if you can "
+"add new information (not already mentioned). </i>"
+msgstr ""
+"Ez valószínűleg egy <strong>gyakori összeomlás</strong> és már számos "
+"különböző eset részleteit jelentették. <i>Csak akkor folytassa, ha új "
+"információt tud hozzáadni (még nem említettet). </i>"
+
+#. i18n: ectx: property (text), widget (QLabel, proceedLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:115
+#, kde-format
+msgid "<strong>Do you want to proceed with the reporting process?</strong>"
+msgstr "<strong>Szeretné folytatni a hibajebelentési folyamatot?</strong>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, proceedRadioNo)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:142
+#, kde-format
+msgid "No, do not file &a new bug report, and cancel the assistant"
+msgstr "Nem, ne iktassa &az új hibajelentést, és szakítsa meg a segédet"
+
+#. i18n: ectx: property (text), widget (QRadioButton, proceedRadioYes)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:152
+#, kde-format
+msgid "Proceed with reporting &the bug"
+msgstr "Folytatás a hiba jelen&tésével"
+
+#. i18n: ectx: property (text), widget (QLabel, areYouSureLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:182
+#, kde-format
+msgid "<strong>Are you sure this report matches your crash situation?</strong>"
+msgstr ""
+"<strong>Biztos benne, hogy ez a jelentés illik az ön által tapasztalt "
+"összeomlásra?</strong>"
+
+#. i18n: ectx: property (text), widget (QRadioButton, markAsDuplicateCheck)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:209
+#, kde-format
+msgid "Not &really sure: mark as a possible duplicate"
+msgstr "Nem &igazán biztos: megjelölés lehetséges duplikátumként"
+
+#. i18n: ectx: property (text), widget (QRadioButton, attachToBugReportCheck)
+#: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:219
+#, kde-format
+msgid "Completely sure: attach my &information to this report"
+msgstr "Teljesen biztos: csatolja az i&nformációimat ehhez a jelentéshez"
+
+#. i18n: ectx: property (text), widget (QLabel, m_explanationLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_information.ui:17
+#, kde-format
+msgctxt "@info"
+msgid "<strong>Please provide the following information in English.</strong>"
+msgstr "<strong>Kérjük adja meg a következő információkat angolul.</strong>"
+
+#. i18n: ectx: property (text), widget (QLabel, m_titleLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_information.ui:27
+#, kde-format
+msgctxt "@label:textbox"
+msgid "<strong>Title of the bug report:</strong> (<a href=\"#\">examples</a>)"
+msgstr "<strong>A hibajelentés címe:</strong> (<a href=\"#\">példák</a>)"
+
+#. i18n: ectx: property (text), widget (QLabel, m_detailsLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_information.ui:39
+#, kde-format
+msgctxt "@label:textbox"
+msgid ""
+"<strong>Information about the crash:</strong> (<a href=\"#\">help and "
+"examples</a>)"
+msgstr ""
+"<strong>Információk az összeomlásról:</strong> (<a href=\"#\">súgó és "
+"példák</a>)"
+
+#. i18n: ectx: property (title), widget (QGroupBox, m_distributionGroupBox)
+#: bugzillaintegration/ui/assistantpage_bugzilla_information.ui:55
+#, kde-format
+msgctxt "@title:group"
+msgid "Distribution method:"
+msgstr "Elosztási eljárás:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_compiledSourcesCheckBox)
+#: bugzillaintegration/ui/assistantpage_bugzilla_information.ui:66
+#, kde-format
+msgctxt "@option:check"
+msgid "KDE Platform is compiled from sources"
+msgstr "A KDE platform fordítása forrásból"
+
+#. i18n: ectx: property (text), widget (QLabel, m_crashInfoLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_information.ui:94
+#, kde-format
+msgctxt "@info"
+msgid ""
+"<i>Note</i>: The crash and system information will be automatically added to "
+"the bug report."
+msgstr ""
+"<i>Megjegyzés</i>: A lefagyás adatai és a rendszerjellemzők automatikusan "
+"bekerülnek a hibabejelentésbe."
+
+#. i18n: ectx: property (text), widget (QLabel, m_userLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_login.ui:38
+#, kde-format
+msgctxt "@label:textbox bugzilla account username"
+msgid "Username:"
+msgstr "Felhasználónév:"
+
+#. i18n: ectx: property (text), widget (QLabel, m_passwordLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_login.ui:45
+#, kde-format
+msgctxt "@label:textbox bugzilla account password"
+msgid "Password:"
+msgstr "Jelszó:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_savePasswordCheckBox)
+#: bugzillaintegration/ui/assistantpage_bugzilla_login.ui:71
+#, kde-format
+msgctxt "@option:check"
+msgid "Save login information using the KDE Wallet system"
+msgstr "A bejelentkezési adatok elmentése a KDE jelszókezelőjével"
+
+#. i18n: ectx: property (text), widget (QLabel, m_previewDescriptionLabel)
+#: bugzillaintegration/ui/assistantpage_bugzilla_preview.ui:19
+#, kde-format
+msgctxt "@label"
+msgid ""
+"This is a preview of the report's contents which will be sent. \n"
+"\n"
+"If you want to modify it go to the previous pages."
+msgstr ""
+"Ez az elküldendő jelentés tartalmának előnézete.\n"
+"\n"
+"Ha módosítani szeretné, menjen vissza az előző oldalra."
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_launchPageOnFinish)
+#: bugzillaintegration/ui/assistantpage_bugzilla_send.ui:75
+#, kde-format
+msgctxt "@option:check"
+msgid "Open the bug report page when clicking the Finish button"
+msgstr "A Befejezés gomb megnyomása után nyíljon meg a hibabejelentés oldala"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_restartAppOnFinish)
+#: bugzillaintegration/ui/assistantpage_bugzilla_send.ui:98
+#, kde-format
+msgctxt "@option:check"
+msgid "Restart the application when clicking the Finish button"
+msgstr "Az alkalmazás újraindítása a Befejezés gomb megnyomásakor"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_restartAppOnFinish)
+#: bugzillaintegration/ui/assistantpage_conclusions.ui:73
+#, kde-format
+msgid "Restart the application when clicking the Finish button"
+msgstr "Az alkalmazás újraindítása a Befejezés gomb megnyomásakor"
+
+#. i18n: ectx: property (text), widget (QLabel, m_introLabel)
+#: bugzillaintegration/ui/assistantpage_introduction.ui:17
+#, kde-format
+msgctxt "@info"
+msgid ""
+"This assistant will analyze the crash information and guide you through the "
+"bug reporting process."
+msgstr ""
+"Ez az asszisztens elemezni fogja az összeomlási információkat és végigvezeti "
+"a hibajelentési folyamaton."
+
+#. i18n: ectx: property (text), widget (QLabel, m_warningLabel)
+#: bugzillaintegration/ui/assistantpage_introduction.ui:77
+#, kde-format
+msgctxt "@info note before starting the bug reporting process"
+msgid ""
+"<p><i>Note</i>: Since communication between you and the developers is "
+"required for effective debugging, to continue reporting this bug <strong>it "
+"is required for you to agree that developers may contact you.</strong></"
+"p><p>Feel free to close this dialog if you do not accept this.</p>"
+msgstr ""
+"<p><i>Megjegyzés</i>: Amióta szükséges a kommunikáció Ön és a fejlesztők "
+"között a hatékony hibakereséshez, a hiba jelentésének a folytatásához "
+"<strong>szükséges elfogadnia, hogy a fejlesztők kapcsolatba léphetnek Önnel."
+"</strong></p><p>Nyugodtan zárja be ezt a párbeszédablakot, ha nem nem "
+"fogadja el ezt.</p>"
+
+#: debugpackageinstaller.cpp:63
+#, kde-format
+msgctxt "@info:progress"
+msgid "Requesting installation of missing debug symbols packages..."
+msgstr "A hiányzó hibakövetési szimbólumcsomagok telepítésének kérése…"
+
+#: debugpackageinstaller.cpp:63
+#, kde-format
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: debugpackageinstaller.cpp:65
+#, kde-format
+msgctxt "@title:window"
+msgid "Missing debug symbols"
+msgstr "Hiányzó hibakövetési szimbólumok"
+
+#: debugpackageinstaller.cpp:99
+#, kde-format
+msgctxt "@info"
+msgid "Could not find debug symbol packages for this application."
+msgstr "Nem találhatók hibakeresési szimbólumcsomagok ehhez az alkalmazáshoz."
+
+#: debugpackageinstaller.cpp:110
+#, kde-format
+msgctxt "@info"
+msgid ""
+"An error was encountered during the installation of the debug symbol "
+"packages."
+msgstr "Hiba történt a hibakövetési szombólumcsomagok telepítése során."
+
+#: drkonqi.cpp:161
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Report saved to <filename>%1</filename>."
+msgstr "A bejelentés ebbe a fájlba került: <filename>%1</filename>."
+
+#: drkonqi.cpp:164
+#, kde-format
+msgctxt "@info"
+msgid "Could not create a file in which to save the report."
+msgstr "Nem sikerült létrehozni fájlt a bejelentési adatok elmentéséhez."
+
+#: drkonqidialog.cpp:73
+#, kde-format
+msgctxt "@title:tab general information"
+msgid "&General"
+msgstr "Ált&alános"
+
+#: drkonqidialog.cpp:78
+#, kde-format
+msgctxt "@title:tab"
+msgid "&Developer Information"
+msgstr "&Fejlesztői információk"
+
+#: drkonqidialog.cpp:111
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>We are sorry, <application>%1</application> closed unexpectedly.</para>"
+msgstr ""
+"<para>Sajnáljuk, de a(z) <application>%1</application> váratlanul leállt.</"
+"para>"
+
+#: drkonqidialog.cpp:117
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>As the Crash Handler itself has failed, the automatic reporting "
+"process is disabled to reduce the risks of failing again.<nl /><nl />Please, "
+"<link url='%1'>manually report</link> this error to the KDE bug tracking "
+"system. Do not forget to include the backtrace from the <interface>Developer "
+"Information</interface> tab.</para>"
+msgstr ""
+"<para>Mivel a Hibakezelő maga is meghiúsult, az automatikus jelentési "
+"folyamat le van tiltva, hogy csökkentse az újra meghiúsulás kockázatát.<nl /"
+"><nl />Kérjük <link url='%1'>kézzel jelezze</link> a hibát a KDE hibakövető "
+"rendszerébe. Ne felejtse el hozzáadni a visszakövetést a "
+"<interface>Fejlesztői információk</interface> lapról.</para>"
+
+#: drkonqidialog.cpp:126
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>The reporting assistant is disabled because the crash handler dialog "
+"was started in safe mode.<nl />You can manually report this bug to %1 "
+"(including the backtrace from the <interface>Developer Information</"
+"interface> tab.)</para>"
+msgstr ""
+"<para>A jelentés asszisztens le van tiltva, mert az összeomlás-kezelő "
+"párbeszédablak biztonságos módban lett indítva.<nl />Jelentheti kézzel ezt a "
+"hibát ehhez: %1 (tartalmazva a visszakövetési információt a "
+"<interface>Fejlesztői információk</interface> lapról.)</para>"
+
+#: drkonqidialog.cpp:133
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>You can help us improve KDE Software by reporting this error.<nl /"
+"><link url='%1'>Learn more about bug reporting.</link></para><para><note>It "
+"is safe to close this dialog if you do not want to report this bug.</note></"
+"para>"
+msgstr ""
+"<para>Segíthet nekünk a KDE szoftver tökéletesítésében ennek a hibának a "
+"jelentésével.<nl /><link url='%1'>Tudjon meg többet a hibajelentésről.</"
+"link></para><para><note>Nyugodtan bezárhatja ezt a párbeszédablakot, ha nem "
+"szeretné jelenteni ezt a hibát.</note></para>"
+
+#: drkonqidialog.cpp:141
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"<para>You cannot report this error, because <application>%1</application> "
+"does not provide a bug reporting address.</para>"
+msgstr ""
+"<para>Nem jelentheti ezt a hibát, mivel <application>%1</application> nem "
+"adott meg hibabejelentési címet.</para>"
+
+#: drkonqidialog.cpp:150
+#, kde-format
+msgctxt "@label"
+msgid "Details:"
+msgstr "Részletek:"
+
+#: drkonqidialog.cpp:153
+#, kde-kuit-format
+msgctxt "@info Note the time information is divided into date and time parts"
+msgid ""
+"<para>Executable: <application>%1</application> PID: %2 Signal: %3 (%4) "
+"Time: %5 %6</para>"
+msgstr ""
+"<para>Programfájl: <application>%1</application> PID: %2 Szignál:%3 (%4) "
+"Idő: %5 %6</para>"
+
+#: drkonqidialog.cpp:181
+#, kde-format
+msgctxt "@action:button"
+msgid "Report &Bug"
+msgstr "Hiba &bejelentése"
+
+#: drkonqidialog.cpp:183
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Starts the bug report assistant."
+msgstr "Elindítja a hibabejelentő segédet."
+
+#: drkonqidialog.cpp:198
+#, kde-format
+msgctxt ""
+"@action:button this is the debug menu button label which contains the "
+"debugging applications"
+msgid "&Debug"
+msgstr "&Hibakeresés"
+
+#: drkonqidialog.cpp:199
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Starts a program to debug the crashed application."
+msgstr "Program elindítása a hibás alkalmazás vizsgálatához."
+
+#: drkonqidialog.cpp:218
+#, kde-format
+msgctxt "@action:button"
+msgid "&Restart Application"
+msgstr "&Alkalmazás újraindítása"
+
+#: drkonqidialog.cpp:220
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Use this button to restart the crashed application."
+msgstr "Ezzel a gombbal újraindítható a lefagyott alkalmazás."
+
+#: drkonqidialog.cpp:232
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Close this dialog (you will lose the crash information.)"
+msgstr "Bezárja ezt az ablakot (a hibajellemzők elvesznek)."
+
+#: drkonqidialog.cpp:242
+#, kde-format
+msgctxt "@action:inmenu 1 is the debugger name"
+msgid "Debug in %1"
+msgstr "Hibakeresés ezzel: %1"
+
+#: findconfigdatajob.cpp:62
+#, kde-format
+msgid "Failed to retrieve the config data."
+msgstr "A konfigurációs adat letöltése sikertelen."
+
+#: main.cpp:45
+#, kde-format
+msgid "The KDE Crash Handler gives the user feedback if a program has crashed."
+msgstr ""
+"A KDE program hibakezelője értesíti a felhasználót, ha egy program "
+"összeomlott."
+
+#: main.cpp:70
+#, kde-format
+msgid "The KDE Crash Handler"
+msgstr "KDE programhiba-kezelő"
+
+#: main.cpp:73
+#, kde-format
+msgid "(C) 2000-2009, The DrKonqi Authors"
+msgstr "(C) A Dr. Konqi szerzői, 2000-2009."
+
+#: main.cpp:74
+#, kde-format
+msgctxt "@info:credit"
+msgid "Hans Petter Bieker"
+msgstr "Hans Petter Bieker"
+
+#: main.cpp:76
+#, kde-format
+msgctxt "@info:credit"
+msgid "Dario Andres Rodriguez"
+msgstr "Dario Andres Rodriguez"
+
+#: main.cpp:78
+#, kde-format
+msgctxt "@info:credit"
+msgid "George Kiagiadakis"
+msgstr "George Kiagiadakis"
+
+#: main.cpp:80
+#, kde-format
+msgctxt "@info:credit"
+msgid "A. L. Spehr"
+msgstr "A. L. Spehr"
+
+#: main.cpp:89
+#, kde-format
+msgctxt "@info:shell"
+msgid "The signal <number> that was caught"
+msgstr "A fogadott szignál <száma>"
+
+#: main.cpp:90
+#, kde-format
+msgctxt "@info:shell"
+msgid "<Name> of the program"
+msgstr "A program <neve>"
+
+#: main.cpp:91
+#, kde-format
+msgctxt "@info:shell"
+msgid "<Path> to the executable"
+msgstr "A program <elérési útja>"
+
+#: main.cpp:92
+#, kde-format
+msgctxt "@info:shell"
+msgid "The <version> of the program"
+msgstr "A program <verziószáma>"
+
+#: main.cpp:93
+#, kde-format
+msgctxt "@info:shell"
+msgid "The bug <address> to use"
+msgstr "Hibabejelentési <cím>"
+
+#: main.cpp:94
+#, kde-format
+msgctxt "@info:shell"
+msgid "Translated <name> of the program"
+msgstr "<Programnév> (lefordítva)"
+
+#: main.cpp:95
+#, kde-format
+msgctxt "@info:shell"
+msgid "The <PID> of the program"
+msgstr "A program folyamatazonosítója (<PID>)"
+
+#: main.cpp:96
+#, kde-format
+msgctxt "@info:shell"
+msgid "Startup <ID> of the program"
+msgstr "A program indítási <azonosítója>"
+
+#: main.cpp:97
+#, kde-format
+msgctxt "@info:shell"
+msgid "The program was started by kdeinit"
+msgstr "A programot a kdeinit indította el."
+
+#: main.cpp:98
+#, kde-format
+msgctxt "@info:shell"
+msgid "Disable arbitrary disk access"
+msgstr "A lemezhozzáférés korlátozása"
+
+#: main.cpp:99
+#, kde-format
+msgctxt "@info:shell"
+msgid "The program has already been restarted"
+msgstr "A programot már elindították"
+
+#: main.cpp:100
+#, kde-format
+msgctxt "@info:shell"
+msgid "Keep the program running and generate the backtrace at startup"
+msgstr "Tartsa futva a programot és hozzon létre nyomkövetést indításkor"
+
+#: main.cpp:102
+#, kde-format
+msgctxt "@info:shell"
+msgid "The <thread id> of the failing thread"
+msgstr "A meghiúsult szál <szálazonosítója>"
+
+#: statusnotifier.cpp:42
+#, kde-format
+msgctxt "Placeholder is an application name; it crashed"
+msgid "%1 Closed Unexpectedly"
+msgstr ""
+
+#: statusnotifier.cpp:62 statusnotifier.cpp:121
+#, kde-format
+msgid "Please report this error to help improve this software."
+msgstr ""
+
+#: statusnotifier.cpp:70
+#, fuzzy, kde-format
+#| msgctxt "@action:button"
+#| msgid "Report &Bug"
+msgid "Report &Bug"
+msgstr "Hiba &bejelentése"
+
+#: statusnotifier.cpp:77
+#, fuzzy, kde-format
+#| msgctxt "@action:button"
+#| msgid "&Restart Application"
+msgid "&Restart Application"
+msgstr "&Alkalmazás újraindítása"
+
+#: statusnotifier.cpp:91
+#, kde-format
+msgctxt "Allows the user to hide this notifier item"
+msgid "Hide"
+msgstr ""
+
+#: statusnotifier.cpp:126
+#, fuzzy, kde-format
+#| msgctxt "@action:button"
+#| msgid "Report &Bug"
+msgctxt "Notification action button, keep short"
+msgid "Report Bug"
+msgstr "Hiba &bejelentése"
+
+#: statusnotifier.cpp:131
+#, fuzzy, kde-format
+#| msgctxt "@action:button"
+#| msgid "&Restart Application"
+msgctxt "Notification action button, keep short"
+msgid "Restart App"
+msgstr "&Alkalmazás újraindítása"
+
+#. i18n: ectx: property (text), widget (QCheckBox, m_toggleBacktraceCheckBox)
+#: ui/backtracewidget.ui:100
+#, kde-format
+msgid "Show backtrace content (advanced)"
+msgstr "Visszakövetés tartalmának megjelenítése (haladó)"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Tamas Szanto <tszanto@interware.hu>, 2000.
+#

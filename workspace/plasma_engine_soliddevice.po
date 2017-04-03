@@ -1,0 +1,719 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Laszlo Papp <djszapi@archlinux.us>, 2010.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2011, 2012, 2015.
+# Balázs Úr <urbalazs@gmail.com>, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2015-03-23 16:04+0100\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: soliddeviceengine.cpp:128
+#, kde-format
+msgid "Parent UDI"
+msgstr "Szülő UDI"
+
+#: soliddeviceengine.cpp:129
+#, kde-format
+msgid "Vendor"
+msgstr "Gyártó"
+
+#: soliddeviceengine.cpp:130
+#, kde-format
+msgid "Product"
+msgstr "Termék"
+
+#: soliddeviceengine.cpp:131
+#, kde-format
+msgid "Description"
+msgstr "Leírás"
+
+#: soliddeviceengine.cpp:132
+#, kde-format
+msgid "Icon"
+msgstr "Ikon"
+
+#: soliddeviceengine.cpp:133 soliddeviceengine.cpp:586
+#, kde-format
+msgid "Emblems"
+msgstr "Emblémák"
+
+#: soliddeviceengine.cpp:134 soliddeviceengine.cpp:496
+#: soliddeviceengine.cpp:502 soliddeviceengine.cpp:515
+#, kde-format
+msgid "State"
+msgstr "Állapot"
+
+#: soliddeviceengine.cpp:135 soliddeviceengine.cpp:497
+#: soliddeviceengine.cpp:503 soliddeviceengine.cpp:511
+#: soliddeviceengine.cpp:513
+#, kde-format
+msgid "Operation result"
+msgstr "A művelet eredménye"
+
+#: soliddeviceengine.cpp:136
+#, kde-format
+msgid "Timestamp"
+msgstr "Időbélyeg"
+
+#: soliddeviceengine.cpp:144
+#, kde-format
+msgid "Processor"
+msgstr "Processzor"
+
+#: soliddeviceengine.cpp:145
+#, kde-format
+msgid "Number"
+msgstr "Szám"
+
+#: soliddeviceengine.cpp:146
+#, kde-format
+msgid "Max Speed"
+msgstr "Maximimális sebesség"
+
+#: soliddeviceengine.cpp:147
+#, kde-format
+msgid "Can Change Frequency"
+msgstr "Megváltoztatható a frekvencia"
+
+#: soliddeviceengine.cpp:155
+#, kde-format
+msgid "Block"
+msgstr "Blokk"
+
+#: soliddeviceengine.cpp:156
+#, kde-format
+msgid "Major"
+msgstr "Major"
+
+#: soliddeviceengine.cpp:157
+#, kde-format
+msgid "Minor"
+msgstr "Minor"
+
+#: soliddeviceengine.cpp:158
+#, kde-format
+msgid "Device"
+msgstr "Eszköz"
+
+#: soliddeviceengine.cpp:166
+#, kde-format
+msgid "Storage Access"
+msgstr "Tároló hozzáférés"
+
+#: soliddeviceengine.cpp:167 soliddeviceengine.cpp:527
+#: soliddeviceengine.cpp:600
+#, kde-format
+msgid "Accessible"
+msgstr "Hozzáférhető"
+
+#: soliddeviceengine.cpp:168 soliddeviceengine.cpp:528
+#, kde-format
+msgid "File Path"
+msgstr "Fájl útvonal"
+
+#: soliddeviceengine.cpp:183
+#, kde-format
+msgid "Storage Drive"
+msgstr "Tároló eszköz"
+
+#: soliddeviceengine.cpp:186
+#, kde-format
+msgid "Ide"
+msgstr "Ide"
+
+#: soliddeviceengine.cpp:186
+#, kde-format
+msgid "Usb"
+msgstr "Usb"
+
+#: soliddeviceengine.cpp:186
+#, kde-format
+msgid "Ieee1394"
+msgstr "Ieee1394"
+
+#: soliddeviceengine.cpp:186
+#, kde-format
+msgid "Scsi"
+msgstr "Scsi"
+
+#: soliddeviceengine.cpp:186
+#, kde-format
+msgid "Sata"
+msgstr "Sata"
+
+#: soliddeviceengine.cpp:186
+#, kde-format
+msgid "Platform"
+msgstr "Platform"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Hard Disk"
+msgstr "Merev lemez"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Cdrom Drive"
+msgstr "Cdrom meghajtó"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Floppy"
+msgstr "Floppy"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Tape"
+msgstr "Mágnesszalag"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Compact Flash"
+msgstr "Kompakt flash"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Memory Stick"
+msgstr "Memória stick"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Smart Media"
+msgstr "Okos Média"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "SdMmc"
+msgstr "SdMmc"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Xd"
+msgstr "Xd"
+
+#: soliddeviceengine.cpp:190
+#, kde-format
+msgid "Bus"
+msgstr "Busz"
+
+#: soliddeviceengine.cpp:191
+#, kde-format
+msgid "Drive Type"
+msgstr "Meghajtó típus"
+
+#: soliddeviceengine.cpp:192 soliddeviceengine.cpp:205
+#: soliddeviceengine.cpp:375 soliddeviceengine.cpp:390
+#, kde-format
+msgid "Removable"
+msgstr "Eltávolítható"
+
+#: soliddeviceengine.cpp:193 soliddeviceengine.cpp:206
+#: soliddeviceengine.cpp:376 soliddeviceengine.cpp:391
+#, kde-format
+msgid "Hotpluggable"
+msgstr "Hotpluggable"
+
+#: soliddeviceengine.cpp:216
+#, kde-format
+msgid "Optical Drive"
+msgstr "Optikai meghajtó"
+
+#: soliddeviceengine.cpp:221
+#, kde-format
+msgid "CD-R"
+msgstr "CD-R"
+
+#: soliddeviceengine.cpp:224
+#, kde-format
+msgid "CD-RW"
+msgstr "CD-RW"
+
+#: soliddeviceengine.cpp:227
+#, kde-format
+msgid "DVD"
+msgstr "DVD"
+
+#: soliddeviceengine.cpp:230
+#, kde-format
+msgid "DVD-R"
+msgstr "DVD-R"
+
+#: soliddeviceengine.cpp:233
+#, kde-format
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+#: soliddeviceengine.cpp:236
+#, kde-format
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+#: soliddeviceengine.cpp:239
+#, kde-format
+msgid "DVD+R"
+msgstr "DVD+R"
+
+#: soliddeviceengine.cpp:242
+#, kde-format
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+#: soliddeviceengine.cpp:245
+#, kde-format
+msgid "DVD+DL"
+msgstr "DVD+DL"
+
+#: soliddeviceengine.cpp:248
+#, kde-format
+msgid "DVD+DLRW"
+msgstr "DVD+DLRW"
+
+#: soliddeviceengine.cpp:251
+#, kde-format
+msgid "BD"
+msgstr "BD"
+
+#: soliddeviceengine.cpp:254
+#, kde-format
+msgid "BD-R"
+msgstr "BD-R"
+
+#: soliddeviceengine.cpp:257
+#, kde-format
+msgid "BD-RE"
+msgstr "BD-RE"
+
+#: soliddeviceengine.cpp:260
+#, kde-format
+msgid "HDDVD"
+msgstr "HDDVD"
+
+#: soliddeviceengine.cpp:263
+#, kde-format
+msgid "HDDVD-R"
+msgstr "HDDVD-R"
+
+#: soliddeviceengine.cpp:266
+#, kde-format
+msgid "HDDVD-RW"
+msgstr "HDDVD-RW"
+
+#: soliddeviceengine.cpp:268
+#, kde-format
+msgid "Supported Media"
+msgstr "Támogatott média"
+
+#: soliddeviceengine.cpp:270
+#, kde-format
+msgid "Read Speed"
+msgstr "Olvasási sebesség"
+
+#: soliddeviceengine.cpp:271
+#, kde-format
+msgid "Write Speed"
+msgstr "Írási sebesség"
+
+#: soliddeviceengine.cpp:279
+#, kde-format
+msgid "Write Speeds"
+msgstr "Írási sebességek"
+
+#: soliddeviceengine.cpp:288
+#, kde-format
+msgid "Storage Volume"
+msgstr "Tároló eszköz"
+
+#: soliddeviceengine.cpp:291
+#, kde-format
+msgid "Other"
+msgstr "Egyéb"
+
+#: soliddeviceengine.cpp:291
+#, kde-format
+msgid "Unused"
+msgstr "Nem használt"
+
+#: soliddeviceengine.cpp:291
+#, kde-format
+msgid "File System"
+msgstr "Fájl rendszer"
+
+#: soliddeviceengine.cpp:292
+#, kde-format
+msgid "Partition Table"
+msgstr "Partíciós tábla"
+
+#: soliddeviceengine.cpp:292
+#, kde-format
+msgid "Raid"
+msgstr "Raid"
+
+#: soliddeviceengine.cpp:292
+#, kde-format
+msgid "Encrypted"
+msgstr "Titkosított"
+
+#: soliddeviceengine.cpp:295 soliddeviceengine.cpp:297
+#, kde-format
+msgid "Usage"
+msgstr "Használat"
+
+#: soliddeviceengine.cpp:297
+#, kde-format
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#: soliddeviceengine.cpp:300
+#, kde-format
+msgid "Ignored"
+msgstr "Mellőzött"
+
+#: soliddeviceengine.cpp:301
+#, kde-format
+msgid "File System Type"
+msgstr "Fájl rendszer típus"
+
+#: soliddeviceengine.cpp:302
+#, kde-format
+msgid "Label"
+msgstr "Címke"
+
+#: soliddeviceengine.cpp:303
+#, kde-format
+msgid "UUID"
+msgstr "UUID"
+
+#: soliddeviceengine.cpp:312
+#, kde-format
+msgid "Encrypted Container"
+msgstr "Titkosított konténer"
+
+#: soliddeviceengine.cpp:324
+#, kde-format
+msgid "OpticalDisc"
+msgstr "OptikaiLemez"
+
+#: soliddeviceengine.cpp:330
+#, kde-format
+msgid "Audio"
+msgstr "Audió"
+
+#: soliddeviceengine.cpp:333
+#, kde-format
+msgid "Data"
+msgstr "Adat"
+
+#: soliddeviceengine.cpp:336
+#, kde-format
+msgid "Video CD"
+msgstr "Videó CD"
+
+#: soliddeviceengine.cpp:339
+#, kde-format
+msgid "Super Video CD"
+msgstr "Szuper Videó CD"
+
+#: soliddeviceengine.cpp:342
+#, kde-format
+msgid "Video DVD"
+msgstr "Videó DVD"
+
+#: soliddeviceengine.cpp:345
+#, kde-format
+msgid "Video Blu Ray"
+msgstr "Blu-Ray videó"
+
+#: soliddeviceengine.cpp:347
+#, kde-format
+msgid "Available Content"
+msgstr "Elérhető tartalom"
+
+#: soliddeviceengine.cpp:350
+#, kde-format
+msgid "Unknown Disc Type"
+msgstr "Ismeretlen lemez típus"
+
+#: soliddeviceengine.cpp:350
+#, kde-format
+msgid "CD Rom"
+msgstr "CD Rom"
+
+#: soliddeviceengine.cpp:350
+#, kde-format
+msgid "CD Recordable"
+msgstr "Írható CD "
+
+#: soliddeviceengine.cpp:351
+#, kde-format
+msgid "CD Rewritable"
+msgstr "Újraírható CD"
+
+#: soliddeviceengine.cpp:351
+#, kde-format
+msgid "DVD Rom"
+msgstr "DVD Rom"
+
+#: soliddeviceengine.cpp:351
+#, kde-format
+msgid "DVD Ram"
+msgstr "DVD Ram"
+
+#: soliddeviceengine.cpp:352
+#, kde-format
+msgid "DVD Recordable"
+msgstr "Írható DVD"
+
+#: soliddeviceengine.cpp:352
+#, kde-format
+msgid "DVD Rewritable"
+msgstr "Újraírható DVD"
+
+#: soliddeviceengine.cpp:352
+#, kde-format
+msgid "DVD Plus Recordable"
+msgstr "Írható DVD Plusz"
+
+#: soliddeviceengine.cpp:353
+#, kde-format
+msgid "DVD Plus Rewritable"
+msgstr "Újraírható DVD Plusz"
+
+#: soliddeviceengine.cpp:353
+#, kde-format
+msgid "DVD Plus Recordable Duallayer"
+msgstr "Kétrétegű DVD+R"
+
+#: soliddeviceengine.cpp:354
+#, kde-format
+msgid "DVD Plus Rewritable Duallayer"
+msgstr "Kétrétegű DVD+RW"
+
+#: soliddeviceengine.cpp:354
+#, kde-format
+msgid "Blu Ray Rom"
+msgstr "Blu Ray Rom"
+
+#: soliddeviceengine.cpp:354
+#, kde-format
+msgid "Blu Ray Recordable"
+msgstr "Írható Blu Ray "
+
+#: soliddeviceengine.cpp:355
+#, kde-format
+msgid "Blu Ray Rewritable"
+msgstr "Újraírható Blu Ray"
+
+#: soliddeviceengine.cpp:355
+#, kde-format
+msgid "HD DVD Rom"
+msgstr "HD DVD Rom"
+
+#: soliddeviceengine.cpp:355
+#, kde-format
+msgid "HD DVD Recordable"
+msgstr "Írható HD DVD"
+
+#: soliddeviceengine.cpp:356
+#, kde-format
+msgid "HD DVD Rewritable"
+msgstr "Újraírható HD DVD"
+
+#: soliddeviceengine.cpp:358
+#, kde-format
+msgid "Disc Type"
+msgstr "Lemez típus"
+
+#: soliddeviceengine.cpp:359
+#, kde-format
+msgid "Appendable"
+msgstr "Hozzácsatolható"
+
+#: soliddeviceengine.cpp:360
+#, kde-format
+msgid "Blank"
+msgstr "Üres"
+
+#: soliddeviceengine.cpp:361
+#, kde-format
+msgid "Rewritable"
+msgstr "Újraírható"
+
+#: soliddeviceengine.cpp:362
+#, kde-format
+msgid "Capacity"
+msgstr "Kapacitás"
+
+#: soliddeviceengine.cpp:370
+#, kde-format
+msgid "Camera"
+msgstr "Kamera"
+
+#: soliddeviceengine.cpp:372 soliddeviceengine.cpp:387
+#, kde-format
+msgid "Supported Protocols"
+msgstr "Támogatott Protokollok"
+
+#: soliddeviceengine.cpp:373 soliddeviceengine.cpp:388
+#, kde-format
+msgid "Supported Drivers"
+msgstr "Támogatott meghajtók"
+
+#: soliddeviceengine.cpp:385
+#, kde-format
+msgid "Portable Media Player"
+msgstr "Portolható Média lejátszó"
+
+#: soliddeviceengine.cpp:399
+#, kde-format
+msgid "Battery"
+msgstr "Akkumulátor"
+
+#: soliddeviceengine.cpp:402
+#, kde-format
+msgid "Unknown Battery"
+msgstr "Ismeretlen akkumulátor"
+
+#: soliddeviceengine.cpp:402
+#, kde-format
+msgid "PDA Battery"
+msgstr "PDA akkumulátor"
+
+#: soliddeviceengine.cpp:402
+#, kde-format
+msgid "UPS Battery"
+msgstr "UPS akkumulátor"
+
+#: soliddeviceengine.cpp:403
+#, kde-format
+msgid "Primary Battery"
+msgstr "Elsődleges akkumulátor"
+
+#: soliddeviceengine.cpp:403
+#, kde-format
+msgid "Mouse Battery"
+msgstr "Egér akkumulátor"
+
+#: soliddeviceengine.cpp:403
+#, kde-format
+msgid "Keyboard Battery"
+msgstr "Billentyűzet akkumulátor"
+
+#: soliddeviceengine.cpp:404
+#, kde-format
+msgid "Keyboard Mouse Battery"
+msgstr "Billentyűzet Egér akkumulátor"
+
+#: soliddeviceengine.cpp:404
+#, kde-format
+msgid "Camera Battery"
+msgstr "Kamera akkumulátor"
+
+#: soliddeviceengine.cpp:404
+#, fuzzy, kde-format
+#| msgid "Mouse Battery"
+msgid "Phone Battery"
+msgstr "Egér akkumulátor"
+
+#: soliddeviceengine.cpp:405
+#, fuzzy, kde-format
+#| msgid "Mouse Battery"
+msgid "Monitor Battery"
+msgstr "Egér akkumulátor"
+
+#: soliddeviceengine.cpp:408
+#, fuzzy, kde-format
+#| msgid "Charging"
+msgid "Not Charging"
+msgstr "Töltés"
+
+#: soliddeviceengine.cpp:408
+#, kde-format
+msgid "Charging"
+msgstr "Töltés"
+
+#: soliddeviceengine.cpp:408
+#, kde-format
+msgid "Discharging"
+msgstr "Kisütés"
+
+#: soliddeviceengine.cpp:408
+#, kde-format
+msgid "Fully Charged"
+msgstr "Teljesen feltöltött"
+
+#: soliddeviceengine.cpp:410
+#, kde-format
+msgid "Plugged In"
+msgstr "Csatlakoztatva"
+
+#: soliddeviceengine.cpp:411
+#, kde-format
+msgid "Type"
+msgstr "Típus"
+
+#: soliddeviceengine.cpp:412
+#, kde-format
+msgid "Charge Percent"
+msgstr "Feltöltöttségi százalék"
+
+#: soliddeviceengine.cpp:413
+#, kde-format
+msgid "Rechargeable"
+msgstr "Újratölthető"
+
+#: soliddeviceengine.cpp:414
+#, kde-format
+msgid "Charge State"
+msgstr "Feltöltöttségi állapot"
+
+#: soliddeviceengine.cpp:439
+#, kde-format
+msgid "Type Description"
+msgstr "Típusleírás"
+
+#: soliddeviceengine.cpp:444
+#, kde-format
+msgid "Device Types"
+msgstr "Eszköztípusok"
+
+#: soliddeviceengine.cpp:471 soliddeviceengine.cpp:554
+#, kde-format
+msgid "Size"
+msgstr "Méret"
+
+#: soliddeviceengine.cpp:552
+#, kde-format
+msgid "Free Space"
+msgstr "Szabad hely"
+
+#: soliddeviceengine.cpp:553
+#, kde-format
+msgid "Free Space Text"
+msgstr "Szabad hely szöveg"
+
+#: soliddeviceengine.cpp:574
+#, kde-format
+msgid "Temperature"
+msgstr "Hőmérséklet"
+
+#: soliddeviceengine.cpp:575
+#, kde-format
+msgid "Temperature Unit"
+msgstr "Hőmérsékletegység"
+
+#: soliddeviceengine.cpp:619 soliddeviceengine.cpp:623
+#, kde-format
+msgid "In Use"
+msgstr "Használatban"

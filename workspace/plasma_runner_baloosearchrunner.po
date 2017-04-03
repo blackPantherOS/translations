@@ -1,0 +1,53 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2014-08-27 11:29+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: baloosearchrunner.cpp:49
+#, kde-format
+msgid "Search through files, emails and contacts"
+msgstr "Keresés fájlokban, e-mailekben és névjegyekben"
+
+#: baloosearchrunner.cpp:60 baloosearchrunner.cpp:71 baloosearchrunner.cpp:166
+#, kde-format
+msgid "Audio"
+msgstr "Hang"
+
+#: baloosearchrunner.cpp:61 baloosearchrunner.cpp:73 baloosearchrunner.cpp:167
+#, kde-format
+msgid "Image"
+msgstr "Kép"
+
+#: baloosearchrunner.cpp:62 baloosearchrunner.cpp:75 baloosearchrunner.cpp:168
+#, kde-format
+msgid "Document"
+msgstr "Dokumentum"
+
+#: baloosearchrunner.cpp:63 baloosearchrunner.cpp:77 baloosearchrunner.cpp:169
+#, kde-format
+msgid "Video"
+msgstr "Videó"
+
+#: baloosearchrunner.cpp:64 baloosearchrunner.cpp:79 baloosearchrunner.cpp:170
+#, kde-format
+msgid "Folder"
+msgstr "Mappa"
+
+#: baloosearchrunner.cpp:194
+#, kde-format
+msgid "Open Containing Folder"
+msgstr ""

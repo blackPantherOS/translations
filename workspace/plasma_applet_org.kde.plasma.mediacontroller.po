@@ -1,0 +1,90 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2014-09-01 10:51+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: contents/ui/ExpandedRepresentation.qml:126
+#, kde-format
+msgid "Choose player automatically"
+msgstr ""
+
+#: contents/ui/ExpandedRepresentation.qml:194 contents/ui/main.qml:67
+#, kde-format
+msgid "No media playing"
+msgstr "Nincs médialejátszás"
+
+#: contents/ui/main.qml:74
+#, fuzzy, kde-format
+#| msgctxt "Bring the window of player %1 to the front"
+#| msgid "Open %1"
+msgctxt "Open player window or bring it to the front if already open"
+msgid "Open"
+msgstr "%1 megnyitása"
+
+#: contents/ui/main.qml:78
+#, kde-format
+msgctxt "Play previous track"
+msgid "Previous Track"
+msgstr ""
+
+#: contents/ui/main.qml:85
+#, fuzzy, kde-format
+#| msgid "Paused"
+msgctxt "Pause playback"
+msgid "Pause"
+msgstr "Szüneteltetve"
+
+#: contents/ui/main.qml:87
+#, kde-format
+msgctxt "Start playback"
+msgid "Play"
+msgstr ""
+
+#: contents/ui/main.qml:90
+#, kde-format
+msgctxt "Play next track"
+msgid "Next Track"
+msgstr ""
+
+#: contents/ui/main.qml:96
+#, kde-format
+msgctxt "Stop playback"
+msgid "Stop"
+msgstr ""
+
+#: contents/ui/main.qml:101
+#, kde-format
+msgctxt "Quit player"
+msgid "Quit"
+msgstr ""
+
+#: contents/ui/main.qml:221
+#, kde-format
+msgctxt "Artist of the song"
+msgid "by %1"
+msgstr "előadó: %1"
+
+#: contents/ui/main.qml:232
+#, kde-format
+msgctxt "Artist of the song"
+msgid "by %1 (paused)"
+msgstr "előadó: %1 (szüneteltetve)"
+
+#: contents/ui/main.qml:232
+#, kde-format
+msgid "Paused"
+msgstr "Szüneteltetve"

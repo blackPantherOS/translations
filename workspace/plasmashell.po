@@ -1,0 +1,246 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2017-01-28 08:34+0100\n"
+"PO-Revision-Date: 2015-03-23 16:09+0100\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Kiszel Kristóf"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ulysses@kubuntu.org"
+
+#: containmentconfigview.cpp:137
+#, kde-format
+msgid "Main Script File"
+msgstr "Fő szkriptfájl"
+
+#: currentcontainmentactionsmodel.cpp:204
+#, fuzzy, kde-format
+#| msgid "Configure Plugin"
+msgid "Configure Mouse Actions Plugin"
+msgstr "Bővítmény beállítása"
+
+#: main.cpp:62
+#, kde-format
+msgid "Plasma"
+msgstr "Plasma"
+
+#: main.cpp:64
+#, kde-format
+msgid "Plasma Shell"
+msgstr "Plasma felület"
+
+#: main.cpp:77
+#, kde-format
+msgid "Enable QML Javascript debugger"
+msgstr "QML Javascript hibakereső bekapcsolása"
+
+#: main.cpp:81
+#, kde-format
+msgid "Force a windowed view for testing purposes"
+msgstr "Ablakos nézet kényszerítése tesztelési célokból"
+
+#: main.cpp:85
+#, kde-format
+msgid "Do not restart plasma-shell automatically after a crash"
+msgstr "Ne indítsa újra a plasma-shell folyamatot összeomlás után"
+
+#: main.cpp:88
+#, kde-format
+msgid "Deprecated, does nothing"
+msgstr ""
+
+#: main.cpp:91
+#, kde-format
+msgid "Force loading the given shell plugin"
+msgstr "A megadott bővítmény betöltésének kényszerítése"
+
+#: main.cpp:95
+#, kde-format
+msgid ""
+"Load plasmashell as a standalone application, needs the shell-plugin option "
+"to be specified"
+msgstr ""
+"A plasmashell betöltése önálló alkalmazásként, a -plugin opció megadása "
+"szükséges"
+
+#: main.cpp:99
+#, kde-format
+msgid ""
+"Enables test mode and specifies the layout javascript file to set up the "
+"testing environment"
+msgstr ""
+
+#: main.cpp:99
+#, kde-format
+msgid "file"
+msgstr ""
+
+#: osd.cpp:58
+#, kde-format
+msgctxt "OSD informing that the system is muted, keep short"
+msgid "Audio Muted"
+msgstr "Hang elnémítva"
+
+#: osd.cpp:76
+#, kde-format
+msgctxt "OSD informing that the microphone is muted, keep short"
+msgid "Microphone Muted"
+msgstr ""
+
+#: osd.cpp:92
+#, kde-format
+msgctxt "OSD informing that some media app is muted, eg. Amarok Muted"
+msgid "%1 Muted"
+msgstr "%1 elnémítva"
+
+#: osd.cpp:112
+#, kde-format
+msgctxt "touchpad was enabled, keep short"
+msgid "Touchpad On"
+msgstr ""
+
+#: osd.cpp:114
+#, kde-format
+msgctxt "touchpad was disabled, keep short"
+msgid "Touchpad Off"
+msgstr ""
+
+#: osd.cpp:121
+#, kde-format
+msgctxt "wireless lan was enabled, keep short"
+msgid "Wifi On"
+msgstr ""
+
+#: osd.cpp:123
+#, kde-format
+msgctxt "wireless lan was disabled, keep short"
+msgid "Wifi Off"
+msgstr ""
+
+#: osd.cpp:130
+#, kde-format
+msgctxt "Bluetooth was enabled, keep short"
+msgid "Bluetooth On"
+msgstr ""
+
+#: osd.cpp:132
+#, kde-format
+msgctxt "Bluetooth was disabled, keep short"
+msgid "Bluetooth Off"
+msgstr ""
+
+#: osd.cpp:139
+#, kde-format
+msgctxt "mobile internet was enabled, keep short"
+msgid "Mobile Internet On"
+msgstr ""
+
+#: osd.cpp:141
+#, kde-format
+msgctxt "mobile internet was disabled, keep short"
+msgid "Mobile Internet Off"
+msgstr ""
+
+#: osd.cpp:148
+#, kde-format
+msgctxt ""
+"on screen keyboard was enabled because physical keyboard got unplugged, keep "
+"short"
+msgid "On-Screen Keyboard Activated"
+msgstr ""
+
+#: osd.cpp:150
+#, kde-format
+msgctxt ""
+"on screen keyboard was disabled because physical keyboard was plugged in, "
+"keep short"
+msgid "On-Screen Keyboard Deactivated"
+msgstr ""
+
+#: shellcorona.cpp:165 shellcorona.cpp:167
+#, fuzzy, kde-format
+#| msgid "Desktop"
+msgid "Show Desktop"
+msgstr "Asztal"
+
+#: shellcorona.cpp:167
+#, fuzzy, kde-format
+#| msgid "Desktop"
+msgid "Hide Desktop"
+msgstr "Asztal"
+
+#: shellcorona.cpp:185
+#, kde-format
+msgid "Activities..."
+msgstr "Aktivitások…"
+
+#: shellcorona.cpp:197
+#, kde-format
+msgid "Stop Current Activity"
+msgstr "Jelenlegi aktivitás leállítása"
+
+#: shellcorona.cpp:1332
+#, kde-format
+msgid "Unable to load script file: %1"
+msgstr "Nem sikerült betölteni a szkriptfájlt: %1"
+
+#: shellcorona.cpp:1699 shellcorona.cpp:1705
+#, kde-format
+msgid "Add Panel"
+msgstr "Panel hozzáadása"
+
+#: shellcorona.cpp:1747
+#, kde-format
+msgid "Empty %1"
+msgstr "Üres %1"
+
+#: shellcorona.cpp:1982
+#, kde-format
+msgid "Plasma Failed To Start"
+msgstr ""
+
+#: shellcorona.cpp:1983
+#, kde-format
+msgid ""
+"Plasma is unable to start as it could not correctly use OpenGL 2.\n"
+" Please check that your graphic drivers are set up correctly."
+msgstr ""
+
+#: shellmanager.cpp:179
+#, kde-format
+msgctxt "Fatal error message body"
+msgid ""
+"All shell packages missing.\n"
+"This is an installation issue, please contact your distribution"
+msgstr ""
+
+#: shellmanager.cpp:180 shellmanager.cpp:196
+#, kde-format
+msgctxt "Fatal error message title"
+msgid "Plasma Cannot Start"
+msgstr ""
+
+#: shellmanager.cpp:195
+#, kde-format
+msgctxt "Fatal error message body"
+msgid "Shell package %1 cannot be found"
+msgstr ""

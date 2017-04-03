@@ -1,0 +1,216 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Tamas Szanto <tszanto@interware.hu>, 2007.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2011, 2012, 2014.
+# Balázs Úr <urbalazs@gmail.com>, 2012, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.2\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2014-09-08 09:21+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: package/contents/code/logic.js:25
+#, kde-format
+msgid "Discharging"
+msgstr "Kisütés"
+
+#: package/contents/code/logic.js:26 package/contents/ui/batterymonitor.qml:62
+#, kde-format
+msgid "Fully Charged"
+msgstr "Teljesen feltöltött"
+
+#: package/contents/code/logic.js:27
+#, kde-format
+msgid "Charging"
+msgstr "Töltés"
+
+#: package/contents/code/logic.js:29
+#, kde-format
+msgid "Not Charging"
+msgstr "Nincs töltés"
+
+#: package/contents/code/logic.js:32
+#, kde-format
+msgctxt "Battery is currently not present in the bay"
+msgid "Not present"
+msgstr "Nincs jelen"
+
+#: package/contents/code/logic.js:40
+#, kde-format
+msgid "Time To Full:"
+msgstr "Idő a feltöltésig:"
+
+#: package/contents/code/logic.js:40
+#, kde-format
+msgid "Time To Empty:"
+msgstr "Idő a kisülésig:"
+
+#: package/contents/code/logic.js:45
+#, kde-format
+msgid "Capacity:"
+msgstr "Kapacitás:"
+
+#: package/contents/code/logic.js:46
+#, kde-format
+msgctxt "Placeholder is battery capacity"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/code/logic.js:52
+#, kde-format
+msgid "Vendor:"
+msgstr "Gyártó:"
+
+#: package/contents/code/logic.js:57
+#, kde-format
+msgid "Model:"
+msgstr "Modell:"
+
+#: package/contents/ui/BatteryItem.qml:53
+#, kde-format
+msgid ""
+"The capacity of this battery is %1%. This means it is broken and needs a "
+"replacement. Please contact your hardware vendor for more details."
+msgstr ""
+
+#: package/contents/ui/BatteryItem.qml:186
+#, kde-format
+msgctxt "Placeholder is battery percentage"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/batterymonitor.qml:56
+#, kde-format
+msgid "No Batteries Available"
+msgstr "Nincsenek akkumulátorok"
+
+#: package/contents/ui/batterymonitor.qml:60
+#, fuzzy, kde-format
+#| msgid "Keyboard Brightness"
+msgid "Battery and Brightness"
+msgstr "Billentyűzet fényereje"
+
+#: package/contents/ui/batterymonitor.qml:67
+#, kde-format
+msgid "%1%. Charging"
+msgstr "%1%. Töltés"
+
+#: package/contents/ui/batterymonitor.qml:69
+#, fuzzy, kde-format
+#| msgid "%1%. Charging"
+msgid "%1%. Plugged in, not Charging"
+msgstr "%1%. Töltés"
+
+#: package/contents/ui/batterymonitor.qml:71
+#, fuzzy, kde-format
+#| msgctxt "tooltip"
+#| msgid "Plugged in"
+msgid "%1%. Plugged in"
+msgstr "Csatlakoztatva"
+
+#: package/contents/ui/batterymonitor.qml:75
+#, kde-format
+msgctxt "%1 is remaining time, %2 is percentage"
+msgid "%1 Remaining (%2%)"
+msgstr "%1 van hátra (%2%)"
+
+#: package/contents/ui/batterymonitor.qml:79
+#, kde-format
+msgid "%1% Battery Remaining"
+msgstr "%1% van hátra"
+
+#: package/contents/ui/batterymonitor.qml:83
+#, kde-format
+msgid "Power management is disabled"
+msgstr "Az energiakezelés le van tiltva"
+
+#: package/contents/ui/batterymonitor.qml:137
+#, kde-format
+msgid "&Configure Power Saving..."
+msgstr "&Energiatakarékossági beállítások…"
+
+#: package/contents/ui/batterymonitor.qml:241
+#, kde-format
+msgid "The battery applet has enabled system-wide inhibition"
+msgstr "Az akkumulátor kisalkalmazás engedélyezte a rendszerszintű tiltást"
+
+#: package/contents/ui/CompactRepresentation.qml:80
+#, kde-format
+msgctxt "battery percentage below battery icon"
+msgid "%1%"
+msgstr "%1%"
+
+#: package/contents/ui/PopupDialog.qml:63
+#, kde-format
+msgctxt "Used for measurement"
+msgid "100%"
+msgstr ""
+
+#: package/contents/ui/PopupDialog.qml:72
+#, kde-format
+msgid "Display Brightness"
+msgstr "Kijelző fényereje"
+
+#: package/contents/ui/PopupDialog.qml:91
+#, kde-format
+msgid "Keyboard Brightness"
+msgstr "Billentyűzet fényereje"
+
+#: package/contents/ui/PowerManagementItem.qml:46
+#, kde-format
+msgid ""
+"Disabling power management will prevent your screen and computer from "
+"turning off automatically.\n"
+"\n"
+"Most applications will automatically suppress power management when they "
+"don't want to have you interrupted."
+msgstr ""
+
+#: package/contents/ui/PowerManagementItem.qml:71
+#, kde-format
+msgid "Enable Power Management"
+msgstr "Energiakezelés engedélyezése"
+
+#: package/contents/ui/PowerManagementItem.qml:79
+#, fuzzy, kde-format
+#| msgid "&Configure Power Saving..."
+msgid "Configure Power Saving..."
+msgstr "&Energiatakarékossági beállítások…"
+
+#: package/contents/ui/PowerManagementItem.qml:96
+#, kde-format
+msgid ""
+"Your notebook is configured not to suspend when closing the lid while an "
+"external monitor is connected."
+msgstr ""
+
+#: package/contents/ui/PowerManagementItem.qml:106
+#, kde-format
+msgctxt "Some Application and n others are currently suppressing PM"
+msgid "%2 and %1 other application are currently suppressing power management."
+msgid_plural ""
+"%2 and %1 other applications are currently suppressing power management."
+msgstr[0] ""
+msgstr[1] ""
+
+#: package/contents/ui/PowerManagementItem.qml:112
+#, kde-format
+msgctxt "Some Application is suppressing PM"
+msgid "%1 is currently suppressing power management."
+msgstr ""
+
+#: package/contents/ui/PowerManagementItem.qml:115
+#, kde-format
+msgctxt "Some Application is suppressing PM: Reason provided by the app"
+msgid "%1 is currently suppressing power management: %2"
+msgstr ""

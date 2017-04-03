@@ -1,0 +1,159 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Tamas Szanto <tszanto@interware.hu>, 2007.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.1\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2010-12-22 15:49+0100\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-i18n-doc@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupFinishedJobs)
+#: configdialog.ui:31
+#, kde-format
+msgid "Finished Jobs"
+msgstr "Befejezett feladatok"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_radioMove)
+#: configdialog.ui:43
+#, kde-format
+msgid "Move them to a different list"
+msgstr "Áthelyezés más listába"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_radioRemove)
+#: configdialog.ui:50
+#, kde-format
+msgid "Remove them"
+msgstr "Eltávolítás"
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupAppearance)
+#: configdialog.ui:60
+#, kde-format
+msgid "Appearance"
+msgstr "Megjelenés"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_radioList)
+#: configdialog.ui:72
+#, kde-format
+msgid "Show all jobs in a list"
+msgstr "Minden feladat kilistázása"
+
+#. i18n: ectx: property (text), widget (QRadioButton, kcfg_radioTree)
+#: configdialog.ui:79
+#, kde-format
+msgid "Show all jobs in a tree"
+msgstr "Minden feladat kilistázása fastruktúrába szervezve"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_checkShowSeparateWindows)
+#: configdialog.ui:86
+#, kde-format
+msgid "Show separate windows"
+msgstr "Külön ablakok"
+
+#: jobview.cpp:125 jobview.cpp:153
+#, kde-format
+msgid "%1 file"
+msgid_plural "%1 files"
+msgstr[0] "%1 fájl"
+msgstr[1] "%1 fájl"
+
+#: jobview.cpp:128 jobview.cpp:156
+#, kde-format
+msgid "%1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "%1 könyvtár"
+msgstr[1] "%1 könyvtár"
+
+#. i18n: ectx: label, entry, group (Configuration)
+#: kuiserversettings.kcfg:8
+#, kde-format
+msgid "Move them to a different list."
+msgstr "Áthelyezés más listába"
+
+#. i18n: ectx: label, entry, group (Configuration)
+#: kuiserversettings.kcfg:12
+#, kde-format
+msgid "Remove them."
+msgstr "Eltávolítás."
+
+#. i18n: ectx: label, entry, group (Configuration)
+#: kuiserversettings.kcfg:16
+#, kde-format
+msgid "Show all jobs in a list."
+msgstr "Minden feladat megjelenítése."
+
+#. i18n: ectx: label, entry, group (Configuration)
+#: kuiserversettings.kcfg:20
+#, kde-format
+msgid "Show all jobs in a tree."
+msgstr "Minden feladat megjelenítése fastruktúrába szervezve."
+
+#. i18n: ectx: label, entry, group (Configuration)
+#: kuiserversettings.kcfg:24
+#, kde-format
+msgid "Show separate windows."
+msgstr "Megjelenítés külön ablakokban."
+
+#: progresslistdelegate.cpp:145
+#, kde-format
+msgid "%1 of %2 processed at %3/s"
+msgstr "%2 / %1 feldolgozva - %3/s"
+
+#: progresslistdelegate.cpp:147
+#, kde-format
+msgid "%1 of %2 processed"
+msgstr "%2 / %1 feldolgozva"
+
+#: progresslistdelegate.cpp:149
+#, kde-format
+msgid "%1 processed at %2/s"
+msgstr "%1 feldolgozva - %2/s"
+
+#: progresslistdelegate.cpp:151
+#, kde-format
+msgid "%1 processed"
+msgstr "%1 feldolgozva"
+
+#: progresslistdelegate.cpp:240
+#, kde-format
+msgid "Clear"
+msgstr "Törlés"
+
+#: progresslistdelegate.cpp:268
+#, kde-format
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: progresslistdelegate.cpp:287
+#, kde-format
+msgid "Pause"
+msgstr "Szünet"
+
+#: progresslistdelegate.cpp:291
+#, kde-format
+msgid "Resume"
+msgstr "Folytatás"
+
+#: uiserver.cpp:44
+#, kde-format
+msgid "Configure..."
+msgstr "Beállítás..."
+
+#: uiserver.cpp:79
+#, kde-format
+msgid "List of running file transfers/jobs (kuiserver)"
+msgstr "Futó fájlátvitelek és feladatok listája (kuiserver)"
+
+#: uiserver.cpp:125
+#, kde-format
+msgid "Behavior"
+msgstr "Működés"

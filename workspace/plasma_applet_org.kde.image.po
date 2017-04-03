@@ -1,0 +1,154 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Tamas Szanto <tszanto@interware.hu>, 2009.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2011, 2014, 2015.
+# Balázs Úr <urbalazs@gmail.com>, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.2\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-30 05:09+0100\n"
+"PO-Revision-Date: 2015-03-27 14:09+0100\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: image.cpp:221
+#, kde-format
+msgid "Recommended wallpaper file"
+msgstr "Ajánlott háttérképfájl"
+
+#: image.cpp:360
+#, kde-format
+msgid "Directory with the wallpaper to show slides from"
+msgstr "Diavetítés háttérképeit tartalmazó mappa"
+
+#: image.cpp:616
+#, kde-format
+msgid "Download Wallpapers"
+msgstr "Háttérképek letöltése"
+
+#: image.cpp:663
+#, kde-format
+msgid "Open Image"
+msgstr "Kép megnyitása"
+
+#: image.cpp:665
+#, kde-format
+msgid "Image Files"
+msgstr "Képfájlok"
+
+#: imagepackage/contents/ui/config.qml:78
+#, kde-format
+msgid "Positioning:"
+msgstr "Elhelyezkedés:"
+
+#: imagepackage/contents/ui/config.qml:87
+#, kde-format
+msgid "Scaled and Cropped"
+msgstr "Nyújtva és levágva"
+
+#: imagepackage/contents/ui/config.qml:91
+#, kde-format
+msgid "Scaled"
+msgstr "Nyújtva"
+
+#: imagepackage/contents/ui/config.qml:95
+#, kde-format
+msgid "Scaled, Keep Proportions"
+msgstr "Arányosan nyújtva"
+
+#: imagepackage/contents/ui/config.qml:99
+#, kde-format
+msgid "Centered"
+msgstr "Középre"
+
+#: imagepackage/contents/ui/config.qml:103
+#, kde-format
+msgid "Tiled"
+msgstr "Mozaikszerűen"
+
+#: imagepackage/contents/ui/config.qml:128
+#, kde-format
+msgid "Select Background Color"
+msgstr "Válassza ki a háttér színét"
+
+#: imagepackage/contents/ui/config.qml:138
+#, kde-format
+msgid "Background Color:"
+msgstr "Háttérszín:"
+
+#: imagepackage/contents/ui/config.qml:174
+#, kde-format
+msgid "Change every:"
+msgstr "Váltási időköz:"
+
+#: imagepackage/contents/ui/config.qml:189
+#, kde-format
+msgid "Hours"
+msgstr "óra"
+
+#: imagepackage/contents/ui/config.qml:207
+#, kde-format
+msgid "Minutes"
+msgstr "perc"
+
+#: imagepackage/contents/ui/config.qml:225
+#, kde-format
+msgid "Seconds"
+msgstr "másodperc"
+
+#: imagepackage/contents/ui/config.qml:345
+#, kde-format
+msgid "Add Folder"
+msgstr "Mappa hozzáadása"
+
+#: imagepackage/contents/ui/config.qml:351
+#, kde-format
+msgid "Open..."
+msgstr "Megnyitás…"
+
+#: imagepackage/contents/ui/config.qml:356
+#, kde-format
+msgid "Get New Wallpapers..."
+msgstr "Háttérképek letöltése…"
+
+#: imagepackage/contents/ui/main.qml:158
+#, kde-format
+msgid "Open Wallpaper Image"
+msgstr "Háttérkép megnyitása"
+
+#: imagepackage/contents/ui/main.qml:159
+#, kde-format
+msgid "Next Wallpaper Image"
+msgstr "Következő háttérkép"
+
+#: imagepackage/contents/ui/WallpaperDelegate.qml:92
+#: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:89
+#, kde-format
+msgid "Remove wallpaper"
+msgstr "Háttérkép eltávolítása"
+
+#: imagepackage/contents/ui/WallpaperDelegate.qml:117
+#, fuzzy, kde-format
+#| msgid "Remove wallpaper"
+msgid "Restore wallpaper"
+msgstr "Háttérkép eltávolítása"
+
+#: imagepackage/contents/ui/WallpaperDelegate.qml:155
+#: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:119
+#, kde-format
+msgid "%1 by %2"
+msgstr "%1, készítette: %2"
+
+#: imagepackage/platformcontents/phone/ui/config.qml:81
+#, fuzzy, kde-format
+#| msgid "Remove wallpaper"
+msgid "Add Custom Wallpaper"
+msgstr "Háttérkép eltávolítása"

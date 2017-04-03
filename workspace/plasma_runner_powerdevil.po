@@ -1,0 +1,149 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Tamas Szanto <tszanto@interware.hu>, 2009.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.2\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
+"PO-Revision-Date: 2010-10-07 22:41+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Magyar <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.0\n"
+
+#: PowerDevilRunner.cpp:55 PowerDevilRunner.cpp:74 PowerDevilRunner.cpp:190
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "power profile"
+msgstr "energiakezelési profil"
+
+#: PowerDevilRunner.cpp:56 PowerDevilRunner.cpp:76 PowerDevilRunner.cpp:244
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "suspend"
+msgstr "felfüggesztés"
+
+#: PowerDevilRunner.cpp:57 PowerDevilRunner.cpp:83 PowerDevilRunner.cpp:254
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "sleep"
+msgstr "alvás"
+
+#: PowerDevilRunner.cpp:58 PowerDevilRunner.cpp:90 PowerDevilRunner.cpp:257
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "hibernate"
+msgstr "hibernálás"
+
+#: PowerDevilRunner.cpp:59 PowerDevilRunner.cpp:92 PowerDevilRunner.cpp:258
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "to disk"
+msgstr "lemezre"
+
+#: PowerDevilRunner.cpp:60 PowerDevilRunner.cpp:85 PowerDevilRunner.cpp:255
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "to ram"
+msgstr "memóriába"
+
+#: PowerDevilRunner.cpp:61 PowerDevilRunner.cpp:96 PowerDevilRunner.cpp:209
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "screen brightness"
+msgstr "fényerő"
+
+#: PowerDevilRunner.cpp:62 PowerDevilRunner.cpp:100 PowerDevilRunner.cpp:211
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "dim screen"
+msgstr "sötétítés"
+
+#: PowerDevilRunner.cpp:75
+#, kde-format
+msgid "Lists all power profiles and allows them to be activated"
+msgstr ""
+"Kilistáza az energiakezelési profilokat és lehetővé teszi aktiválásukat"
+
+#: PowerDevilRunner.cpp:77
+#, kde-format
+msgid ""
+"Lists system suspend (e.g. sleep, hibernate) options and allows them to be "
+"activated"
+msgstr ""
+"Kilistázza a rendszer felfüggesztési (például alvó mód, hibernálás) "
+"beállításait és lehetővé teszi aktiválásukat"
+
+#: PowerDevilRunner.cpp:84
+#, kde-format
+msgid "Suspends the system to RAM"
+msgstr "Felfüggeszti a rendszert a memóriába"
+
+#: PowerDevilRunner.cpp:91
+#, kde-format
+msgid "Suspends the system to disk"
+msgstr "Felfüggeszti a rendszert lemezre"
+
+#: PowerDevilRunner.cpp:98
+#, no-c-format, kde-format
+msgid ""
+"Lists screen brightness options or sets it to the brightness defined by :q:; "
+"e.g. screen brightness 50 would dim the screen to 50% maximum brightness"
+msgstr ""
+"Kilistázza a fényerőbeállításokat és a :q: által definiált értéket állítja "
+"be; „fényerő 50” például a maximális fényerő felére sötétíti a képernyőt"
+
+#: PowerDevilRunner.cpp:189
+#, kde-format
+msgctxt "Note this is a KRunner keyword; %1 is a parameter"
+msgid "power profile %1"
+msgstr "energiakezelési profil %1"
+
+#: PowerDevilRunner.cpp:201
+#, kde-format
+msgid "Set Profile to '%1'"
+msgstr "Profil aktiválása: „%1”"
+
+#: PowerDevilRunner.cpp:208
+#, kde-format
+msgctxt "Note this is a KRunner keyword; %1 is a parameter"
+msgid "screen brightness %1"
+msgstr "fényerő %1"
+
+#: PowerDevilRunner.cpp:210
+#, kde-format
+msgctxt "Note this is a KRunner keyword; %1 is a parameter"
+msgid "dim screen %1"
+msgstr "sötétítés %1"
+
+#: PowerDevilRunner.cpp:221
+#, kde-format
+msgid "Set Brightness to %1"
+msgstr "Fényerő beállítása: %1"
+
+#: PowerDevilRunner.cpp:231
+#, kde-format
+msgid "Dim screen totally"
+msgstr "Teljes elsötétítés"
+
+#: PowerDevilRunner.cpp:239
+#, kde-format
+msgid "Dim screen by half"
+msgstr "Fele fényerő"
+
+#: PowerDevilRunner.cpp:276
+#, kde-format
+msgid "Suspend to RAM"
+msgstr "Felfüggesztés memóriába"
+
+#: PowerDevilRunner.cpp:281
+#, kde-format
+msgid "Suspend to Disk"
+msgstr "Felfüggesztés lemezre"

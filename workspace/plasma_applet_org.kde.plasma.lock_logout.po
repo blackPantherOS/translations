@@ -1,0 +1,113 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Tamas Szanto <tszanto@interware.hu>, 2009.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2011, 2012, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.3\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2016-11-23 05:04+0100\n"
+"PO-Revision-Date: 2014-08-29 11:35+0200\n"
+"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: contents/code/data.js:4 contents/ui/ConfigGeneral.qml:74
+#, kde-format
+msgid "Lock"
+msgstr "Zárolás"
+
+#: contents/code/data.js:5
+#, kde-format
+msgid "Lock the screen"
+msgstr "Képernyőzárolás"
+
+#: contents/code/data.js:10
+#, kde-format
+msgid "Switch user"
+msgstr "Felhasználóváltás"
+
+#: contents/code/data.js:11
+#, kde-format
+msgid "Start a parallel session as a different user"
+msgstr "Párhuzamos munkamenet indítása másik felhasználóként"
+
+#: contents/code/data.js:15
+#, kde-format
+msgid "Leave..."
+msgstr "Kilépés…"
+
+#: contents/code/data.js:16
+#, kde-format
+msgid "Logout, turn off or restart the computer"
+msgstr "Kijelentkezés és a számítógép kikapcsolása vagy újraindítása"
+
+#: contents/code/data.js:20 contents/ui/ConfigGeneral.qml:89
+#: contents/ui/lockout.qml:141
+#, kde-format
+msgid "Suspend"
+msgstr "Felfüggesztés"
+
+#: contents/code/data.js:21
+#, kde-format
+msgid "Sleep (suspend to RAM)"
+msgstr "Alvó állapot (felfüggesztés memóriába)"
+
+#: contents/code/data.js:26 contents/ui/ConfigGeneral.qml:84
+#: contents/ui/lockout.qml:125
+#, kde-format
+msgid "Hibernate"
+msgstr "Hibernálás"
+
+#: contents/code/data.js:27
+#, kde-format
+msgid "Hibernate (suspend to disk)"
+msgstr "Hibernálás (felfüggesztés merevlemezre)"
+
+#: contents/config/config.qml:26
+#, kde-format
+msgid "General"
+msgstr "Általános"
+
+#: contents/ui/ConfigGeneral.qml:61
+#, fuzzy, kde-format
+#| msgid "Actions"
+msgctxt "Heading for list of actions (leave, lock, shutdown, ...)"
+msgid "Actions"
+msgstr "Műveletek"
+
+#: contents/ui/ConfigGeneral.qml:68
+#, kde-format
+msgid "Leave"
+msgstr "Kilépés"
+
+#: contents/ui/ConfigGeneral.qml:79
+#, kde-format
+msgid "Switch User"
+msgstr "Felhasználóváltás"
+
+#: contents/ui/lockout.qml:126
+#, kde-format
+msgid "Do you want to suspend to disk (hibernate)?"
+msgstr "Szeretne felfüggeszteni a merevlemezre (hibernálás)?"
+
+#: contents/ui/lockout.qml:129 contents/ui/lockout.qml:145
+#, kde-format
+msgid "Yes"
+msgstr "Igen"
+
+#: contents/ui/lockout.qml:130 contents/ui/lockout.qml:146
+#, kde-format
+msgid "No"
+msgstr "Nem"
+
+#: contents/ui/lockout.qml:142
+#, kde-format
+msgid "Do you want to suspend to RAM (sleep)?"
+msgstr "Szeretne felfüggeszteni a memóriába (alvó állapot)?"
