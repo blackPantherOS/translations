@@ -7,50 +7,50 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 22:53+0100\n"
-"PO-Revision-Date: 2014-08-28 19:51+0200\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 14:34+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #: contents/ui/BarcodePage.qml:53
 #, kde-format
 msgid "Return to Clipboard"
-msgstr ""
+msgstr "Visszatérés a vágólaphoz"
 
 #: contents/ui/BarcodePage.qml:64
 #, kde-format
 msgid "QR Code"
-msgstr ""
+msgstr "QR-kód"
 
 #: contents/ui/BarcodePage.qml:70
 #, kde-format
 msgid "Data Matrix"
-msgstr ""
+msgstr "Adatmátrix"
 
 #: contents/ui/BarcodePage.qml:76
 #, kde-format
 msgid "Code 39"
-msgstr ""
+msgstr "Kód 39"
 
 #: contents/ui/BarcodePage.qml:82
 #, kde-format
 msgid "Code 93"
-msgstr ""
+msgstr "Kód 93"
 
 #: contents/ui/BarcodePage.qml:91
 #, kde-format
 msgid "Change the barcode type"
-msgstr ""
+msgstr "Bárkód típus váltása"
 
 #: contents/ui/BarcodePage.qml:109
 #, kde-format
 msgid "Creating barcode failed"
-msgstr ""
+msgstr "A bárkód létrehozása sikertelen"
 
 #: contents/ui/clipboard.qml:33
 #, kde-format
@@ -65,7 +65,7 @@ msgstr "A vágólap üres"
 #: contents/ui/clipboard.qml:44
 #, kde-format
 msgid "Configure Clipboard..."
-msgstr ""
+msgstr "A vágólap beállítása.."
 
 #: contents/ui/ClipboardItemDelegate.qml:228
 #, kde-format
@@ -95,10 +95,9 @@ msgid "Remove from history"
 msgstr "Eltávolítás az előzményekből"
 
 #: contents/ui/ClipboardPage.qml:87
-#, fuzzy, kde-format
-#| msgid "Clipboard is empty"
+#, kde-format
 msgid "Clipboard history is empty."
-msgstr "A vágólap üres"
+msgstr "A vágólapelőzmény üres."
 
 #: contents/ui/ClipboardPage.qml:96
 #, kde-format

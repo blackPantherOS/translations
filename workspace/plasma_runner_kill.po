@@ -7,26 +7,25 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 22:53+0100\n"
-"PO-Revision-Date: 2010-03-07 08:35+0100\n"
-"Last-Translator: Laszlo Papp <djszapi@archlinux.us>\n"
+"PO-Revision-Date: 2017-04-03 15:00+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-i18n-doc@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: Poedit 1.8.12\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: killrunner.cpp:63 killrunner_config.cpp:62 killrunner_config.cpp:88
 #, kde-format
 msgid "kill"
-msgstr "meggyilkolás"
+msgstr "leölés"
 
 #: killrunner.cpp:69
 #, kde-format
 msgid "Terminate running applications whose names match the query."
-msgstr ""
-"Azon futó alkalmazások befejezése, melyeknek a neve egyezik a kéréssel."
+msgstr "Azon futó alkalmazások befejezése, melyeknek a neve egyezik a kéréssel."
 
 #: killrunner.cpp:142
 #, kde-format

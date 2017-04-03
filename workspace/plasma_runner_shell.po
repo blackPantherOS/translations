@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: KDE 4.2\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 22:53+0100\n"
-"PO-Revision-Date: 2011-07-30 22:34+0200\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 14:54+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-i18n-doc@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.2\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, lbUsername)
 #. i18n: ectx: property (whatsThis), widget (KLineEdit, leUsername)
@@ -93,7 +93,6 @@ msgid "Run %1"
 msgstr "Futtatás: %1"
 
 #: shellrunner.cpp:94
-#, fuzzy, kde-format
-#| msgid "Run in &terminal window"
+#, kde-format
 msgid "Run in Terminal Window"
-msgstr "Futtatás &terminálban"
+msgstr "Futtatás terminál ablakban"

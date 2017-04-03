@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: KDE 4.3\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 22:53+0100\n"
-"PO-Revision-Date: 2015-02-24 16:01+0100\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 15:09+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #: bbcukmet_i18n.dat:1 bbcukmet_i18n.dat:4
 #: ions/wetter.com/ion_wettercom.cpp:236
@@ -565,9 +565,7 @@ msgid "white cloud"
 msgstr "fehér felhő"
 
 #: bbcukmet_i18n.dat:94
-#, fuzzy, kde-format
-#| msgctxt "visibility"
-#| msgid "Very good"
+#, kde-format
 msgctxt "visibility"
 msgid "Very Good"
 msgstr "Nagyon jó"
@@ -591,9 +589,7 @@ msgid "Poor"
 msgstr "Rossz"
 
 #: bbcukmet_i18n.dat:98
-#, fuzzy, kde-format
-#| msgctxt "visibility"
-#| msgid "Very poor"
+#, kde-format
 msgctxt "visibility"
 msgid "Very Poor"
 msgstr "Nagyon rossz"
@@ -2664,7 +2660,7 @@ msgstr "P"
 #, kde-format
 msgctxt "credit line, keep string short"
 msgid "Data from BBC Weather"
-msgstr ""
+msgstr "Adat a BBC időjárásokból"
 
 #: ions/envcan/ion_envcan.cpp:879 ions/envcan/ion_envcan.cpp:881
 #: ions/envcan/ion_envcan.cpp:1384 ions/envcan/ion_envcan.cpp:1534
@@ -2701,14 +2697,13 @@ msgstr "Nyomokban"
 #, kde-format
 msgctxt "credit line, keep string short"
 msgid "Data from Environment Canada"
-msgstr ""
+msgstr "Adat Kanada környezetéből"
 
 #: ions/noaa/ion_noaa.cpp:645
-#, fuzzy, kde-format
-#| msgid "Data provided by NOAA National Weather Service"
+#, kde-format
 msgctxt "credit line, keep string short)"
 msgid "Data from NOAA National Weather Service"
-msgstr "Az adatokat a NOAA National Weather Service szolgáltatja"
+msgstr "Az adatokat a NOAA nemzetközi időjárás szolgáltatótól"
 
 #: ions/wetter.com/ion_wettercom.cpp:171 ions/wetter.com/ion_wettercom.cpp:172
 #, kde-format

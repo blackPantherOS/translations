@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: KDE 4.3\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 22:53+0100\n"
-"PO-Revision-Date: 2015-03-26 12:18+0100\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 14:20+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -469,20 +469,14 @@ msgstr ""
 "Bugsquad'>csatlakozna a Hibabrigád csapatba</link>."
 
 #: applicationdetailsexamples.cpp:34
-#, fuzzy, kde-format
-#| msgctxt "@info examples about information the user can provide"
-#| msgid ""
-#| "Widgets you have in your desktop and panels (both official and "
-#| "unofficial), desktop settings (wallpaper plugin, themes), activities, and "
-#| "dashboard configuration."
+#, kde-format
 msgctxt "@info examples about information the user can provide"
 msgid ""
 "Widgets you have in your desktop and panels (both official and unofficial), "
 "desktop settings (wallpaper plugin, themes) and activities."
 msgstr ""
-"Az asztalon és a paneleken lévő widgetek (hivatalosak és nem hivatalosak), "
-"asztali beállítások (háttérképmodul, témák), aktivitások, és az áttekintő "
-"nézet beállításai."
+"Az asztalon és a paneleken lévő widgetek (hivatalos és nem hivatalos), "
+"asztali beállítások (háttérképmodul, témák) és aktivitások"
 
 #: applicationdetailsexamples.cpp:38
 #, kde-format
@@ -1289,7 +1283,7 @@ msgstr "Mandriva"
 #, kde-format
 msgctxt "@label:listbox KDE distribution method"
 msgid "Neon"
-msgstr ""
+msgstr "Neon"
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:446
 #, kde-format
@@ -2900,24 +2894,22 @@ msgstr "A meghiúsult szál <szálazonosítója>"
 #, kde-format
 msgctxt "Placeholder is an application name; it crashed"
 msgid "%1 Closed Unexpectedly"
-msgstr ""
+msgstr "%1 váratlanul bezárult"
 
 #: statusnotifier.cpp:62 statusnotifier.cpp:121
 #, kde-format
 msgid "Please report this error to help improve this software."
 msgstr ""
+"Segíts nekünk azzal, hogy jelented ezt a hibát, hogy jobbá tehessük ezt a "
+"szoftvert."
 
 #: statusnotifier.cpp:70
-#, fuzzy, kde-format
-#| msgctxt "@action:button"
-#| msgid "Report &Bug"
+#, kde-format
 msgid "Report &Bug"
 msgstr "Hiba &bejelentése"
 
 #: statusnotifier.cpp:77
-#, fuzzy, kde-format
-#| msgctxt "@action:button"
-#| msgid "&Restart Application"
+#, kde-format
 msgid "&Restart Application"
 msgstr "&Alkalmazás újraindítása"
 
@@ -2925,20 +2917,16 @@ msgstr "&Alkalmazás újraindítása"
 #, kde-format
 msgctxt "Allows the user to hide this notifier item"
 msgid "Hide"
-msgstr ""
+msgstr "Elrejtés"
 
 #: statusnotifier.cpp:126
-#, fuzzy, kde-format
-#| msgctxt "@action:button"
-#| msgid "Report &Bug"
+#, kde-format
 msgctxt "Notification action button, keep short"
 msgid "Report Bug"
 msgstr "Hiba &bejelentése"
 
 #: statusnotifier.cpp:131
-#, fuzzy, kde-format
-#| msgctxt "@action:button"
-#| msgid "&Restart Application"
+#, kde-format
 msgctxt "Notification action button, keep short"
 msgid "Restart App"
 msgstr "&Alkalmazás újraindítása"
@@ -2948,96 +2936,3 @@ msgstr "&Alkalmazás újraindítása"
 #, kde-format
 msgid "Show backtrace content (advanced)"
 msgstr "Visszakövetés tartalmának megjelenítése (haladó)"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Tamas Szanto <tszanto@interware.hu>, 2000.
-#

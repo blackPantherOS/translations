@@ -7,25 +7,25 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2017-01-28 08:34+0100\n"
-"PO-Revision-Date: 2015-03-23 16:09+0100\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 15:08+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Kiszel Kristóf"
+msgstr "Kiszel Kristóf, Charles K Barcza"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "ulysses@kubuntu.org"
+msgstr "ulysses@kubuntu.org, info@blackpanther.hu"
 
 #: containmentconfigview.cpp:137
 #, kde-format
@@ -33,10 +33,9 @@ msgid "Main Script File"
 msgstr "Fő szkriptfájl"
 
 #: currentcontainmentactionsmodel.cpp:204
-#, fuzzy, kde-format
-#| msgid "Configure Plugin"
+#, kde-format
 msgid "Configure Mouse Actions Plugin"
-msgstr "Bővítmény beállítása"
+msgstr "Egérművelet modul beállítása"
 
 #: main.cpp:62
 #, kde-format
@@ -66,7 +65,7 @@ msgstr "Ne indítsa újra a plasma-shell folyamatot összeomlás után"
 #: main.cpp:88
 #, kde-format
 msgid "Deprecated, does nothing"
-msgstr ""
+msgstr "Ez semmit nem csinál, elavult"
 
 #: main.cpp:91
 #, kde-format
@@ -88,11 +87,13 @@ msgid ""
 "Enables test mode and specifies the layout javascript file to set up the "
 "testing environment"
 msgstr ""
+"Engedélyezi teszt módban és lehetővé teszi az elrendezési js fájl "
+"beállítását a teszt környezetben."
 
 #: main.cpp:99
 #, kde-format
 msgid "file"
-msgstr ""
+msgstr "fájl"
 
 #: osd.cpp:58
 #, kde-format
@@ -104,7 +105,7 @@ msgstr "Hang elnémítva"
 #, kde-format
 msgctxt "OSD informing that the microphone is muted, keep short"
 msgid "Microphone Muted"
-msgstr ""
+msgstr "Mikrofon némítva"
 
 #: osd.cpp:92
 #, kde-format
@@ -116,49 +117,49 @@ msgstr "%1 elnémítva"
 #, kde-format
 msgctxt "touchpad was enabled, keep short"
 msgid "Touchpad On"
-msgstr ""
+msgstr "Érintőtábla bekapcsolva"
 
 #: osd.cpp:114
 #, kde-format
 msgctxt "touchpad was disabled, keep short"
 msgid "Touchpad Off"
-msgstr ""
+msgstr "Érintőtábla kikapcsova"
 
 #: osd.cpp:121
 #, kde-format
 msgctxt "wireless lan was enabled, keep short"
 msgid "Wifi On"
-msgstr ""
+msgstr "WIFI bekapcsolva"
 
 #: osd.cpp:123
 #, kde-format
 msgctxt "wireless lan was disabled, keep short"
 msgid "Wifi Off"
-msgstr ""
+msgstr "WIFI kikapcsolva"
 
 #: osd.cpp:130
 #, kde-format
 msgctxt "Bluetooth was enabled, keep short"
 msgid "Bluetooth On"
-msgstr ""
+msgstr "Bluetooth bekapcsolva"
 
 #: osd.cpp:132
 #, kde-format
 msgctxt "Bluetooth was disabled, keep short"
 msgid "Bluetooth Off"
-msgstr ""
+msgstr "Bluetooth kikapcsova"
 
 #: osd.cpp:139
 #, kde-format
 msgctxt "mobile internet was enabled, keep short"
 msgid "Mobile Internet On"
-msgstr ""
+msgstr "Mobil internet bekapcsolva"
 
 #: osd.cpp:141
 #, kde-format
 msgctxt "mobile internet was disabled, keep short"
 msgid "Mobile Internet Off"
-msgstr ""
+msgstr "Mobil internet kikapcsolva"
 
 #: osd.cpp:148
 #, kde-format
@@ -166,7 +167,7 @@ msgctxt ""
 "on screen keyboard was enabled because physical keyboard got unplugged, keep "
 "short"
 msgid "On-Screen Keyboard Activated"
-msgstr ""
+msgstr "Képernyő-billentyűzet aktiválva"
 
 #: osd.cpp:150
 #, kde-format
@@ -174,19 +175,17 @@ msgctxt ""
 "on screen keyboard was disabled because physical keyboard was plugged in, "
 "keep short"
 msgid "On-Screen Keyboard Deactivated"
-msgstr ""
+msgstr "Képernyő-billentyűzet nincs aktiválva"
 
 #: shellcorona.cpp:165 shellcorona.cpp:167
-#, fuzzy, kde-format
-#| msgid "Desktop"
+#, kde-format
 msgid "Show Desktop"
-msgstr "Asztal"
+msgstr "Asztal megjelenítése"
 
 #: shellcorona.cpp:167
-#, fuzzy, kde-format
-#| msgid "Desktop"
+#, kde-format
 msgid "Hide Desktop"
-msgstr "Asztal"
+msgstr "Asztal elrejtése"
 
 #: shellcorona.cpp:185
 #, kde-format
@@ -216,7 +215,7 @@ msgstr "Üres %1"
 #: shellcorona.cpp:1982
 #, kde-format
 msgid "Plasma Failed To Start"
-msgstr ""
+msgstr "Plasma indítása sikertelen"
 
 #: shellcorona.cpp:1983
 #, kde-format
@@ -224,6 +223,9 @@ msgid ""
 "Plasma is unable to start as it could not correctly use OpenGL 2.\n"
 " Please check that your graphic drivers are set up correctly."
 msgstr ""
+"Plazmát nem lehetett elindítani, mert nem tudta rendesen használni OpenGL "
+"2.\n"
+"Kérjük ellenőrizze, hogy a grafikus meghajtó beállításai helyesek-e."
 
 #: shellmanager.cpp:179
 #, kde-format
@@ -232,15 +234,17 @@ msgid ""
 "All shell packages missing.\n"
 "This is an installation issue, please contact your distribution"
 msgstr ""
+"Minden parancssoros csomag hiányzik.\n"
+"Ez egy telepítési probléma, kérlek lépj kapcsolatba a disztribúcióddal"
 
 #: shellmanager.cpp:180 shellmanager.cpp:196
 #, kde-format
 msgctxt "Fatal error message title"
 msgid "Plasma Cannot Start"
-msgstr ""
+msgstr "Nem lehetett elindítani a Plasma-t"
 
 #: shellmanager.cpp:195
 #, kde-format
 msgctxt "Fatal error message body"
 msgid "Shell package %1 cannot be found"
-msgstr ""
+msgstr "\"%1\" parancssoros csomag nem található"

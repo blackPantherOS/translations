@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-11-19 22:53+0100\n"
-"PO-Revision-Date: 2015-03-23 16:04+0100\n"
-"Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
+"PO-Revision-Date: 2017-04-03 15:09+0200\n"
+"Last-Translator: Barcza Károly <kbarcza@blackpanther.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.12\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: soliddeviceengine.cpp:128
@@ -621,22 +621,19 @@ msgid "Camera Battery"
 msgstr "Kamera akkumulátor"
 
 #: soliddeviceengine.cpp:404
-#, fuzzy, kde-format
-#| msgid "Mouse Battery"
+#, kde-format
 msgid "Phone Battery"
-msgstr "Egér akkumulátor"
+msgstr "Telefon akkumulátor"
 
 #: soliddeviceengine.cpp:405
-#, fuzzy, kde-format
-#| msgid "Mouse Battery"
+#, kde-format
 msgid "Monitor Battery"
-msgstr "Egér akkumulátor"
+msgstr "Monitor akkumulátor"
 
 #: soliddeviceengine.cpp:408
-#, fuzzy, kde-format
-#| msgid "Charging"
+#, kde-format
 msgid "Not Charging"
-msgstr "Töltés"
+msgstr "Nincs töltés"
 
 #: soliddeviceengine.cpp:408
 #, kde-format
